@@ -1,0 +1,28 @@
+---
+import { getHeadings } from 'astro';
+
+interface Props {
+  headings: ReturnType<typeof getHeadings>;
+}
+
+const { headings } = Astro.props;
+
+const toc = headings
+  .filter(({ depth }) => depth >= 2 && depth <= 3)
+  .map(({ slug, text, depth }) => ({ slug, text, depth }));
+---
+
+{toc.length > 0 && (
+  <nav class="bg-secondary border border-primary/10 rounded-lg p-6 mb-8">
+    <h2 class="font-display font-bold text-primary mb-4">Table of Contents</h2>
+    <ul class="space-y-2 text-sm">
+      {toc.map(({ slug, text, depth }) => (
+        <li style={{ marginLeft: `${(depth - 2) * 1.5}rem` }}>
+          <a href={`#${slug}`} class="text-accent hover:underline">
+            {text}
+          </a>
+        </li>
+      ))}
+    </ul>
+  </nav>
+)}

@@ -1,0 +1,62 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import PostCard from '../components/PostCard.astro';
+import { getCollection } from 'astro:content';
+import { SITE_TITLE, SITE_DESCRIPTION, PILLARS } from '../consts';
+
+const allPosts = await getCollection('posts');
+const recentPosts = allPosts
+  .filter((p) => !p.data.draft)
+  .sort((a, b) => b.data.pubDate.getTime() - a.data.pubDate.getTime())
+  .slice(0, 5);
+---
+
+<BaseLayout title={SITE_TITLE} description={SITE_DESCRIPTION}>
+  <div class="container-main py-20">
+    <!-- Hero Section -->
+    <section class="mb-20 text-center max-w-2xl mx-auto">
+      <h1 class="font-display text-5xl md:text-6xl font-bold text-primary mb-6">
+        Rumroom World
+      </h1>
+      <p class="text-2xl text-primary/80 mb-8">
+        {SITE_DESCRIPTION}
+      </p>
+      <a href="#recent" class="btn-primary">
+        Explore articles
+      </a>
+    </section>
+
+    <!-- Pillars Section -->
+    <section class="mb-20">
+      <h2 class="font-display text-3xl font-bold text-primary mb-12 text-center">
+        Where I write about
+      </h2>
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-8 max-w-3xl mx-auto">
+        {PILLARS.map((pillar) => (
+          <a
+            href={`/${pillar.slug}/`}
+            class="border border-primary/10 rounded-lg p-8 text-center hover:border-accent hover:bg-accent/5 transition-all"
+          >
+            <div class="text-5xl mb-4">{pillar.emoji}</div>
+            <h3 class="font-display text-2xl font-bold text-primary">{pillar.name}</h3>
+          </a>
+        ))}
+        <div class="border border-primary/10 rounded-lg p-8 text-center bg-primary/5">
+          <div class="text-5xl mb-4">🌍</div>
+          <h3 class="font-display text-2xl font-bold text-primary">More coming soon</h3>
+          <p class="text-primary/60 text-sm mt-2">Spain, France, Portugal, Hungary...</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- Recent Articles -->
+    <section id="recent">
+      <h2 class="font-display text-3xl font-bold text-primary mb-12">Latest Articles</h2>
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+        {recentPosts.map((post) => (
+          <PostCard post={post} />
+        ))}
+      </div>
+    </section>
+  </div>
+</BaseLayout>

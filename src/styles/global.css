@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:wght@400;500;600;700&family=Inter:wght@400;500;600&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-secondary text-primary font-body antialiased;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4 {
+    @apply font-display;
+  }
+}
+
+@layer components {
+  .prose-article {
+    @apply prose prose-lg prose-stone max-w-prose mx-auto;
+  }
+
+  .container-main {
+    @apply max-w-7xl mx-auto px-4 sm:px-6 lg:px-8;
+  }
+
+  .btn-primary {
+    @apply inline-block px-6 py-3 bg-accent text-secondary font-semibold rounded-lg hover:bg-orange-600 transition-colors;
+  }
+
+  .btn-secondary {
+    @apply inline-block px-6 py-3 bg-primary text-secondary font-semibold rounded-lg hover:bg-gray-800 transition-colors;
+  }
+
+  .affiliate-disclosure {
+    @apply bg-soft/10 border-l-4 border-soft p-4 mb-8 text-sm italic;
+  }
+}

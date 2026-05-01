@@ -1,0 +1,33 @@
+---
+import affiliatesData from '../data/affiliates.json';
+
+interface Props {
+  slug: string;
+}
+
+const { slug } = Astro.props;
+const affiliate = affiliatesData[slug as keyof typeof affiliatesData];
+
+if (!affiliate) {
+  console.warn(`Affiliate ${slug} not found in affiliates.json`);
+}
+---
+
+{affiliate && (
+  <div class="border border-accent/20 bg-accent/5 rounded-lg p-6 my-8">
+    <div class="flex items-start gap-4">
+      <div class="flex-1">
+        <h4 class="font-display font-bold text-primary text-lg mb-2">{affiliate.name}</h4>
+        <p class="text-primary/80 text-sm mb-4">{affiliate.blurb}</p>
+        <a
+          href={affiliate.url}
+          target="_blank"
+          rel="sponsored noopener"
+          class="btn-primary text-sm"
+        >
+          {affiliate.cta} →
+        </a>
+      </div>
+    </div>
+  </div>
+)}

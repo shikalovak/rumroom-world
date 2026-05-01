@@ -1,0 +1,66 @@
+---
+import type { CollectionEntry } from 'astro:content';
+import BaseLayout from './BaseLayout.astro';
+import AffiliateDisclosure from '../components/AffiliateDisclosure.astro';
+import AuthorBio from '../components/AuthorBio.astro';
+import RelatedPosts from '../components/RelatedPosts.astro';
+import EmailMagnet from '../components/EmailMagnet.astro';
+
+interface Props {
+  post: CollectionEntry<'posts'>;
+}
+
+const { post } = Astro.props;
+const { title, description, pubDate, updatedDate, heroImage, heroImageAlt, author, readingTime } = post.data;
+const { Content } = await post.render();
+
+const country = post.data.cluster.split('/')[0];
+const countryName = country.charAt(0).toUpperCase() + country.slice(1);
+---
+
+<BaseLayout title={title} description={description} image={heroImage} pubDate={pubDate} author={author}>
+  <article class="container-main py-12">
+    <!-- Hero Image -->
+    {heroImage && (
+      <img
+        src={heroImage}
+        alt={heroImageAlt || title}
+        class="w-full h-96 object-cover rounded-lg mb-12"
+      />
+    )}
+
+    <!-- Title and Meta -->
+    <header class="mb-8">
+      <h1 class="font-display text-4xl md:text-5xl font-bold text-primary mb-4">{title}</h1>
+      <div class="flex flex-col md:flex-row md:items-center gap-4 text-sm text-primary/60 mb-6">
+        <time datetime={pubDate.toISOString()}>
+          {pubDate.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}
+        </time>
+        {readingTime && <span>{readingTime} min read</span>}
+        {updatedDate && (
+          <span>
+            Updated {updatedDate.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}
+          </span>
+        )}
+      </div>
+      <p class="text-lg text-primary/80 italic">{description}</p>
+    </header>
+
+    <!-- Affiliate Disclosure -->
+    <AffiliateDisclosure />
+
+    <!-- Article Content -->
+    <div class="prose-article mb-12">
+      <Content />
+    </div>
+
+    <!-- Author Bio -->
+    <AuthorBio />
+
+    <!-- Related Posts -->
+    <RelatedPosts post={post} />
+
+    <!-- Email Magnet -->
+    <EmailMagnet country={countryName} leadMagnetName={`{countryName} Travel Guide`} />
+  </article>
+</BaseLayout>

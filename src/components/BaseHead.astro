@@ -1,0 +1,68 @@
+---
+import { SITE_TITLE, SITE_DESCRIPTION, SITE_URL } from '../consts';
+
+interface Props {
+  title: string;
+  description: string;
+  image?: string;
+  canonicalURL?: URL | string;
+  pubDate?: Date;
+  author?: string;
+  articleType?: string;
+}
+
+const {
+  title,
+  description,
+  image = `${SITE_URL}/og-image.png`,
+  canonicalURL = new URL(Astro.url.pathname, SITE_URL),
+  pubDate,
+  author = 'Kseniia',
+  articleType = 'article',
+} = Astro.props;
+
+const jsonLd = articleType === 'article' && pubDate ? {
+  '@context': 'https://schema.org',
+  '@type': 'BlogPosting',
+  headline: title,
+  description: description,
+  image: image,
+  datePublished: pubDate.toISOString(),
+  author: {
+    '@type': 'Person',
+    name: author,
+  },
+} : undefined;
+---
+
+<!-- Meta tags -->
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+<meta name="generator" content={Astro.generator} />
+
+<!-- SEO Meta Tags -->
+<title>{title} | {SITE_TITLE}</title>
+<meta name="description" content={description} />
+<meta name="author" content={author} />
+<link rel="canonical" href={canonicalURL} />
+
+<!-- Open Graph Tags -->
+<meta property="og:title" content={title} />
+<meta property="og:description" content={description} />
+<meta property="og:image" content={image} />
+<meta property="og:url" content={canonicalURL} />
+<meta property="og:type" content={articleType === 'article' ? 'article' : 'website'} />
+<meta property="og:site_name" content={SITE_TITLE} />
+
+<!-- Twitter Card Tags -->
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content={title} />
+<meta name="twitter:description" content={description} />
+<meta name="twitter:image" content={image} />
+
+<!-- Global CSS -->
+<link rel="stylesheet" href="/src/styles/global.css" />
+
+<!-- JSON-LD Schema -->
+{jsonLd && <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />}

@@ -1,0 +1,16 @@
+---
+import { getCollection } from 'astro:content';
+import PillarLayout from '../../layouts/PillarLayout.astro';
+
+export async function getStaticPaths() {
+  const pillars = await getCollection('pillars');
+  return pillars.map((pillar) => ({
+    params: { slug: pillar.slug },
+    props: { pillar },
+  }));
+}
+
+const { pillar } = Astro.props;
+---
+
+<PillarLayout pillar={pillar} />

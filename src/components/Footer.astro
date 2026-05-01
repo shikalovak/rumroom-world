@@ -1,0 +1,33 @@
+---
+import { AUTHOR_EMAIL, SITE_TITLE } from '../consts';
+---
+
+<footer class="bg-primary text-secondary mt-20 py-12">
+  <div class="container-main">
+    <div class="grid grid-cols-1 md:grid-cols-3 gap-8 mb-8">
+      <div>
+        <h3 class="font-display text-lg font-bold mb-4">Rumroom World</h3>
+        <p class="text-sm text-secondary/80">Travel guides for slow travelers and digital nomads.</p>
+      </div>
+      <div>
+        <h3 class="font-display text-lg font-bold mb-4">Links</h3>
+        <ul class="space-y-2 text-sm">
+          <li><a href="/about/" class="hover:text-accent transition-colors">About</a></li>
+          <li><a href="/privacy/" class="hover:text-accent transition-colors">Privacy</a></li>
+          <li><a href="/affiliate-disclosure/" class="hover:text-accent transition-colors">Affiliate Disclosure</a></li>
+        </ul>
+      </div>
+      <div>
+        <h3 class="font-display text-lg font-bold mb-4">Contact</h3>
+        <p class="text-sm">
+          <a href={`mailto:${AUTHOR_EMAIL}`} class="hover:text-accent transition-colors">
+            {AUTHOR_EMAIL}
+          </a>
+        </p>
+      </div>
+    </div>
+    <div class="border-t border-secondary/20 pt-8 text-center text-sm text-secondary/70">
+      <p>&copy; 2026 Rumroom World. All rights reserved. Written by Kseniia.</p>
+    </div>
+  </div>
+</footer>

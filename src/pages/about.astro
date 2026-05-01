@@ -1,0 +1,52 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { AUTHOR_NAME, AUTHOR_EMAIL } from '../consts';
+---
+
+<BaseLayout
+  title="About Kseniia"
+  description="Learn about the author behind Rumroom World"
+>
+  <div class="container-main py-20">
+    <div class="max-w-2xl mx-auto">
+      <h1 class="font-display text-5xl font-bold text-primary mb-12">About Kseniia</h1>
+
+      <div class="prose-article">
+        <div class="bg-soft/5 border border-soft/20 rounded-lg p-8 mb-8">
+          <div class="w-32 h-32 bg-accent rounded-full flex items-center justify-center text-6xl font-display text-secondary mb-6">
+            K
+          </div>
+          <h2 class="font-display text-2xl font-bold text-primary mb-4">
+            Hi! I'm Kseniia
+          </h2>
+          <p class="text-primary/80 mb-4">
+            I'm a travel writer, digital nomad, and slow travel enthusiast. For the past several years, I've been exploring the world on my own terms — working remotely, staying longer in places that feel like home, and writing about what I discover along the way.
+          </p>
+        </div>
+
+        <h2 class="font-display text-2xl font-bold text-primary mt-12 mb-4">Why Rumroom World?</h2>
+        <p class="text-primary/80 mb-6">
+          Rumroom is a Danish word that roughly translates to "room for thoughts" or "space to breathe." It captures the spirit of what I'm trying to do here: create a space where travel feels less like checking boxes on an Instagram bucket list and more like making real, meaningful connections with places and people.
+        </p>
+
+        <h2 class="font-display text-2xl font-bold text-primary mt-12 mb-4">What I Write About</h2>
+        <p class="text-primary/80 mb-6">
+          I write practical, honest guides for slow travelers and digital nomads — particularly women traveling or working alone. My articles focus on the unglamorous logistics: visa processes, cost of living, finding reliable wifi, navigating public transport, and figuring out where to actually live when you're in a new country for months at a time.
+        </p>
+
+        <h2 class="font-display text-2xl font-bold text-primary mt-12 mb-4">Current Focus</h2>
+        <p class="text-primary/80 mb-6">
+          Right now, I'm writing in-depth guides about Bali — the first pillar of Rumroom World. Bali is a place I've returned to repeatedly, and I've learned enough about it to share genuinely useful information. Future guides will cover Spain, France, Portugal, and Hungary — places I've lived in or spent significant time exploring.
+        </p>
+
+        <h2 class="font-display text-2xl font-bold text-primary mt-12 mb-4">Get in Touch</h2>
+        <p class="text-primary/80">
+          Have questions, feedback, or just want to say hi? Reach out at{' '}
+          <a href={`mailto:${AUTHOR_EMAIL}`} class="text-accent font-semibold">
+            {AUTHOR_EMAIL}
+          </a>
+        </p>
+      </div>
+    </div>
+  </div>
+</BaseLayout>
