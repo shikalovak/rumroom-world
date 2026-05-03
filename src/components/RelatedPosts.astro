@@ -22,9 +22,9 @@ const relatedPosts = allPosts
 ---
 
 {relatedPosts.length > 0 && (
-  <section class="my-12">
-    <h2 class="font-display text-2xl font-bold text-primary mb-8">More from {post.data.cluster.split('/')[0]}</h2>
-    <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+  <section class="my-8 sm:my-10 md:my-12">
+    <h2 class="font-display text-xl sm:text-2xl font-bold text-primary mb-6 sm:mb-8">More from {post.data.cluster.split('/')[0]}</h2>
+    <div class="grid grid-cols-1 md:grid-cols-3 gap-4 sm:gap-5 md:gap-6">
       {relatedPosts.map((p) => (
         <PostCard post={p} />
       ))}

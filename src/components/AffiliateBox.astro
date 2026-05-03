@@ -14,10 +14,10 @@ if (!affiliate) {
 ---
 
 {affiliate && (
-  <div class="border border-accent/20 bg-accent/5 rounded-lg p-6 my-8">
+  <div class="border border-accent/20 bg-accent/5 rounded-lg p-4 sm:p-5 md:p-6 my-6 sm:my-7 md:my-8">
     <div class="flex items-start gap-4">
       <div class="flex-1">
-        <h4 class="font-display font-bold text-primary text-lg mb-2">{affiliate.name}</h4>
+        <h4 class="font-display font-bold text-primary text-base sm:text-lg mb-2">{affiliate.name}</h4>
         <p class="text-primary/80 text-sm mb-4">{affiliate.blurb}</p>
         <a
           href={affiliate.url}

@@ -41,12 +41,12 @@ const useRealImage = heroImage && heroImage.startsWith('http');
         class={`w-full aspect-[4/3] ${style.bg} flex items-center justify-center rounded-tilda group-hover:opacity-90 transition-opacity duration-300`}
         aria-label={title}
       >
-        <span class="text-6xl" aria-hidden="true">{style.emoji}</span>
+        <span class="text-4xl sm:text-5xl md:text-6xl" aria-hidden="true">{style.emoji}</span>
       </div>
     )}
   </a>
   <div class="flex flex-col flex-1">
-    <h3 class="font-display text-xl font-bold text-primary leading-tight mb-3 transition-colors group-hover:text-accent">
+    <h3 class="font-display text-lg sm:text-xl font-bold text-primary leading-tight mb-3 transition-colors group-hover:text-accent">
       <a href={href}>{title}</a>
     </h3>
     <div class="flex items-center gap-2 text-xs uppercase tracking-wider text-primary/50 font-semibold">
