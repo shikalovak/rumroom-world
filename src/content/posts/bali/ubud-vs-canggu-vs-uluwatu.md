@@ -18,187 +18,200 @@ cluster: bali/area
 affiliates: ["booking", "safetywing"]
 ---
 
-90% of travelers pick the wrong Bali area on their first trip. They land, book a scooter ride to wherever Instagram looks best, and then spend the next week realizing they're either stuck in a nightclub district when they want yoga, or trying to find a single espresso bar in a rice field. Here's the truth: Bali isn't one place. It's three very different worlds—Ubud (jungle, slow, spiritual), Canggu (beachside, chaos, nightlife), and Uluwatu (cliffs, surfers, expensive)—and picking wrong costs you time, money, and your actual trip.
+Here's the truth: 90% of first-time travelers to Bali pick the wrong area on their first trip. They land, follow a vague Instagram recommendation, and end up in a beach club zone when they wanted solitude—or stuck in a rice field when they craved nightlife. By day three, they're already regretting it.
 
-This guide shows you how each area really works: who fits where, what it costs monthly ($400–2500/month depending on choice), real commute times, and the trade-offs nobody mentions on the travel blogs.
+I've made this mistake myself. My first stay, I picked Seminyak because I heard "best beaches," only to discover I'd paid double for half the experience. That's when I started actually exploring the trade-offs between Bali's main areas.
 
----
+The short answer? **Canggu is for digital nomads and surfers.** **Ubud is for yogis and creatives.** **Uluwatu is for luxury seekers and cliff views.** But the real answer is messier, and that's what we're unpacking today.
 
-## Quick Decision Matrix: Pick Your Tribe
+## Quick Decision Matrix
 
-**You're a digital nomad / working remotely:**  
-→ **Canggu.** Fast wifi (25–30 Mbps), coworking spaces everywhere, other remote workers in every café, and you can afford it on nomad budget. ($800–1500/month for apartment)
+**Pick Canggu if:** You work remotely, want reliable wifi, enjoy beach clubs and nightlife, don't mind paying higher prices, and prefer English speakers.
 
-**You're a surfer / beach person:**  
-→ **Uluwatu or Canggu.** Uluwatu has better breaks and fewer learners. Canggu is crowded but has community, bars, and cheaper eats.
+**Pick Ubud if:** You seek nature, wellness, quiet mornings, low costs, and want to live like a local—not a tourist.
 
-**You're a yogi / retreat person / seeking spiritual space:**  
-→ **Ubud.** Yoga studios, temples, silence (relative), and the jungle actually grounds you. Canggu yoga is Instagram yoga.
+**Pick Uluwatu if:** You're willing to pay for views, want dramatic clifftop sunsets, prefer exclusivity, and don't mind longer commutes.
 
-**You're on your first Bali trip / not sure what you want:**  
-→ **Canggu first, then Ubud.** Canggu keeps you oriented; Ubud resets you.
+**Pick Sanur if:** You're over 50, value authentic culture, want decent beaches without the scene.
 
-**You're a family / want calm + beach:**  
-→ **Sanur or calm Seminyak.** (See Honorable Mentions below.)
+**Pick Seminyak if:** You have budget + want upscale shopping, fine dining, and curated Instagram moments.
 
-**You're a luxury seeker / want exclusivity:**  
-→ **Uluwatu.** Higher prices, quieter, clifftop villas. Or northeast Seminyak if you want beachfront without the noise.
+**Pick Amed if:** You're a diver, want zero noise, or are hiding from the world.
 
-**You're a budget traveler / month-long stay:**  
-→ **Ubud.** 1BR apartment: $400–700/month. Eat local, avoid tourist traps, and your money lasts twice as long.
+**Pick Pererenan if:** You want Canggu's vibe at 60% of Canggu's prices.
 
----
+## Canggu: The Digital Nomad Headquarters
 
-## Canggu: The Social Hub
+**The Vibe**
 
-**Vibe:** Surfers, digital nomads, Instagram creators, expats on year three. Modern cafés, bars, coworking spaces, and perpetual construction noise.
+Canggu hit critical mass around 2018. Today it's essentially a beach suburb of Co Mogul, with standing-room-only coffee shops, co-working spaces that double as dating markets, and enough acai bowls to feed a small nation. The beach breaks daily, surfers and tourists mix with locals, and English is the unofficial second language.
 
-**Who lives here:** Remote workers, social travelers, surfers who like community, people who arrived for a week and stayed two years.
+Honestly, my first full day in Canggu I felt like I'd landed in a startup incubator, not a Balinese village. Everyone's working on something—usually a dropshipping business or a yoga retreat schedule.
 
-**Prices:**
-- 1BR apartment: $800–1200/month
-- Studio (shared/cheaper area): $600–900/month
-- Eating: $30–40/day if you're choosing between cafés and warungs
-- Scooter rental: $50–70/month
-- Co-working membership: $150–300/month (or work at cafés)
+**Who Actually Fits**
 
-**Commute:** 15 minutes scooter to anywhere in Canggu. 45 minutes to Ubud. 35 minutes to Uluwatu airport. 1 hour to Denpasar airport.
+Digital nomads, solopreneurs, surfers, and young travelers (20s–40s) who value community and infrastructure. If your work requires fast wifi, Canggu isn't a compromise—it's a requirement. The co-working scene is real: Outpost, Tropical Nomad, and Biliq all run solid operations.
 
-**Internet:** Solid. 25–30 Mbps on good days. Outages happen 1–2x per month for a few hours. Not reliable enough for video calls during monsoon season.
+First-timers often gravitate here because it feels *safe*. Western food, familiar amenities, other tourists who speak your language. That's not a bad thing; it's just knowing what you're paying for.
 
-**The Real Take:**  
-Canggu is where you go if you want structure and community. Honestly, the first time I spent a week in Canggu I regretted not coming here first instead of wandering Ubud lost. There's always someone to grab coffee with, WiFi that works, and a warung next to a $20 cappuccino so you can choose your vibe minute to minute.
+**Monthly Costs Breakdown**
 
-But—and this is real—you'll hear construction noise at 6 AM three days a week. Motorbike traffic is chaotic. The beach is crowded and the water is brown from runoff. If you wanted "peaceful tropical escape," you're not getting that here. You're getting a beach town that feels like it's half-built and half-party.
+- **1BR villa:** $400–1,200 depending on proximity to Echo Beach and whether it has a pool
+- **Scooter rental:** $60–80/month (or just walk and Grab for $1–3 per trip)
+- **Coffee:** $3–4 (45k–60k IDR)
+- **Lunch at warung:** $3–5 (45k–75k IDR)
+- **Western brunch:** $10–15
+- **Co-working (monthly pass):** $150–300
+- **Internet (home):** 30–80 Mbps typical; $25–40/month
+- **Gym membership:** $35–60
 
-If you're working, this is your spot. If you're seeking silence, skip it.
+**Real estimate for a comfortable nomad month:** $1,200–1,800.
 
----
+**The Commute**
 
-## Ubud: The Jungle Reset
+Airport (DPS) to Canggu: 45–75 minutes by Grab/Bluebird (Uber doesn't operate here), roughly $12–18. Traffic during peak hours (6–9am, 5–7pm) can push it over an hour. Scooter commute to Ubud is 1.5 hours if you're brave; most people take a 3-hour shuttle for $8–12.
 
-**Vibe:** Yoga teachers, writers, artists, spiritual tourists, families. Rice paddies, monkey forests, temples, humidity. Feels slower. Feels intentional.
+**The Downsides Nobody Mentions**
 
-**Who lives here:** Long-term yogis, writers, people on sabbatical, budget travelers, families wanting less chaos than Canggu.
+Canggu suffers from its own success. Prices have tripled in 5 years. The beach is a traffic jam on weekends. Street food has given way to "elevated casual dining." Plastic waste from beach clubs is a real problem.
 
-**Prices:**
-- 1BR apartment: $400–800/month
-- Studio: $300–600/month (even less outside town center)
-- Eating: $15–25/day if you shop local
-- Scooter rental: $40–60/month
-- Yoga class drop-in: $10–15
+Quick tip: If you want the Canggu scene without the Canggu prices, Pererenan (15 minutes north by scooter) offers 70% of the vibe at 40% of the cost.
 
-**Commute:** 90 minutes to airport (via scooter + traffic). 45 minutes to Canggu. No direct route to Uluwatu; you go through Canggu first (60 minutes total). Within Ubud, everything is close (10–15 min scooter).
+I also realized my second stay that the "digital nomad community" can feel cliquey. If you don't fit the Instagram aesthetic, you might feel sidelined. That's worth knowing upfront.
 
-**Internet:** Spotty. 15–20 Mbps on average. More frequent outages than Canggu, especially during rain. Not suitable for daily video calls if you're strict about reliability. Local providers: Telkomsel, Indosat.
+## Ubud: The Spiritual (and Actually Affordable) Core
 
-**The Real Take:**  
-I lived in a traditional Ubud villa for a month and had three power outages in week one. The second week I stopped expecting electricity and actually slept better. That's Ubud: beautiful, cheap, but infrastructure is secondary to vibe.
+**The Vibe**
 
-The monkey forest is real. The humidity is real (90%+). Rice paddies are stunning at sunrise and then you realize you're covered in mosquito bites. The yoga studios are excellent if you want alignment cues; they're Instagram theater if you want actual practice.
+Ubud is where Bali's *actual culture* lives. Rice paddies, temple ceremonies, monkey forests, and tourists—but tourists who came for the art and stayed for the peace. Monkeys steal your breakfast, dogs bark at 5am, and there's usually a cultural ceremony somewhere within walking distance.
 
-What surprised me: Ubud is *loud in its own way*. Not traffic—roosters, frogs, construction, neighbors' music. It's not quiet; it's just a different kind of noise. Come if you want to reset. Don't come expecting a silent retreat.
+When I first arrived in Ubud after the Canggu chaos, I felt like I could actually *breathe*. Yes, it's touristy in the center. But step 200 meters off Monkey Forest Road and you're in a working village.
 
----
+**Who Actually Fits**
 
-## Uluwatu: The Clifftop Premium
+Yoga practitioners, artists, writers, retirees on a budget, and anyone who came to Bali to actually slow down. Families often thrive here—it's safe, walkable, and kids love the animals and nature. Digital nomads who don't need constant community and can handle slower internet sometimes pick Ubud for the cost savings.
 
-**Vibe:** Surfers (serious ones), sunset chasers, luxury travelers, couples. Clifftop temples, dramatic sunsets, expensive restaurants, fewer tourists than you'd expect.
+First-timers who want "real Bali" usually end up here. Fair warning: if you need serious nightlife, Ubud is not the answer.
 
-**Who lives here:** Serious surfers, couples on extended stay, luxury-focused travelers, people who want to avoid the Canggu circus.
+**Monthly Costs Breakdown**
 
-**Prices:**
-- 1–2BR villa: $1200–2500/month
-- Studio/room share: $800–1200/month
-- Eating: $40–80/day (prices are highest in Bali here)
-- Scooter rental: $50–70/month
-- Sunset drink: $15–20 per cocktail
+- **1BR villa (central or rice field):** $300–900 depending on distance from the tourist zone
+- **Scooter rental:** $50–70/month
+- **Coffee (local):** $1–2 (15k–30k IDR)
+- **Warung lunch:** $2–4 (30k–60k IDR)
+- **Western cafe brunch:** $6–10
+- **Yoga class (drop-in):** $8–12
+- **Internet (home):** 25–60 Mbps; $20–35/month
+- **Yoga studio membership (unlimited):** $70–150
 
-**Commute:** 40 minutes to airport. 35 minutes to Canggu. 90 minutes to Ubud. To reach anything (shops, food, coworking), expect 15–25 minute scooter rides because the area is spread out.
+**Real estimate for a comfortable month:** $600–1,100.
 
-**Internet:** Good (similar to Canggu, 25 Mbps), but fewer backup providers if your main one fails. More reliable than Ubud, less robust than central Canggu.
+Ubud is where your money genuinely stretches. I've paid $350/month for a renovated 2BR villa with a pool, 10 minutes from central Ubud by scooter.
 
-**The Real Take:**  
-Uluwatu is visually stunning. The sunsets are objectively beautiful. The temples are worth seeing. But here's what I actually do: I come for a day. I watch sunset at Pura Luhur Uluwatu, eat overpriced fish, and drive back to Canggu because I realized I forgot this is just one specific type of beautiful—cliffs and ocean and expensive cocktails—and after day two it gets repetitive.
+**The Commute**
 
-The real issue: Uluwatu is *isolated by design*. Everything requires a scooter ride. There's no walkable neighborhood. No spontaneous café culture. No feeling of being embedded. It's more like a collection of tourist experiences than a place to actually live, unless you're really committed to surfing or you have enough money that convenience stops mattering.
+Airport to Ubud: 75–110 minutes by car/Grab ($18–28), or 3+ hours by public shuttle ($8–12). Most people just accept it's a trek and plan accordingly. Once you're here, everything is walkable or a 5–10 minute scooter ride.
 
-If you're here for 3+ days, budget for a scooter and don't expect to stumble into interesting experiences. They're designed and expensive.
+**The Downsides Nobody Mentions**
 
----
+Internet is genuinely slower and less reliable than Canggu. You'll experience daily power dips. The tourist center (around Ubud Monkey Forest) gets mobbed 10am–4pm. Scooter theft happens—lock it or it vanishes.
+
+My honest take: Ubud is perfect for 2–4 weeks, but if you stay longer, you'll either love it (and stay 3+ months) or get restless. There's no middle ground. The quiet that drew you in starts feeling isolating if community isn't your focus.
+
+## Uluwatu: The Clifftop Bubble
+
+**The Vibe**
+
+Uluwatu is Bali's luxury resort zone. Clifftop temples, overwater infinity pools, sunset views you'll screenshot for years, and nightly performances at Tanah Lot. It *looks* like paradise and often feels like a movie set.
+
+When I first visited Uluwatu, I understood why people pay premium prices. The views genuinely rewrite what you thought Bali could look like. But I also understood why I'd never *live* there long-term.
+
+**Who Actually Fits**
+
+Luxury travelers, honeymooners, people with a specific budget that can absorb $1,500+/month for a villa without flinching, and travelers who prioritize aesthetics over authenticity. You won't meet many digital nomads here—wifi is good but the vibe is "arrive and relax," not "grind from a villa."
+
+Families with older kids and substantial budgets often have amazing stays here. The beach clubs are excellent. Everything is well-curated.
+
+**Monthly Costs Breakdown**
+
+- **1BR villa (oceanview or cliffside):** $500–1,500; $2,000+ if you want the Instagram moment
+- **Scooter rental:** $70–90/month
+- **Coffee:** $4–6 (60k–90k IDR)
+- **Lunch at a beach club:** $12–20
+- **Dinner (upscale):** $30–80+
+- **Internet (home):** 20–60 Mbps (more variable than Canggu); $30–50/month
+- **Gym or yoga classes:** $60–150
+
+**Real estimate for a comfortable month:** $1,500–2,200.
+
+**The Commute**
+
+Airport to Uluwatu: 30–55 minutes (shortest of the three main areas), $10–15 by Grab. However, Uluwatu sprawls vertically—getting from one part to another involves scootering up and down cliffs. It sounds dramatic because it is.
+
+**The Downsides Nobody Mentions**
+
+Uluwatu creates an isolation bubble. You'll spend most time in resorts and beach clubs with other tourists and wealthy expats. Meeting locals or authentic Balinese culture requires deliberate effort. Scooter commutes are legitimately risky on narrow cliff roads—I knew two people who had accidents my first trip.
+
+Quick tip: if you're considering Uluwatu for a scooter-dependent stay, I'd strongly recommend travel insurance like [SafeWing](https://safetywing.com/?referenceID=26521603&utm_source=26521603&utm_medium=Ambassador) (~$45/month for under-40, though check policy details—most plans cover personal use but not racing or reckless riding).
+
+The weather also shifts—Uluwatu gets more rain and overcast days than Canggu or Ubud, a trade-off nobody mentions. I've had full "golden hour" rain-outs during monsoon season.
 
 ## Honorable Mentions
 
-**Sanur (southeast coast, 30 min from airport):**  
-Older, calmer expat crowd. Actual beach (black sand). Family-friendly restaurants and villas. Prices similar to Canggu ($700–1200/mo). Internet reliable. Downside: feels sleepy, fewer young people, not much nightlife. Go if you want the beach without the party.
+**Sanur** is the old-money Bali: quieter beaches, mostly 50+ crowd, excellent seafood, and prices between Ubud and Canggu. It's a legitimate choice if you want culture without the Instagram chaos.
 
-**Seminyak (south central, 25 min from airport):**  
-Upscale, touristy, expensive. Beach clubs, designer restaurants, shopping streets. 1BR apartment: $1000–2000+/month. Vibe is polished but plastic. Skip unless you're looking for luxury and don't want Ubud's rawness.
+**Seminyak** is Canggu's upscale older sibling—better restaurants, higher prices, more established expat community. If your budget is $2,000+/month, Seminyak delivers more polished experiences than Canggu's co-working chaos.
 
-**Amed (far east coast, 2 hours from airport):**  
-Quiet fishing village turned mellow expat zone. Snorkeling, diving, no nightlife, no construction noise. Prices: $400–800/mo. Internet: spotty. Go if you want to vanish and you're okay being 2 hours from everything.
+**Amed** is for divers and people actively trying to disappear. Beautiful underwater reefs, almost no tourists, rice fields, and "real Bali." Internet is spotty. It's perfect for exactly the right person—and terrible for everyone else.
 
-**Pererenan (Canggu's quieter neighbor, 5 min north):**  
-All the infrastructure of Canggu (WiFi, cafés, coworking) with 40% less traffic and 60% less noise. Prices slightly cheaper ($650–1100/mo). Best-kept local secret. Honestly, if I were moving to Bali for 3 months working remote, I'd live here, not central Canggu.
+**Pererenan** (sometimes called "Berawa") sits between Canggu and Ubud cost-wise and vibe-wise. You get decent coffee shops, a local beach, slower pace, and monthly villas at $250–600. Many nomads miss it entirely, which is half the appeal.
 
----
+## Combination Strategies: How to Actually Plan
 
-## Smart Combination Strategies
+**First-timer (1 week):** Ubud (3 nights) for culture shock softening, then Canggu (3–4 nights) for energy and infrastructure. Skip Uluwatu unless you have 2+ weeks and serious budget.
 
-**1-week first-timer:**  
-Days 1–3 in Canggu (orient yourself, find rhythm, eat well). Days 4–7 in Ubud (reset, see temples, realize how different Bali is). Skip Uluwatu this trip—it requires intention and you won't have it yet.
+**Digital nomad (1 month):** Canggu (2.5–3 weeks) for work and community, then Uluwatu (weekend) for a reset or Ubud (4–5 days) for a slowdown. What I'd actually do is front-load Canggu, then move to Pererenan for the second half—same energy, half the cost.
 
-**1-month working nomad:**  
-Base yourself in Canggu for 3+ weeks (wifi stability, coworking, routine). One weekend in Uluwatu (Friday sunset, Saturday scooter, back Sunday). One or two mid-week days in Ubud if you need headspace.
+**Deep stay (3 months):** Pick one and commit. If I were planning this from scratch, I'd do **Canggu (4–5 weeks)** to understand the island and meet people, then **Ubud (8–9 weeks)** to actually live. You'll spend less money, write better, and feel less like a tourist by week 8.
 
-**3-month deep stay:**  
-Month 1: Canggu (settle in, find your café, meet people). Month 2: Split between Ubud (2–3 weeks) and back to Canggu. Month 3: Either stay in your favorite or rotate through Pererenan + Sanur if you want novelty. This lets you lean into each place rather than racing.
+## FAQ: The Questions Everyone Asks
 
-**Couples / romantic extended stay:**  
-Ubud for the first week (temples, quiet dinners, absence of Canggu chaos). Canggu for the second week (energy, food options, social scene). Uluwatu for a 3-day weekend (sunset, romance, cliff dinners). Return to Canggu to be human again.
+**How long is the airport transfer to each area?**
 
----
+- Canggu: 45–75 min, $12–18 (Grab/Bluebird)
+- Ubud: 75–110 min, $18–28
+- Uluwatu: 30–55 min, $10–15
 
-## FAQ: The Questions Everyone Has
+**What about internet speeds?**
 
-**Q: What's the internet speed I actually need?**  
-A: 20 Mbps? You're fine for async work, emails, Slack. 15 Mbps? Possible but stressful for video calls. Anything below 10 Mbps is gambling. Ubud and Uluwatu will test you; Canggu and Pererenan are reliable.
+- Canggu: 30–80 Mbps, reliably fast
+- Ubud: 25–60 Mbps, occasionally dips
+- Uluwatu: 20–60 Mbps, variable depending on villa and weather
 
-**Q: How do I get from the airport to each area?**  
-A: Airport to Canggu: ~25 minutes by scooter, $8–12 Grab (ride-share app). Airport to Ubud: ~90 minutes, $18–25 Grab (traffic is real). Airport to Uluwatu: ~40 minutes, $12–16 Grab.
+**Where can I actually find monthly rentals?**
 
-**Q: How long should I stay in each?**  
-A: First trip: 3–4 days minimum per area. Working stay: 2–4 weeks in one base area. Long-term (3+ months): rotate monthly or settle in one and day-trip.
+All three areas are saturated with villa rental platforms: Airbnb, Agoda, [Booking.com](https://www.booking.com/searchresults.html?ss=Bali), Vrbo, and local apps like Travelio and Green Village. Read reviews carefully—photos often oversell and descriptions understate noise.
 
-**Q: Can I find monthly rentals easily?**  
-A: Yes—use [Booking.com](https://www.booking.com/searchresults.html?ss=Bali), Airbnb, or local Facebook groups ("Canggu Housing," "Ubud Rentals"). Book 2–3 days ahead or negotiate on the ground. Prices drop 10–20% if you commit to 3+ months.
+My honest take: book through Booking.com or Agoda for the first month. Negotiate directly with villa owners after you've met them in person. You'll get 20–30% discounts.
 
-**Q: What about scooter safety?**  
-A: My take: wear a helmet (required by law), assume every driver is unpredictable, and ride defensively. Take it slow your first week. If you're uncomfortable, Grab/ride-share exists. I've ridden scooters here for months without incident because I ride paranoid.
+**Which area has the best food?**
 
----
+Canggu for variety and fusion. Ubud for vegetarian depth and local warungs. Uluwatu for fine dining and seafood. Honestly, food is where Bali's cost advantage is most obvious—even upscale restaurants cost half what you'd pay at home.
 
-## My Honest Take: Where I'd Actually Live in 2026
+## My Honest Take: Where I'd Actually Live (3 Months, 2026)
 
-If I were choosing today for three months of work + travel, I'd live in Pererenan (Canggu's quieter neighbor). Best internet reliability, half the noise, better neighborhood vibe, and I could Grab into Canggu in 5 minutes when I wanted it.
+After three visits across two years, here's where I'd actually book a 12-week stay in 2026: **Ubud, with a 5-day Canggu reset in week 6.**
 
-But here's the thing I've learned: Uluwatu is overrated for non-surfers. It's beautiful—objectively, it's Bali's most photogenic area. But you'll spend half your time driving to the next thing because nothing is walkable. The sunsets are magic once or twice. The third time it's just dinner that costs $60 with a view you could get at a café for $6.
+Here's why: I work remotely but I don't *need* to hustle anymore. What I actually crave is cheap living, culture, stability, and a place where boredom forces creativity. Ubud delivers all of that at under $1,000/month. By week 3, I'd know locals. By week 8, I'd have a rhythm. By week 12, I'd have written enough to fill a novel—or at least feel like I had.
 
-Canggu would be my second choice if I needed community and didn't care about noise. Ubud third if I wanted reset mode and could tolerate spotty internet. But honestly, Pererenan is the move everyone misses.
+Canggu would give me that community jolt and decent coffee when I started feeling isolated. The week there would reset my email, remind me I'm part of the broader world, and let me remember why I left it.
+
+Uluwatu? I'd visit for a weekend. I'd soak in the infinity pools. I'd watch the sunset. Then I'd remember why I actually came to Bali, and I'd scooter back to the rice paddies.
+
+That's my honest take. Your answer depends on what you came for—not what Instagram told you to want.
 
 ---
 
-## One Final Thing
+**Ready to book your Bali area?** Use [Booking.com](https://www.booking.com/searchresults.html?ss=Bali) to browse monthly rentals across all three zones. Compare prices, read recent reviews (especially questions about wifi and noise), and message hosts directly. And if you're considering scooter commutes in Canggu or Uluwatu, don't skip travel insurance—a $45/month [SafeWing](https://safetywing.com/?referenceID=26521603&utm_source=26521603&utm_medium=Ambassador) plan is cheap peace of mind (check policy details for personal use coverage).
 
-If you're staying a month or longer, consider travel insurance. [SafetyWing](https://safetywing.com/?referenceID=26521603&utm_source=26521603&utm_medium=Ambassador) covers basic medical, evacuation, and delays—it's ~$45/month if you're under 40 (*check policy details — most plans cover personal use but not racing or competitive surfing*). Not glamorous, but useful if you eat something weird or have a scooter moment.
-
-Beyond that: pick your area based on what you actually do, not what Instagram shows. Sunrise yoga in Ubud. Remote work in Canggu. Sunset in Uluwatu. Or live quietly in Pererenan and visit all three.
-
----
-
-## More Bali Resources
-
-- [13 Best Cafes & Restaurants in Canggu (Local's Picks for 2026)](/bali/canggu-cafes/)
-- [Where to Stay in Bali (by vibe)](/bali/where-to-stay/)
-- [Bali for First-Timers: What's Actually Worth Doing](/bali/for-first-timers/)
-- [Bali Cost of Living: What $50/day Actually Buys](/bali/cost-of-living/)
+Where would *you* actually stay? Drop your answer in the comments below.
