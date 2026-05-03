@@ -1,0 +1,95 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { AUTHOR_EMAIL, SITE_TITLE } from '../consts';
+---
+
+<BaseLayout
+  title="Affiliate Disclosure"
+  description="Full affiliate disclosure for Rumroom World — how the site is monetized, which programs are used, and what we promise readers."
+>
+  <div class="container-main py-20">
+    <div class="max-w-2xl mx-auto">
+      <h1 class="font-display text-5xl font-bold text-primary mb-4">Affiliate Disclosure</h1>
+      <p class="text-sm text-primary/60 mb-12">
+        Last updated: May 1, 2026
+      </p>
+
+      <div class="prose-article">
+        <h2 class="font-display text-2xl font-bold text-primary mb-4">The short version</h2>
+        <p class="text-primary/80 mb-6">
+          Some links on {SITE_TITLE} are <strong>affiliate links</strong>. If you click one and book or buy something, I may earn a small commission. It doesn't cost you anything extra — your price is the same whether you use my link or not.
+        </p>
+
+        <div class="bg-soft/10 border-l-4 border-accent rounded-r-lg p-6 my-8">
+          <p class="text-primary font-semibold mb-2">FTC Compliance Notice</p>
+          <p class="text-primary/80 text-sm">
+            In accordance with the U.S. Federal Trade Commission's "Guides Concerning the Use of Endorsements and Testimonials in Advertising" (16 CFR Part 255), I disclose that this website contains affiliate links and that I may be compensated for purchases made through them. This disclosure also satisfies UK CAP Code requirements and EU consumer-protection guidelines.
+          </p>
+        </div>
+
+        <h2 class="font-display text-2xl font-bold text-primary mt-12 mb-4">Programs I use</h2>
+        <p class="text-primary/80 mb-4">
+          The affiliate networks and direct programs I currently work with include:
+        </p>
+        <ul class="text-primary/80 mb-6 space-y-2">
+          <li><strong>Booking.com</strong> (via TravelPayouts) — accommodation</li>
+          <li><strong>GetYourGuide</strong> (via TravelPayouts) — tours and activities</li>
+          <li><strong>Aviasales / Hotellook / KiwiTaxi</strong> (via TravelPayouts) — flights, hotel comparison, airport transfers</li>
+          <li><strong>SafetyWing</strong> — travel and nomad medical insurance</li>
+          <li><strong>Airalo</strong> — global eSIMs</li>
+          <li><strong>Wise</strong> — multi-currency banking and transfers</li>
+          <li><strong>iVisa</strong> — visa and travel-document processing</li>
+          <li><strong>Discover Cars</strong> — car rentals</li>
+        </ul>
+        <p class="text-primary/80 mb-6">
+          New partners may be added as I find services worth recommending. I'll keep this list current.
+        </p>
+
+        <h2 class="font-display text-2xl font-bold text-primary mt-12 mb-4">My commitments</h2>
+
+        <h3 class="font-display text-lg font-bold text-primary mt-6 mb-2">I only recommend things I'd use myself</h3>
+        <p class="text-primary/80 mb-4">
+          If I link to a hotel booking platform, an insurance provider, or a scooter rental service, it's because I've used it personally — or because a friend living in the relevant place uses it and reports back honestly. I do not write reviews of products I haven't tested.
+        </p>
+
+        <h3 class="font-display text-lg font-bold text-primary mt-6 mb-2">I will never take money for a recommendation</h3>
+        <p class="text-primary/80 mb-4">
+          No brand pays me to mention them, rank them higher, or omit criticism. If a brand pitches me a "sponsored guide" or a "product placement," the answer is no. Affiliate commission is fundamentally different from sponsorship — the affiliate program doesn't change what I write, only earns me a small cut when readers find a service useful enough to use.
+        </p>
+
+        <h3 class="font-display text-lg font-bold text-primary mt-6 mb-2">I disclose affiliate links visibly</h3>
+        <p class="text-primary/80 mb-4">
+          Each guide that contains affiliate links includes a short disclosure banner near the top of the article. Specific links are clearly marked when ambiguous. You should never have to wonder whether a link earns me a commission.
+        </p>
+
+        <h3 class="font-display text-lg font-bold text-primary mt-6 mb-2">Negative reviews stay negative</h3>
+        <p class="text-primary/80 mb-4">
+          When a service has problems — hidden fees, bad customer support, unreliable infrastructure — I say so, even if it's an affiliate partner. Affiliate revenue does not buy silence.
+        </p>
+
+        <h2 class="font-display text-2xl font-bold text-primary mt-12 mb-4">How commissions work (for the curious)</h2>
+        <p class="text-primary/80 mb-4">
+          Most travel-affiliate programs work on a "cookie window" basis: when you click my link, the merchant places a tracking cookie on your browser, and if you complete a booking within X days (typically 30-60, sometimes longer for SafetyWing), the merchant attributes the sale to my account and pays a small percentage as commission. Typical rates are 4-15% depending on the partner.
+        </p>
+        <p class="text-primary/80 mb-6">
+          Your final price is the merchant's price. Affiliate commission comes out of the merchant's marketing budget, not your wallet. In most cases I have no insight into <em>which</em> readers booked — just an aggregated count and total commission per month.
+        </p>
+
+        <h2 class="font-display text-2xl font-bold text-primary mt-12 mb-4">Other monetization (currently none)</h2>
+        <p class="text-primary/80 mb-6">
+          As of the date above, this blog has no display advertising, no sponsored content, and no paid product placements. The site does not collect personal data to sell to third parties. If any of this changes, I will update this page and, where required, the <a href="/privacy/" class="text-accent hover:underline">Privacy Policy</a>.
+        </p>
+
+        <h2 class="font-display text-2xl font-bold text-primary mt-12 mb-4">Questions or concerns</h2>
+        <p class="text-primary/80 mb-4">
+          If you ever feel a recommendation is misleading, an affiliate link is hidden, or a disclosure is unclear — please tell me. I treat that feedback as a top priority.
+        </p>
+        <p class="text-primary/80">
+          📧 <a href={`mailto:${AUTHOR_EMAIL}`} class="text-accent font-semibold hover:underline">
+            {AUTHOR_EMAIL}
+          </a>
+        </p>
+      </div>
+    </div>
+  </div>
+</BaseLayout>

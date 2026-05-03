@@ -1,0 +1,1015 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+
+const unsplashAttribution = {
+  id: 'photo-1544644181-1484b3fdfc62',
+  photographer: 'Sebastian Pena Lambarri',
+  profileUrl: 'https://unsplash.com/@sebaspenalambarri',
+  photoUrl: 'https://images.unsplash.com/photo-1544644181-1484b3fdfc62?w=1200&h=600&fit=crop',
+};
+
+const affiliates = {
+  airalo: 'https://airalo.tpm.li/4rMthhOs',
+  wise: 'https://wise.com/invite/irhc/kseniias372',
+  safetywing: 'https://safetywing.com/?referenceID=26521603&utm_source=26521603&utm_medium=Ambassador',
+};
+---
+
+<BaseLayout
+  title="Bali Starter Pack — Complete Travel Guide"
+  description="Exclusive lead magnet for Rumroom World email subscribers. Everything you need: visas, where to stay, food, nightlife, safety, costs, and more."
+  image={unsplashAttribution.photoUrl}
+  robots="noindex, nofollow"
+>
+  <article class="min-h-screen bg-white">
+    {/* Hero Section */}
+    <div class="relative w-full overflow-hidden bg-gradient-to-b from-blue-900 to-blue-800 py-8 sm:py-12 md:py-16">
+      <div class="mx-auto max-w-3xl px-4 sm:px-6 md:px-8">
+        <div class="text-center">
+          <h1 class="text-3xl font-bold text-white sm:text-4xl md:text-5xl leading-tight mb-4">
+            Bali Starter Pack
+          </h1>
+          <p class="text-base sm:text-lg text-blue-100 mb-2">
+            Your complete travel guide — exclusive for email subscribers
+          </p>
+          <p class="text-sm sm:text-base text-blue-200">
+            Visas, costs, where to stay, food, safety, nightlife, and everything else you need
+          </p>
+        </div>
+      </div>
+    </div>
+
+    {/* Attribution */}
+    <div class="bg-gray-50 border-t border-gray-200 py-3 px-4 sm:px-6 md:px-8 text-center">
+      <p class="text-xs sm:text-sm text-gray-600">
+        Hero photo by <a href={unsplashAttribution.profileUrl} target="_blank" rel="noopener noreferrer" class="font-medium text-blue-600 hover:underline">{unsplashAttribution.photographer}</a> on Unsplash
+      </p>
+    </div>
+
+    {/* Main Content */}
+    <main class="mx-auto max-w-3xl px-4 sm:px-6 md:px-8 py-8 sm:py-12 md:py-16 space-y-16 sm:space-y-20">
+
+      {/* Section 1: First-Timer Cheat Sheet */}
+      <section>
+        <h2 class="text-2xl sm:text-3xl md:text-4xl font-bold text-gray-900 mb-6 sm:mb-8">
+          1. Bali First-Timer Cheat Sheet
+        </h2>
+
+        <div class="prose prose-sm sm:prose max-w-none space-y-6">
+          <p class="text-base sm:text-lg text-gray-700 leading-relaxed">
+            Do's, don'ts, scams to watch, packing essentials, transport options, and survival Bahasa phrases.
+          </p>
+
+          <div class="bg-gray-50 rounded-lg p-4 sm:p-6">
+            <h3 class="font-bold text-gray-900 mb-3 text-base sm:text-lg">Key Do's & Don'ts</h3>
+            <ul class="space-y-2 text-sm sm:text-base text-gray-700">
+              <li><strong>✓ Do:</strong> Wear a sarong at temples. Respect Hindu customs.</li>
+              <li><strong>✓ Do:</strong> Learn basic Bahasa phrases (see below).</li>
+              <li><strong>✗ Don't:</strong> Point at people with one finger (rude).</li>
+              <li><strong>✗ Don't:</strong> Touch someone's head (sacred).</li>
+              <li><strong>✗ Don't:</strong> Eat/gesture with left hand (impolite).</li>
+            </ul>
+          </div>
+
+          <div class="bg-yellow-50 border-l-4 border-yellow-300 p-4 sm:p-6">
+            <h3 class="font-bold text-gray-900 mb-3 text-base sm:text-lg">Common Scams to Watch</h3>
+            <ul class="space-y-2 text-sm sm:text-base text-gray-700">
+              <li><strong>Fake taxis:</strong> Always use blue Bird or Grab app.</li>
+              <li><strong>Drink spiking:</strong> Don't leave drinks unattended at bars.</li>
+              <li><strong>ATM skimming:</strong> Use ATMs inside banks or malls.</li>
+              <li><strong>Overpriced tours:</strong> Book through reputable agencies or hotels.</li>
+              <li><strong>Jewelry stores:</strong> <mark class="bg-yellow-100 px-1">[KSENIA TO ADD: real scam examples you've verified]</mark></li>
+            </ul>
+          </div>
+
+          <div class="overflow-x-auto">
+            <table class="w-full text-sm sm:text-base border-collapse">
+              <thead>
+                <tr class="bg-gray-200">
+                  <th class="border border-gray-300 px-3 sm:px-4 py-2 text-left font-bold">Item</th>
+                  <th class="border border-gray-300 px-3 sm:px-4 py-2 text-left font-bold">Why Essential</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr class="hover:bg-gray-50">
+                  <td class="border border-gray-300 px-3 sm:px-4 py-2"><strong>Sunscreen SPF 50+</strong></td>
+                  <td class="border border-gray-300 px-3 sm:px-4 py-2">Equatorial sun = burn fast. Reapply every 2 hours.</td>
+                </tr>
+                <tr class="hover:bg-gray-50">
+                  <td class="border border-gray-300 px-3 sm:px-4 py-2"><strong>Lightweight rain jacket</strong></td>
+                  <td class="border border-gray-300 px-3 sm:px-4 py-2">Tropical showers come fast. Pack-able is key.</td>
+                </tr>
+                <tr class="hover:bg-gray-50">
+                  <td class="border border-gray-300 px-3 sm:px-4 py-2"><strong>Quick-dry clothes</strong></td>
+                  <td class="border border-gray-300 px-3 sm:px-4 py-2">Humidity = cotton stays wet. Nylon/polyester dries in 2–3 hours.</td>
+                </tr>
+                <tr class="hover:bg-gray-50">
+                  <td class="border border-gray-300 px-3 sm:px-4 py-2"><strong>Insect repellent (DEET)</strong></td>
+                  <td class="border border-gray-300 px-3 sm:px-4 py-2">Dengue + malaria in Bali. DEET 20%+ is standard.</td>
+                </tr>
+                <tr class="hover:bg-gray-50">
+                  <td class="border border-gray-300 px-3 sm:px-4 py-2"><strong>Antidiarrheal meds</strong></td>
+                  <td class="border border-gray-300 px-3 sm:px-4 py-2">Imodium or generic. Food safety varies; better to have it.</td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+
+          <div>
+            <h3 class="font-bold text-gray-900 mb-3 text-base sm:text-lg">Getting Around: Transport Options</h3>
+            <div class="overflow-x-auto">
+              <table class="w-full text-sm sm:text-base border-collapse">
+                <thead>
+                  <tr class="bg-gray-200">
+                    <th class="border border-gray-300 px-3 sm:px-4 py-2 text-left font-bold">Option</th>
+                    <th class="border border-gray-300 px-3 sm:px-4 py-2 text-left font-bold">Cost</th>
+                    <th class="border border-gray-300 px-3 sm:px-4 py-2 text-left font-bold">Best For</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr class="hover:bg-gray-50">
+                    <td class="border border-gray-300 px-3 sm:px-4 py-2"><strong>Scooter rental</strong></td>
+                    <td class="border border-gray-300 px-3 sm:px-4 py-2">IDR 50–80k/day ($3–5)</td>
+                    <td class="border border-gray-300 px-3 sm:px-4 py-2">Independence, but risky. Helmet + insurance required.</td>
+                  </tr>
+                  <tr class="hover:bg-gray-50">
+                    <td class="border border-gray-300 px-3 sm:px-4 py-2"><strong>Grab (ride-share)</strong></td>
+                    <td class="border border-gray-300 px-3 sm:px-4 py-2">IDR 20–100k per ride</td>
+                    <td class="border border-gray-300 px-3 sm:px-4 py-2">Safe, app-based, best for night + wet weather.</td>
+                  </tr>
+                  <tr class="hover:bg-gray-50">
+                    <td class="border border-gray-300 px-3 sm:px-4 py-2"><strong>Private driver</strong></td>
+                    <td class="border border-gray-300 px-3 sm:px-4 py-2">IDR 600k–800k/day ($37–50)</td>
+                    <td class="border border-gray-300 px-3 sm:px-4 py-2">Groups, tours, all-day excursions.</td>
+                  </tr>
+                  <tr class="hover:bg-gray-50">
+                    <td class="border border-gray-300 px-3 sm:px-4 py-2"><strong>Walking</strong></td>
+                    <td class="border border-gray-300 px-3 sm:px-4 py-2">Free</td>
+                    <td class="border border-gray-300 px-3 sm:px-4 py-2">Short trips within neighborhoods. Wear sunscreen.</td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+          </div>
+
+          <div>
+            <h3 class="font-bold text-gray-900 mb-3 text-base sm:text-lg">Survival Bahasa (key phrases)</h3>
+            <ul class="space-y-2 text-sm sm:text-base text-gray-700">
+              <li><strong>"Berapa harganya?"</strong> = How much? (pronounced: buh-RAH-pah HAR-gah-nya)</li>
+              <li><strong>"Terima kasih"</strong> = Thank you (pronounced: tuh-REE-mah KAH-sih)</li>
+              <li><strong>"Permisi"</strong> = Excuse me (pronounced: per-MEE-see)</li>
+              <li><strong>"Sudah"</strong> = Already / enough (to politely decline)</li>
+              <li><strong>"Tidak, terima kasih"</strong> = No, thanks (pronounced: tee-AHK, tuh-REE-mah KAH-sih)</li>
+              <li><strong>"Mana toilet?"</strong> = Where's the bathroom? (pronounced: MAH-nah TOE-lut)</li>
+              <li><strong>"Saya vegetarian"</strong> = I'm vegetarian (pronounced: SAH-yah vuh-juh-TAH-ree-ahn)</li>
+            </ul>
+          </div>
+
+          <div class="bg-red-50 border-l-4 border-red-300 p-4 sm:p-6">
+            <h3 class="font-bold text-gray-900 mb-3 text-base sm:text-lg">Emergency Contacts</h3>
+            <ul class="space-y-2 text-sm sm:text-base text-gray-700">
+              <li><strong>Police (Polda):</strong> 0361-222-802 or ask hotel staff</li>
+              <li><strong>Ambulance:</strong> 118</li>
+              <li><strong>Tourist Police:</strong> 0361-759-170 (English-speaking, Kuta area)</li>
+              <li><strong>Your embassy:</strong> <mark class="bg-yellow-100 px-1">[KSENIA TO ADD: link to your country's embassy in Indonesia]</mark></li>
+              <li><strong>Travel insurance provider:</strong> <mark class="bg-yellow-100 px-1">[KSENIA TO ADD: your policy phone number]</mark></li>
+            </ul>
+          </div>
+        </div>
+      </section>
+
+      {/* Section 2: Visa Decision Tree */}
+      <section>
+        <h2 class="text-2xl sm:text-3xl md:text-4xl font-bold text-gray-900 mb-6 sm:mb-8">
+          2. Bali Visa Decision Tree
+        </h2>
+
+        <div class="prose prose-sm sm:prose max-w-none space-y-6">
+          <p class="text-base sm:text-lg text-gray-700 leading-relaxed">
+            Flowchart by trip duration + activity → visa type + cost + DIY vs. agent breakdown.
+          </p>
+
+          <div class="bg-blue-50 rounded-lg p-4 sm:p-6 space-y-4">
+            <div>
+              <h3 class="font-bold text-gray-900 text-base sm:text-lg mb-2">Are you visiting for less than 30 days?</h3>
+              <p class="text-sm sm:text-base text-gray-700">
+                <strong>→ Yes (0–30 days):</strong> You likely qualify for Visa-Free (B211A). No visa needed. Immigration stamp on arrival = automatic 30-day permission.
+              </p>
+              <p class="text-sm sm:text-base text-gray-700 mt-2">
+                <strong>→ No (30+ days):</strong> You need a visa. Continue below.
+              </p>
+            </div>
+
+            <div class="border-t border-blue-200 pt-4">
+              <h3 class="font-bold text-gray-900 text-base sm:text-lg mb-2">What's your main activity?</h3>
+              <ul class="space-y-3 text-sm sm:text-base text-gray-700">
+                <li><strong>Tourism only:</strong> Visa on Arrival (VOA) or E-Visa. Costs IDR 500k ($30). Single-entry, 30-day stay.</li>
+                <li><strong>Remote work / digital nomad:</strong> B211A extension (30 days) + B211A + multiple re-entry. Or B211A Visa + STAYC (60–180 days). IDR 1–3M depending on route.</li>
+                <li><strong>Teaching / employment:</strong> B211A Sponsored (requires employer + formal process). Takes 4–6 weeks. Costs IDR 2–4M.</li>
+                <li><strong>Retirement / long-term stay (60+ days):</strong> B211A Visa (60 days, IDR 2M) extended to 180 days (STAYC). Requires proof of funds + sponsorship.</li>
+              </ul>
+            </div>
+          </div>
+
+          <div>
+            <h3 class="font-bold text-gray-900 mb-3 text-base sm:text-lg">Visa Cost Summary (2026)</h3>
+            <div class="overflow-x-auto">
+              <table class="w-full text-sm sm:text-base border-collapse">
+                <thead>
+                  <tr class="bg-gray-200">
+                    <th class="border border-gray-300 px-3 sm:px-4 py-2 text-left font-bold">Visa Type</th>
+                    <th class="border border-gray-300 px-3 sm:px-4 py-2 text-left font-bold">Duration</th>
+                    <th class="border border-gray-300 px-3 sm:px-4 py-2 text-left font-bold">Cost (IDR)</th>
+                    <th class="border border-gray-300 px-3 sm:px-4 py-2 text-left font-bold">Cost (USD)</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr class="hover:bg-gray-50">
+                    <td class="border border-gray-300 px-3 sm:px-4 py-2"><strong>Visa-Free (B211A)</strong></td>
+                    <td class="border border-gray-300 px-3 sm:px-4 py-2">30 days</td>
+                    <td class="border border-gray-300 px-3 sm:px-4 py-2">Free</td>
+                    <td class="border border-gray-300 px-3 sm:px-4 py-2">Free</td>
+                  </tr>
+                  <tr class="hover:bg-gray-50">
+                    <td class="border border-gray-300 px-3 sm:px-4 py-2"><strong>E-Visa / VOA</strong></td>
+                    <td class="border border-gray-300 px-3 sm:px-4 py-2">30 days (1 entry)</td>
+                    <td class="border border-gray-300 px-3 sm:px-4 py-2">500k</td>
+                    <td class="border border-gray-300 px-3 sm:px-4 py-2">$31</td>
+                  </tr>
+                  <tr class="hover:bg-gray-50">
+                    <td class="border border-gray-300 px-3 sm:px-4 py-2"><strong>B211A Visa</strong></td>
+                    <td class="border border-gray-300 px-3 sm:px-4 py-2">60 days</td>
+                    <td class="border border-gray-300 px-3 sm:px-4 py-2">1.5–2M</td>
+                    <td class="border border-gray-300 px-3 sm:px-4 py-2">$94–125</td>
+                  </tr>
+                  <tr class="hover:bg-gray-50">
+                    <td class="border border-gray-300 px-3 sm:px-4 py-2"><strong>STAYC (Extended)</strong></td>
+                    <td class="border border-gray-300 px-3 sm:px-4 py-2">180 days</td>
+                    <td class="border border-gray-300 px-3 sm:px-4 py-2">3–4M</td>
+                    <td class="border border-gray-300 px-3 sm:px-4 py-2">$188–250</td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+          </div>
+
+          <div>
+            <h3 class="font-bold text-gray-900 mb-3 text-base sm:text-lg">DIY vs. Agent</h3>
+            <p class="text-sm sm:text-base text-gray-700 mb-3">
+              <strong>DIY:</strong> Apply online at imigrasi.go.id or in person at immigration office. Saves cost but time-intensive (long queues, paperwork).
+            </p>
+            <p class="text-sm sm:text-base text-gray-700 mb-3">
+              <strong>Agent:</strong> Local visa agents (IDR 500k–1M extra) handle paperwork. Faster but costs more. <mark class="bg-yellow-100 px-1">[KSENIA TO ADD: trusted agent names/contacts]</mark>
+            </p>
+            <p class="text-sm sm:text-base text-gray-700">
+              <strong>Recommendation:</strong> If 30 days: use Visa-Free. If 60+ days + working: use agent (saves hassle).
+            </p>
+          </div>
+        </div>
+      </section>
+
+      {/* Section 3: Where to Stay */}
+      <section>
+        <h2 class="text-2xl sm:text-3xl md:text-4xl font-bold text-gray-900 mb-6 sm:mb-8">
+          3. Where to Stay in Bali
+        </h2>
+
+        <div class="prose prose-sm sm:prose max-w-none space-y-6">
+          <p class="text-base sm:text-lg text-gray-700 leading-relaxed">
+            5-question quiz → personalized area recommendation (Canggu / Ubud / Uluwatu / Seminyak / Sanur) + stay options.
+          </p>
+
+          <div class="bg-gray-50 rounded-lg p-4 sm:p-6">
+            <h3 class="font-bold text-gray-900 mb-4 text-base sm:text-lg">Quick Self-Quiz (pick your vibe)</h3>
+            <ol class="space-y-4 text-sm sm:text-base text-gray-700">
+              <li><strong>1. Social scene?</strong> A) Party/nightlife, B) Yoga/wellness, C) Adventure/outdoors, D) Upscale/resort, E) Local/quiet</li>
+              <li><strong>2. Budget?</strong> A) Backpacker ($20–40/night), B) Budget-mid ($50–100/night), C) Mid-range ($100–200/night), D) Upscale ($200+/night)</li>
+              <li><strong>3. Activities?</strong> A) Beaches/surfing, B) Culture/temples, C) Hiking/nature, D) Dining/shopping, E) Mix</li>
+              <li><strong>4. WiFi priority?</strong> A) Essential (work/nomad), B) Nice to have</li>
+              <li><strong>5. Distance from airport?</strong> A) Close (20 min), B) Doesn't matter (I have time)</li>
+            </ol>
+          </div>
+
+          <div className="space-y-4">
+            <div class="border-l-4 border-blue-400 bg-blue-50 p-4 sm:p-6">
+              <h3 class="font-bold text-gray-900 mb-2 text-base sm:text-lg">Canggu</h3>
+              <p class="text-sm sm:text-base text-gray-700 mb-2"><strong>Vibe:</strong> Young, party-focused, digital nomads, tourists, trendy cafés, beaches.</p>
+              <p class="text-sm sm:text-base text-gray-700 mb-2"><strong>Best for:</strong> Party animals, remote workers, surfers, meeting people.</p>
+              <p class="text-sm sm:text-base text-gray-700"><strong>Stay:</strong> <mark class="bg-yellow-100 px-1">[KSENIA TO ADD: 3–5 accommodation recs by price tier]</mark></p>
+            </div>
+
+            <div class="border-l-4 border-green-400 bg-green-50 p-4 sm:p-6">
+              <h3 class="font-bold text-gray-900 mb-2 text-base sm:text-lg">Ubud</h3>
+              <p class="text-sm sm:text-base text-gray-700 mb-2"><strong>Vibe:</strong> Calm, cultural, rice terraces, yoga, vegan food, expats, quiet.</p>
+              <p class="text-sm sm:text-base text-gray-700 mb-2"><strong>Best for:</strong> Yoga people, writers, culture seekers, wellness travelers.</p>
+              <p class="text-sm sm:text-base text-gray-700"><strong>Stay:</strong> <mark class="bg-yellow-100 px-1">[KSENIA TO ADD: 3–5 accommodation recs]</mark></p>
+            </div>
+
+            <div class="border-l-4 border-purple-400 bg-purple-50 p-4 sm:p-6">
+              <h3 class="font-bold text-gray-900 mb-2 text-base sm:text-lg">Uluwatu</h3>
+              <p class="text-sm sm:text-base text-gray-700 mb-2"><strong>Vibe:</strong> Clifftop, sunset obsession, adventure, smaller crowds, indie travelers.</p>
+              <p class="text-sm sm:text-base text-gray-700 mb-2"><strong>Best for:</strong> Photographers, couples, adventurous solos, sunset chasers.</p>
+              <p class="text-sm sm:text-base text-gray-700"><strong>Stay:</strong> <mark class="bg-yellow-100 px-1">[KSENIA TO ADD: 3–5 accommodation recs]</mark></p>
+            </div>
+
+            <div class="border-l-4 border-orange-400 bg-orange-50 p-4 sm:p-6">
+              <h3 class="font-bold text-gray-900 mb-2 text-base sm:text-lg">Seminyak</h3>
+              <p class="text-sm sm:text-base text-gray-700 mb-2"><strong>Vibe:</strong> Upscale, beach clubs, fancy dining, resort scene, tourists.</p>
+              <p class="text-sm sm:text-base text-gray-700 mb-2"><strong>Best for:</strong> Luxury travelers, couples, resort visitors, foodies.</p>
+              <p class="text-sm sm:text-base text-gray-700"><strong>Stay:</strong> <mark class="bg-yellow-100 px-1">[KSENIA TO ADD: 3–5 accommodation recs]</mark></p>
+            </div>
+
+            <div class="border-l-4 border-teal-400 bg-teal-50 p-4 sm:p-6">
+              <h3 class="font-bold text-gray-900 mb-2 text-base sm:text-lg">Sanur</h3>
+              <p class="text-sm sm:text-base text-gray-700 mb-2"><strong>Vibe:</strong> Local, fishing port, seafood, quiet, few tourists, laid-back.</p>
+              <p class="text-sm sm:text-base text-gray-700 mb-2"><strong>Best for:</strong> Local experience, seafood lovers, budget travelers, peace.</p>
+              <p class="text-sm sm:text-base text-gray-700"><strong>Stay:</strong> <mark class="bg-yellow-100 px-1">[KSENIA TO ADD: 3–5 accommodation recs]</mark></p>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      {/* Section 4: Cost of Living */}
+      <section>
+        <h2 class="text-2xl sm:text-3xl md:text-4xl font-bold text-gray-900 mb-6 sm:mb-8">
+          4. Real Cost of Living in Bali
+        </h2>
+
+        <div class="prose prose-sm sm:prose max-w-none space-y-6">
+          <p class="text-base sm:text-lg text-gray-700 leading-relaxed">
+            Plug in lifestyle → weekly + monthly cost projections for 2026 (backpacker / mid / nomad / luxury).
+          </p>
+
+          <div class="bg-gray-50 rounded-lg p-4 sm:p-6">
+            <h3 class="font-bold text-gray-900 mb-4 text-base sm:text-lg">Daily Breakdown by Tier</h3>
+            <div class="overflow-x-auto">
+              <table class="w-full text-sm sm:text-base border-collapse">
+                <thead>
+                  <tr class="bg-gray-200">
+                    <th class="border border-gray-300 px-3 sm:px-4 py-2 text-left font-bold">Category</th>
+                    <th class="border border-gray-300 px-3 sm:px-4 py-2 text-left font-bold">Backpacker</th>
+                    <th class="border border-gray-300 px-3 sm:px-4 py-2 text-left font-bold">Mid-Range</th>
+                    <th class="border border-gray-300 px-3 sm:px-4 py-2 text-left font-bold">Nomad</th>
+                    <th class="border border-gray-300 px-3 sm:px-4 py-2 text-left font-bold">Luxury</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr class="hover:bg-gray-50">
+                    <td class="border border-gray-300 px-3 sm:px-4 py-2"><strong>Accommodation</strong></td>
+                    <td class="border border-gray-300 px-3 sm:px-4 py-2">$15–25</td>
+                    <td class="border border-gray-300 px-3 sm:px-4 py-2">$50–80</td>
+                    <td class="border border-gray-300 px-3 sm:px-4 py-2">$100–150</td>
+                    <td class="border border-gray-300 px-3 sm:px-4 py-2">$250+</td>
+                  </tr>
+                  <tr class="hover:bg-gray-50">
+                    <td class="border border-gray-300 px-3 sm:px-4 py-2"><strong>Food</strong></td>
+                    <td class="border border-gray-300 px-3 sm:px-4 py-2">$5–8</td>
+                    <td class="border border-gray-300 px-3 sm:px-4 py-2">$15–25</td>
+                    <td class="border border-gray-300 px-3 sm:px-4 py-2">$25–40</td>
+                    <td class="border border-gray-300 px-3 sm:px-4 py-2">$60+</td>
+                  </tr>
+                  <tr class="hover:bg-gray-50">
+                    <td class="border border-gray-300 px-3 sm:px-4 py-2"><strong>Transport</strong></td>
+                    <td class="border border-gray-300 px-3 sm:px-4 py-2">$2–3</td>
+                    <td class="border border-gray-300 px-3 sm:px-4 py-2">$5–10</td>
+                    <td class="border border-gray-300 px-3 sm:px-4 py-2">$10–15</td>
+                    <td class="border border-gray-300 px-3 sm:px-4 py-2">$30+</td>
+                  </tr>
+                  <tr class="hover:bg-gray-50">
+                    <td class="border border-gray-300 px-3 sm:px-4 py-2"><strong>Activities/Fun</strong></td>
+                    <td class="border border-gray-300 px-3 sm:px-4 py-2">$0–5</td>
+                    <td class="border border-gray-300 px-3 sm:px-4 py-2">$10–20</td>
+                    <td class="border border-gray-300 px-3 sm:px-4 py-2">$20–40</td>
+                    <td class="border border-gray-300 px-3 sm:px-4 py-2">$100+</td>
+                  </tr>
+                  <tr class="bg-yellow-100 hover:bg-yellow-150">
+                    <td class="border border-gray-300 px-3 sm:px-4 py-2 font-bold"><strong>DAILY TOTAL</strong></td>
+                    <td class="border border-gray-300 px-3 sm:px-4 py-2 font-bold">$22–41</td>
+                    <td class="border border-gray-300 px-3 sm:px-4 py-2 font-bold">$80–135</td>
+                    <td class="border border-gray-300 px-3 sm:px-4 py-2 font-bold">$155–245</td>
+                    <td class="border border-gray-300 px-3 sm:px-4 py-2 font-bold">$440+</td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+          </div>
+
+          <div class="bg-blue-50 rounded-lg p-4 sm:p-6">
+            <h3 class="font-bold text-gray-900 mb-3 text-base sm:text-lg">Monthly Estimates (2026)</h3>
+            <ul class="space-y-2 text-sm sm:text-base text-gray-700">
+              <li><strong>Backpacker:</strong> $660–1,230/month</li>
+              <li><strong>Mid-Range:</strong> $2,400–4,050/month</li>
+              <li><strong>Nomad (reference baseline):</strong> $4,650–7,350/month</li>
+              <li><strong>Luxury:</strong> $13,200+/month</li>
+            </ul>
+          </div>
+
+          <div>
+            <h3 class="font-bold text-gray-900 mb-3 text-base sm:text-lg">Currency Info</h3>
+            <p class="text-sm sm:text-base text-gray-700 mb-3">
+              <strong>IDR to USD:</strong> ~1 USD = 16,000–17,000 IDR (2026 rates vary). Use <a href={affiliates.wise} target="_blank" rel="noopener noreferrer" class="text-blue-600 hover:underline font-medium">Wise</a> for real-time, low-fee currency conversion.
+            </p>
+            <p class="text-sm sm:text-base text-gray-700">
+              <strong>Tip:</strong> Open a Wise account before traveling. Multi-currency card = no ATM fees, best exchange rates.
+            </p>
+          </div>
+
+          <div>
+            <h3 class="font-bold text-gray-900 mb-3 text-base sm:text-lg">Money-Saving Hacks</h3>
+            <ul class="space-y-2 text-sm sm:text-base text-gray-700">
+              <li><strong>Eat at warungs:</strong> Meals IDR 20–50k ($1–3) vs. restaurants IDR 150k+ ($9+).</li>
+              <li><strong>Walk / Grab instead of scooter:</strong> Safer, almost same cost.</li>
+              <li><strong>Monthly accommodation deals:</strong> Ask for 20–30% discount on 30-day stays.</li>
+              <li><strong>Happy hours:</strong> 2-for-1 cocktails, 4–6 PM at beach clubs.</li>
+              <li><strong>Yoga + wellness:</strong> Drop-in classes cheaper than gyms. Community events often free.</li>
+            </ul>
+          </div>
+        </div>
+      </section>
+
+      {/* Section 5: Scooter Safety */}
+      <section>
+        <h2 class="text-2xl sm:text-3xl md:text-4xl font-bold text-gray-900 mb-6 sm:mb-8">
+          5. Scooter Safety Card
+        </h2>
+
+        <div class="prose prose-sm sm:prose max-w-none space-y-6">
+          <p class="text-base sm:text-lg text-gray-700 leading-relaxed">
+            1-page printable: pre-rental inspection (10 items), road rules, police bribe reality, emergency contacts, insurance.
+          </p>
+
+          <div class="bg-red-50 border-l-4 border-red-400 p-4 sm:p-6">
+            <h3 class="font-bold text-gray-900 mb-3 text-base sm:text-lg">Pre-Rental Inspection Checklist</h3>
+            <ol class="space-y-2 text-sm sm:text-base text-gray-700">
+              <li>[ ] <strong>Brakes:</strong> Front + rear responsive. Squeeze brake handle; should feel firm.</li>
+              <li>[ ] <strong>Tires:</strong> Tread visible. Not bald. Check both.</li>
+              <li>[ ] <strong>Lights:</strong> Front + rear light work. Headlight is critical.</li>
+              <li>[ ] <strong>Horn:</strong> Loud. Test it.</li>
+              <li>[ ] <strong>Engine:</strong> Starts easily, no rough idle. Ask them to rev it.</li>
+              <li>[ ] <strong>Fuel:</strong> Tank is full or nearly full (record fuel level).</li>
+              <li>[ ] <strong>Body/mirrors:</strong> No major damage. Take photos of existing scratches.</li>
+              <li>[ ] <strong>Lock/key:</strong> Lock works smoothly. Key doesn't stick.</li>
+              <li>[ ] <strong>Registration + documents:</strong> Rental shop should have paperwork. Take photo of it.</li>
+              <li>[ ] <strong>Insurance:</strong> Ask "berapa asuransi?" (how much insurance?). Pay IDR 50–100k extra for coverage.</li>
+            </ol>
+          </div>
+
+          <div class="bg-yellow-50 rounded-lg p-4 sm:p-6">
+            <h3 class="font-bold text-gray-900 mb-3 text-base sm:text-lg">Road Rules (you need to know)</h3>
+            <ul class="space-y-2 text-sm sm:text-base text-gray-700">
+              <li><strong>Drive LEFT side of road.</strong> (Yes, Bali drives on the left.)</li>
+              <li><strong>Helmet required.</strong> Police WILL stop you without one. Fines IDR 100k ($6).</li>
+              <li><strong>Speed limits:</strong> 60 km/h in towns, 80 km/h on highways. Enforce loosely but don't push it.</li>
+              <li><strong>Lights on:</strong> Even during day, headlight on = safer + legally required.</li>
+              <li><strong>No mobile phones.</strong> Using phone while riding = IDR 100k fine.</li>
+              <li><strong>Horn before passing.</strong> Drivers here EXPECT honking. Honk = "I'm coming around."</li>
+              <li><strong>Stop at red lights.</strong> Locals run them but foreigners can't. Police target tourists.</li>
+            </ul>
+          </div>
+
+          <div class="bg-gray-50 rounded-lg p-4 sm:p-6">
+            <h3 class="font-bold text-gray-900 mb-3 text-base sm:text-lg">Police Bribe Reality Check</h3>
+            <p class="text-sm sm:text-base text-gray-700 mb-3">
+              <strong>Common story:</strong> "Police stopped me and asked for a 'donation.'"
+            </p>
+            <p class="text-sm sm:text-base text-gray-700 mb-3">
+              <strong>What's real:</strong> Police CAN stop tourists. Fines are legit (IDR 100–500k depending on violation). They may informally offer to "settle it here" = bribe. It's technically illegal but happens.
+            </p>
+            <p class="text-sm sm:text-base text-gray-700">
+              <strong>How to handle:</strong> Ask for a receipt ("kuitansi?"). Most will give formal receipt instead of taking bribe. If they insist on bribe, negotiate down (IDR 100k typical) and move on. IMPORTANT: If you have international license + rental papers, most police let you go.
+            </p>
+          </div>
+
+          <div class="overflow-x-auto">
+            <h3 class="font-bold text-gray-900 mb-3 text-base sm:text-lg">Common Road Hazards</h3>
+            <table class="w-full text-sm sm:text-base border-collapse">
+              <thead>
+                <tr class="bg-gray-200">
+                  <th class="border border-gray-300 px-3 sm:px-4 py-2 text-left font-bold">Hazard</th>
+                  <th class="border border-gray-300 px-3 sm:px-4 py-2 text-left font-bold">How to Avoid</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr class="hover:bg-gray-50">
+                  <td class="border border-gray-300 px-3 sm:px-4 py-2"><strong>Potholes / uneven road</strong></td>
+                  <td class="border border-gray-300 px-3 sm:px-4 py-2">Scan road ahead. Slow down in wet season.</td>
+                </tr>
+                <tr class="hover:bg-gray-50">
+                  <td class="border border-gray-300 px-3 sm:px-4 py-2"><strong>Stray dogs / dogs crossing</strong></td>
+                  <td class="border border-gray-300 px-3 sm:px-4 py-2">Honk early. Slow down. Most move out of way.</td>
+                </tr>
+                <tr class="hover:bg-gray-50">
+                  <td class="border border-gray-300 px-3 sm:px-4 py-2"><strong>Scooter / motorbike coming at you (wrong side)</strong></td>
+                  <td class="border border-gray-300 px-3 sm:px-4 py-2">Expect it. Move right, brake, let them pass. Happens daily.</td>
+                </tr>
+                <tr class="hover:bg-gray-50">
+                  <td class="border border-gray-300 px-3 sm:px-4 py-2"><strong>Rain = slippery roads</strong></td>
+                  <td class="border border-gray-300 px-3 sm:px-4 py-2">Slow down 30%. Don't brake hard. Avoid rainy season riding if possible.</td>
+                </tr>
+                <tr class="hover:bg-gray-50">
+                  <td class="border border-gray-300 px-3 sm:px-4 py-2"><strong>Traffic jams (esp. Canggu)</strong></td>
+                  <td class="border border-gray-300 px-3 sm:px-4 py-2">Leave early. Avoid 7–9 AM + 5–7 PM rush hours.</td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+
+          <div class="bg-red-50 border-l-4 border-red-400 p-4 sm:p-6">
+            <h3 class="font-bold text-gray-900 mb-3 text-base sm:text-lg">When NOT to Ride</h3>
+            <ul class="space-y-2 text-sm sm:text-base text-gray-700">
+              <li>[ ] After drinking (accidents are common, police check)</li>
+              <li>[ ] At night if you don't know the road (headlights can be dodgy)</li>
+              <li>[ ] During heavy rain (visibility + traction are terrible)</li>
+              <li>[ ] If you're not confident (best to use Grab instead)</li>
+              <li>[ ] On highways / main roads without experience</li>
+            </ul>
+          </div>
+
+          <div>
+            <h3 class="font-bold text-gray-900 mb-3 text-base sm:text-lg">Insurance + Documents</h3>
+            <p class="text-sm sm:text-base text-gray-700 mb-3">
+              <strong>Always get insurance:</strong> IDR 50–100k ($3–6) covers basic damage. Ask rental shop for detailed policy.
+            </p>
+            <p class="text-sm sm:text-base text-gray-700 mb-3">
+              <strong>Bring:</strong> International driving license (IDP) from your home country. Passport. Rental agreement (photo copy).
+            </p>
+            <p class="text-sm sm:text-base text-gray-700">
+              <strong>If accident:</strong> Call police (call 110 or ask bystander). Get police report number. Report to rental shop IMMEDIATELY. Be honest — most insurance is basic and covers damage up to IDR 5M.
+            </p>
+          </div>
+        </div>
+      </section>
+
+      {/* Section 6: Coworking */}
+      <section>
+        <h2 class="text-2xl sm:text-3xl md:text-4xl font-bold text-gray-900 mb-6 sm:mb-8">
+          6. Coworking Comparison Sheet
+        </h2>
+
+        <div class="prose prose-sm sm:prose max-w-none space-y-6">
+          <p class="text-base sm:text-lg text-gray-700 leading-relaxed">
+            Comparison table of 10+ coworking spaces: WiFi speed, monthly price, vibe, coffee, best for (calls / focus / community).
+          </p>
+
+          <div class="bg-gray-50 rounded-lg p-4 sm:p-6">
+            <h3 class="font-bold text-gray-900 mb-4 text-base sm:text-lg">Top Coworking Spaces (2026)</h3>
+            <div class="overflow-x-auto">
+              <table class="w-full text-xs sm:text-sm border-collapse">
+                <thead>
+                  <tr class="bg-gray-200">
+                    <th class="border border-gray-300 px-2 sm:px-3 py-2 text-left font-bold">Space</th>
+                    <th class="border border-gray-300 px-2 sm:px-3 py-2 text-left font-bold">Location</th>
+                    <th class="border border-gray-300 px-2 sm:px-3 py-2 text-left font-bold">WiFi</th>
+                    <th class="border border-gray-300 px-2 sm:px-3 py-2 text-left font-bold">Price/mo</th>
+                    <th class="border border-gray-300 px-2 sm:px-3 py-2 text-left font-bold">Vibe</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr class="hover:bg-gray-50">
+                    <td class="border border-gray-300 px-2 sm:px-3 py-2"><mark class="bg-yellow-100 px-1">[KSENIA]</mark></td>
+                    <td class="border border-gray-300 px-2 sm:px-3 py-2">Canggu</td>
+                    <td class="border border-gray-300 px-2 sm:px-3 py-2">Excellent</td>
+                    <td class="border border-gray-300 px-2 sm:px-3 py-2"><mark class="bg-yellow-100 px-1">[PRICE]</mark></td>
+                    <td class="border border-gray-300 px-2 sm:px-3 py-2"><mark class="bg-yellow-100 px-1">[VIBE]</mark></td>
+                  </tr>
+                  <tr class="hover:bg-gray-50">
+                    <td class="border border-gray-300 px-2 sm:px-3 py-2"><mark class="bg-yellow-100 px-1">[KSENIA]</mark></td>
+                    <td class="border border-gray-300 px-2 sm:px-3 py-2">Ubud</td>
+                    <td class="border border-gray-300 px-2 sm:px-3 py-2">Good</td>
+                    <td class="border border-gray-300 px-2 sm:px-3 py-2"><mark class="bg-yellow-100 px-1">[PRICE]</mark></td>
+                    <td class="border border-gray-300 px-2 sm:px-3 py-2"><mark class="bg-yellow-100 px-1">[VIBE]</mark></td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+            <p class="text-xs sm:text-sm text-gray-600 mt-3">
+              <mark class="bg-yellow-100 px-1">[KSENIA TO ADD: 8+ coworking spaces with names, locations, pricing, WiFi speed, vibes]</mark>
+            </p>
+          </div>
+
+          <div>
+            <h3 class="font-bold text-gray-900 mb-3 text-base sm:text-lg">Decision Matrix (Which Space?)</h3>
+            <ul class="space-y-2 text-sm sm:text-base text-gray-700">
+              <li><strong>Best for calls:</strong> Quiet private pods, good acoustics</li>
+              <li><strong>Best for focus:</strong> Minimal distractions, silent zones</li>
+              <li><strong>Best for community:</strong> Social areas, events, happy hours</li>
+              <li><strong>Best for budget:</strong> Day passes IDR 100–150k ($6–9)</li>
+              <li><strong>Best for coffee:</strong> Cafés within space or adjacent</li>
+            </ul>
+          </div>
+
+          <div class="bg-blue-50 rounded-lg p-4 sm:p-6">
+            <h3 class="font-bold text-gray-900 mb-3 text-base sm:text-lg">WiFi Reality Check</h3>
+            <p class="text-sm sm:text-base text-gray-700 mb-3">
+              <strong>Typical Canggu coworking speeds (2026):</strong> 30–100 Mbps download, 10–50 Mbps upload. More than enough for Zoom calls + video streaming.
+            </p>
+            <p class="text-sm sm:text-base text-gray-700">
+              <strong>Tip:</strong> Get a local SIM card (IDR 100–300k data plan). Backup for WiFi failures. Most spaces have good WiFi but redundancy is smart.
+            </p>
+          </div>
+        </div>
+      </section>
+
+      {/* Section 7: Canggu Cafés */}
+      <section>
+        <h2 class="text-2xl sm:text-3xl md:text-4xl font-bold text-gray-900 mb-6 sm:mb-8">
+          7. Canggu Café Day Plan
+        </h2>
+
+        <div class="prose prose-sm sm:prose max-w-none space-y-6">
+          <p class="text-base sm:text-lg text-gray-700 leading-relaxed">
+            5 curated Canggu cafés by neighborhood, vibe, must-order items, peak hours to avoid, and maps links.
+          </p>
+
+          <div class="bg-blue-50 rounded-lg p-4 sm:p-6">
+            <h3 class="font-bold text-gray-900 mb-4 text-base sm:text-lg">Sample Café Crawl Itinerary</h3>
+            <ul class="space-y-3 text-sm sm:text-base text-gray-700">
+              <li><strong>6:30 AM:</strong> Sunrise at café #1 (Batu Bolong), açaí bowl, coffee</li>
+              <li><strong>9:00 AM:</strong> Walk to café #3 (Lelak Gajah), work / write</li>
+              <li><strong>12:30 PM:</strong> Lunch at café #4 (Canggu Center), refuel</li>
+              <li><strong>2:00 PM:</strong> Café #2 (Pantai Indah), afternoon deep work</li>
+              <li><strong>5:00 PM:</strong> Sunset at café #1 or beach club with café</li>
+            </ul>
+            <p class="text-xs sm:text-sm text-gray-600 mt-3"><strong>Cost estimate:</strong> IDR 300–400k ($19–25) for 5 stops.</p>
+          </div>
+
+          <div class="bg-yellow-50 rounded-lg p-4 sm:p-6">
+            <h3 class="font-bold text-gray-900 mb-3 text-base sm:text-lg">Café Details (Canggu Neighborhoods)</h3>
+            <p class="text-sm sm:text-base text-gray-700 mb-4">
+              <mark class="bg-yellow-100 px-1">[KSENIA TO ADD: 5 café names with location, vibe, must-order, WiFi quality, peak hours, cost, and Google Maps links]</mark>
+            </p>
+            <p class="text-sm sm:text-base text-gray-700">
+              <strong>Neighborhoods:</strong> Batu Bolong Beach, Pantai Indah, Lelak Gajah (center), Jl. Raya Canggu, + 1 secondary spot
+            </p>
+          </div>
+
+          <div class="bg-gray-50 rounded-lg p-4 sm:p-6">
+            <h3 class="font-bold text-gray-900 mb-3 text-base sm:text-lg">Coffee Quality + WiFi Ranking</h3>
+            <p class="text-sm sm:text-base text-gray-700 mb-3">
+              <strong>Bali café standards:</strong> Single-origin beans from Indonesia (Gayo, Aceh, Sulawesi). Espresso-based drinks well-executed. Cold brew standard everywhere. Oat milk available. Price: IDR 40–70k ($2–4).
+            </p>
+            <p class="text-sm sm:text-base text-gray-700">
+              <strong>WiFi ranking (estimated):</strong> Café #4 > Café #2 > Café #3 > Café #1 (beach areas spotty).
+            </p>
+          </div>
+
+          <div class="bg-blue-50 rounded-lg p-4 sm:p-6">
+            <h3 class="font-bold text-gray-900 mb-3 text-base sm:text-lg">Café Etiquette</h3>
+            <ul class="space-y-2 text-sm sm:text-base text-gray-700">
+              <li><strong>Laptop use:</strong> OK at all spots. Buy something every 2–3 hours.</li>
+              <li><strong>Noise:</strong> Keep video calls quiet. Step outside if needed.</li>
+              <li><strong>Seating:</strong> Don't camp all day during 12–2 PM lunch rush.</li>
+              <li><strong>Tips:</strong> Round up to next 5–10k IDR or 10% at upscale spots.</li>
+              <li><strong>Hours:</strong> Most open 7 AM–10 PM. Check Instagram for exact hours (they change).</li>
+            </ul>
+          </div>
+        </div>
+      </section>
+
+      {/* Section 8: Food Guide */}
+      <section>
+        <h2 class="text-2xl sm:text-3xl md:text-4xl font-bold text-gray-900 mb-6 sm:mb-8">
+          8. Bali Food Guide by Vibe
+        </h2>
+
+        <div class="prose prose-sm sm:prose max-w-none space-y-6">
+          <p class="text-base sm:text-lg text-gray-700 leading-relaxed">
+            5 restaurant/warung picks per vibe: cheap eats, date nights, sunset spots, vegan, late-night. Maps links + must-order items.
+          </p>
+
+          <div>
+            <h3 class="font-bold text-gray-900 mb-3 text-base sm:text-lg">Food by Vibe (5 categories)</h3>
+            <div class="space-y-4">
+              <div class="border-l-4 border-yellow-400 bg-yellow-50 p-4 sm:p-6">
+                <h4 class="font-bold text-gray-900 mb-2 text-base sm:text-lg">Cheap Eats (Warungs)</h4>
+                <p class="text-sm sm:text-base text-gray-700 mb-2">IDR 20–50k per meal. Authentic, where locals eat.</p>
+                <p class="text-sm sm:text-base text-gray-700"><mark class="bg-yellow-100 px-1">[KSENIA TO ADD: 5 warung names with location, must-order, vibe, maps links]</mark></p>
+              </div>
+
+              <div class="border-l-4 border-pink-400 bg-pink-50 p-4 sm:p-6">
+                <h4 class="font-bold text-gray-900 mb-2 text-base sm:text-lg">Date Night (Romantic)</h4>
+                <p class="text-sm sm:text-base text-gray-700 mb-2">IDR 150k–400k per person. Soft lighting, good food.</p>
+                <p class="text-sm sm:text-base text-gray-700"><mark class="bg-yellow-100 px-1">[KSENIA TO ADD: 5 restaurant names with location, vibe, must-order, dress code, maps links]</mark></p>
+              </div>
+
+              <div class="border-l-4 border-orange-400 bg-orange-50 p-4 sm:p-6">
+                <h4 class="font-bold text-gray-900 mb-2 text-base sm:text-lg">Sunset Spots (Views + Food)</h4>
+                <p class="text-sm sm:text-base text-gray-700 mb-2">IDR 100k–300k per person. Ocean views, relaxed.</p>
+                <p class="text-sm sm:text-base text-gray-700"><mark class="bg-yellow-100 px-1">[KSENIA TO ADD: 5 beach club/restaurant names with views, must-order, sunset time, pro tips, maps links]</mark></p>
+              </div>
+
+              <div class="border-l-4 border-green-400 bg-green-50 p-4 sm:p-6">
+                <h4 class="font-bold text-gray-900 mb-2 text-base sm:text-lg">Vegan (Plant-Based)</h4>
+                <p class="text-sm sm:text-base text-gray-700 mb-2">IDR 80k–200k per meal. Ubud especially strong vegan scene.</p>
+                <p class="text-sm sm:text-base text-gray-700"><mark class="bg-yellow-100 px-1">[KSENIA TO ADD: 5 vegan restaurant names with location, vibe, signature dishes, maps links]</mark></p>
+              </div>
+
+              <div class="border-l-4 border-blue-400 bg-blue-50 p-4 sm:p-6">
+                <h4 class="font-bold text-gray-900 mb-2 text-base sm:text-lg">Late-Night (Open Past 10 PM)</h4>
+                <p class="text-sm sm:text-base text-gray-700 mb-2">IDR 60k–250k per meal. Casual, no dress code.</p>
+                <p class="text-sm sm:text-base text-gray-700"><mark class="bg-yellow-100 px-1">[KSENIA TO ADD: 5 late-night spot names, open until time, best for, vibe, maps links]</mark></p>
+              </div>
+            </div>
+          </div>
+
+          <div>
+            <h3 class="font-bold text-gray-900 mb-3 text-base sm:text-lg">Bali Food Staples</h3>
+            <ul class="space-y-2 text-sm sm:text-base text-gray-700">
+              <li><strong>Nasi Goreng:</strong> Fried rice, every warung, IDR 25–50k</li>
+              <li><strong>Satay (Sate):</strong> Grilled meat skewers, peanut sauce, IDR 30–60k</li>
+              <li><strong>Gado-gado:</strong> Mixed veggies + peanut sauce, IDR 25–40k</li>
+              <li><strong>Mie Goreng:</strong> Fried noodles, IDR 25–50k</li>
+              <li><strong>Soto Ayam:</strong> Yellow turmeric chicken soup, IDR 25–40k</li>
+              <li><strong>Babi Guling:</strong> Balinese specialty, roasted pig, IDR 80–150k (try once)</li>
+              <li><strong>Lumpia:</strong> Spring rolls, IDR 15–30k</li>
+              <li><strong>Fruit smoothies:</strong> Mango, papaya, banana, passion fruit, IDR 25–40k</li>
+            </ul>
+          </div>
+
+          <div class="bg-yellow-50 border-l-4 border-yellow-400 p-4 sm:p-6">
+            <h3 class="font-bold text-gray-900 mb-3 text-base sm:text-lg">Food Safety Tips</h3>
+            <ul class="space-y-2 text-sm sm:text-base text-gray-700">
+              <li>✓ Eat where locals eat (sign of freshness)</li>
+              <li>✓ Cooked food safer than raw (cooked rice, meat, eggs)</li>
+              <li>✓ Bottled or boiled water only</li>
+              <li>✗ Ice from street carts (unless sealed bag)</li>
+              <li>✗ Meat left out in sun >2 hours</li>
+            </ul>
+          </div>
+
+          <div>
+            <h3 class="font-bold text-gray-900 mb-3 text-base sm:text-lg">Dietary Restrictions</h3>
+            <p class="text-sm sm:text-base text-gray-700 mb-2">
+              <strong>Vegan:</strong> Excellent. Ubud especially. Most restaurants modify or suggest options.
+            </p>
+            <p class="text-sm sm:text-base text-gray-700 mb-2">
+              <strong>Vegetarian:</strong> No problem. Rice + veggies + peanut sauce standard.
+            </p>
+            <p class="text-sm sm:text-base text-gray-700 mb-2">
+              <strong>Gluten-free:</strong> Harder. Ask "tanpa gandum" (without wheat). Soy sauce + satay sauce contain wheat.
+            </p>
+            <p class="text-sm sm:text-base text-gray-700">
+              <strong>Allergies (peanuts, shellfish):</strong> Tell your server IMMEDIATELY. Common in Bali.
+            </p>
+          </div>
+        </div>
+      </section>
+
+      {/* Section 9: Beach Clubs */}
+      <section>
+        <h2 class="text-2xl sm:text-3xl md:text-4xl font-bold text-gray-900 mb-6 sm:mb-8">
+          9. Bali Beach Club Map
+        </h2>
+
+        <div class="prose prose-sm sm:prose max-w-none space-y-6">
+          <p class="text-base sm:text-lg text-gray-700 leading-relaxed">
+            Top 8 beach clubs by vibe, dress code, day-bed pricing, peak hours, and what they're known for.
+          </p>
+
+          <div>
+            <h3 class="font-bold text-gray-900 mb-4 text-base sm:text-lg">Beach Club Comparison</h3>
+            <div class="overflow-x-auto">
+              <table class="w-full text-xs sm:text-sm border-collapse">
+                <thead>
+                  <tr class="bg-gray-200">
+                    <th class="border border-gray-300 px-2 sm:px-3 py-2 text-left font-bold">Club</th>
+                    <th class="border border-gray-300 px-2 sm:px-3 py-2 text-left font-bold">Location</th>
+                    <th class="border border-gray-300 px-2 sm:px-3 py-2 text-left font-bold">Day-bed</th>
+                    <th class="border border-gray-300 px-2 sm:px-3 py-2 text-left font-bold">Peak Hours</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr class="hover:bg-gray-50">
+                    <td class="border border-gray-300 px-2 sm:px-3 py-2"><mark class="bg-yellow-100 px-1">[KSENIA]</mark></td>
+                    <td class="border border-gray-300 px-2 sm:px-3 py-2"><mark class="bg-yellow-100 px-1">[LOCATION]</mark></td>
+                    <td class="border border-gray-300 px-2 sm:px-3 py-2"><mark class="bg-yellow-100 px-1">[PRICE]</mark></td>
+                    <td class="border border-gray-300 px-2 sm:px-3 py-2"><mark class="bg-yellow-100 px-1">[HOURS]</mark></td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+            <p class="text-xs sm:text-sm text-gray-600 mt-3">
+              <mark class="bg-yellow-100 px-1">[KSENIA TO ADD: 8 club names with locations, vibes, dress codes, day-bed pricing, known-for, maps links]</mark>
+            </p>
+          </div>
+
+          <div>
+            <h3 class="font-bold text-gray-900 mb-3 text-base sm:text-lg">By Area</h3>
+            <div class="space-y-3">
+              <div class="border-l-4 border-blue-400 bg-blue-50 p-4 sm:p-6">
+                <h4 class="font-bold text-gray-900 mb-2 text-base">Canggu (Party Central)</h4>
+                <p class="text-sm sm:text-base text-gray-700"><strong>Vibe:</strong> Loud, young, DJs, party atmosphere. <strong>Cost/person:</strong> IDR 400k–1.5M ($25–94).</p>
+              </div>
+
+              <div class="border-l-4 border-orange-400 bg-orange-50 p-4 sm:p-6">
+                <h4 class="font-bold text-gray-900 mb-2 text-base">Seminyak (Upscale)</h4>
+                <p class="text-sm sm:text-base text-gray-700"><strong>Vibe:</strong> Sophisticated, sunset focus, good food + drinks. <strong>Cost/person:</strong> IDR 1.2M–3M ($75–188).</p>
+              </div>
+
+              <div class="border-l-4 border-purple-400 bg-purple-50 p-4 sm:p-6">
+                <h4 class="font-bold text-gray-900 mb-2 text-base">Uluwatu (Sunset + Views)</h4>
+                <p class="text-sm sm:text-base text-gray-700"><strong>Vibe:</strong> Clifftop views, sunset obsession, less party-y. <strong>Cost/person:</strong> IDR 500k–1.5M ($31–94).</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="bg-yellow-50 border-l-4 border-yellow-400 p-4 sm:p-6">
+            <h3 class="font-bold text-gray-900 mb-3 text-base sm:text-lg">Sunset Times + Happy Hours</h3>
+            <p class="text-sm sm:text-base text-gray-700 mb-3">
+              <strong>Sunset:</strong> May–August ~6:00–6:15 PM. September–April ~5:30–6:00 PM. Arrive 30 min early for good spot.
+            </p>
+            <p class="text-sm sm:text-base text-gray-700">
+              <strong>Happy hours:</strong> Usually 4–6 PM or 5–7 PM. 2-for-1 cocktails, discounted beers, free appetizers. Saves 30–40%.
+            </p>
+          </div>
+
+          <div class="bg-red-50 border-l-4 border-red-400 p-4 sm:p-6">
+            <h3 class="font-bold text-gray-900 mb-3 text-base sm:text-lg">Safety Notes</h3>
+            <ul class="space-y-2 text-sm sm:text-base text-gray-700">
+              <li>✓ Drinks: Don't leave unattended. Crime is rare but exists.</li>
+              <li>✓ Valuables: Phone/wallet in front pockets. Theft uncommon but not zero.</li>
+              <li>✓ Drunk driving: Get Grab home. Don't scooter drunk.</li>
+              <li>✓ Solo travelers: Canggu clubs safe. You'll meet people quickly.</li>
+              <li>✗ Drugs: Police don't mess around. Say no. Full stop.</li>
+            </ul>
+          </div>
+        </div>
+      </section>
+
+      {/* Section 10: Rainy Season */}
+      <section>
+        <h2 class="text-2xl sm:text-3xl md:text-4xl font-bold text-gray-900 mb-6 sm:mb-8">
+          10. Rainy Season Survival Kit
+        </h2>
+
+        <div class="prose prose-sm sm:prose max-w-none space-y-6">
+          <p class="text-base sm:text-lg text-gray-700 leading-relaxed">
+            Packing checklist (8 essentials), 10 indoor activities by area, monthly rain intensity calendar, timing guide for activities.
+          </p>
+
+          <div class="bg-blue-50 rounded-lg p-4 sm:p-6">
+            <h3 class="font-bold text-gray-900 mb-3 text-base sm:text-lg">Rainy Season Overview (Nov–March)</h3>
+            <p class="text-sm sm:text-base text-gray-700 mb-3">
+              <strong>What it means:</strong> Not continuous rain. Usually 1–3 hours per day, often afternoon/evening. Mornings often clear + beautiful. High humidity (80–90%).
+            </p>
+            <p class="text-sm sm:text-base text-gray-700">
+              <strong>Upside:</strong> 30–50% cheaper accommodation. Fewer tourists. Flights cheaper. <strong>Downside:</strong> Humidity. Potential delays. Scooters riskier.
+            </p>
+          </div>
+
+          <div>
+            <h3 class="font-bold text-gray-900 mb-3 text-base sm:text-lg">Packing Checklist (8 Essentials)</h3>
+            <ul class="space-y-2 text-sm sm:text-base text-gray-700">
+              <li>[ ] <strong>Lightweight rain jacket</strong> (compact, packable, quick-dry)</li>
+              <li>[ ] <strong>Quick-dry pants / shorts</strong> (NOT jeans; polyester/nylon dries in 2–3 hours)</li>
+              <li>[ ] <strong>Waterproof bag</strong> (for phone, documents, valuables)</li>
+              <li>[ ] <strong>Umbrella or rain cap</strong> (compact umbrella + rain cap = backup options)</li>
+              <li>[ ] <strong>Fast-drying shoes</strong> (trainers or waterproof hiking shoes, NOT canvas)</li>
+              <li>[ ] <strong>Moisture-absorbing products</strong> (silica gel packs for electronics, clothes)</li>
+              <li>[ ] <strong>Compact towel</strong> (microfiber, quick-dry, doesn't mold)</li>
+              <li>[ ] <strong>Fungal cream</strong> (Lotrimin or generic; humidity = higher fungal infection risk)</li>
+            </ul>
+          </div>
+
+          <div>
+            <h3 class="font-bold text-gray-900 mb-3 text-base sm:text-lg">Monthly Rain Intensity (Nov–March)</h3>
+            <div class="overflow-x-auto">
+              <table class="w-full text-sm sm:text-base border-collapse">
+                <thead>
+                  <tr class="bg-gray-200">
+                    <th class="border border-gray-300 px-3 sm:px-4 py-2 text-left font-bold">Month</th>
+                    <th class="border border-gray-300 px-3 sm:px-4 py-2 text-left font-bold">Rain Level</th>
+                    <th class="border border-gray-300 px-3 sm:px-4 py-2 text-left font-bold">Days/week</th>
+                    <th class="border border-gray-300 px-3 sm:px-4 py-2 text-left font-bold">Outdoor OK?</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr class="hover:bg-gray-50">
+                    <td class="border border-gray-300 px-3 sm:px-4 py-2"><strong>November</strong></td>
+                    <td class="border border-gray-300 px-3 sm:px-4 py-2">Light</td>
+                    <td class="border border-gray-300 px-3 sm:px-4 py-2">2–3</td>
+                    <td class="border border-gray-300 px-3 sm:px-4 py-2">Yes, mostly clear</td>
+                  </tr>
+                  <tr class="hover:bg-gray-50">
+                    <td class="border border-gray-300 px-3 sm:px-4 py-2"><strong>December</strong></td>
+                    <td class="border border-gray-300 px-3 sm:px-4 py-2">Heavy</td>
+                    <td class="border border-gray-300 px-3 sm:px-4 py-2">3–5</td>
+                    <td class="border border-gray-300 px-3 sm:px-4 py-2">Yes (mornings)</td>
+                  </tr>
+                  <tr class="hover:bg-gray-50">
+                    <td class="border border-gray-300 px-3 sm:px-4 py-2"><strong>January</strong></td>
+                    <td class="border border-gray-300 px-3 sm:px-4 py-2">Heavy</td>
+                    <td class="border border-gray-300 px-3 sm:px-4 py-2">3–5</td>
+                    <td class="border border-gray-300 px-3 sm:px-4 py-2">Yes (mornings)</td>
+                  </tr>
+                  <tr class="hover:bg-gray-50">
+                    <td class="border border-gray-300 px-3 sm:px-4 py-2"><strong>February</strong></td>
+                    <td class="border border-gray-300 px-3 sm:px-4 py-2">Heavy</td>
+                    <td class="border border-gray-300 px-3 sm:px-4 py-2">4–5</td>
+                    <td class="border border-gray-300 px-3 sm:px-4 py-2">Caution</td>
+                  </tr>
+                  <tr class="hover:bg-gray-50">
+                    <td class="border border-gray-300 px-3 sm:px-4 py-2"><strong>March</strong></td>
+                    <td class="border border-gray-300 px-3 sm:px-4 py-2">Moderate–heavy</td>
+                    <td class="border border-gray-300 px-3 sm:px-4 py-2">3–4</td>
+                    <td class="border border-gray-300 px-3 sm:px-4 py-2">Yes (mornings)</td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+            <p class="text-xs sm:text-sm text-gray-600 mt-2"><strong>Takeaway:</strong> Dec–Jan rainiest. Feb wettest + hottest. Nov + March gentler.</p>
+          </div>
+
+          <div>
+            <h3 class="font-bold text-gray-900 mb-3 text-base sm:text-lg">Activity Timing Guide</h3>
+            <div class="space-y-3 text-sm sm:text-base text-gray-700">
+              <p><strong>Morning-only (do before 2 PM):</strong> Hikes, scooter trips, beach, temple visits, photography, surfing. Rain usually hits 2–5 PM.</p>
+              <p><strong>Afternoon-OK:</strong> Spas, yoga, restaurants, museums, markets, meditation.</p>
+              <p><strong>All-day:</strong> Coworking, cooking classes, art workshops, colivings, meetings.</p>
+              <p><strong>Avoid:</strong> Diving, long scooter trips, backpacking, beach days (water quality poor, waves rough).</p>
+            </div>
+          </div>
+
+          <div class="bg-yellow-50 rounded-lg p-4 sm:p-6">
+            <h3 class="font-bold text-gray-900 mb-3 text-base sm:text-lg">Indoor Activities by Area (10 recommendations)</h3>
+            <p class="text-sm sm:text-base text-gray-700 mb-3"><mark class="bg-yellow-100 px-1">[KSENIA TO ADD: 10 indoor activities (5 Ubud, 3 Canggu, 2 Seminyak/Sanur) with climate, time, cost, why it's good]</mark></p>
+            <p class="text-xs sm:text-sm text-gray-600"><strong>Examples:</strong> Ubud: Palace + Museum, Cooking class, Art workshop, Yoga drop-in, Market crawl. Canggu: Coworking day-pass, Spa treatment, Fitness class, Café crawl, Live music.</p>
+          </div>
+
+          <div class="bg-gray-50 rounded-lg p-4 sm:p-6">
+            <h3 class="font-bold text-gray-900 mb-3 text-base sm:text-lg">Rainy-Season Hacks</h3>
+            <ul class="space-y-2 text-sm sm:text-base text-gray-700">
+              <li><strong>Weather:</strong> Check Google Maps weather hourly (real-time in Bali).</li>
+              <li><strong>Plan 2 activities/day:</strong> One outdoor (morning), one indoor (afternoon backup).</li>
+              <li><strong>Scooter:</strong> Ride only in dry conditions. If rain starts, grab a café or Grab ride.</li>
+              <li><strong>Health:</strong> Change clothes if soaked (prevents fungal). Hang clothes outside after rain. Shower daily. Drink extra water.</li>
+              <li><strong>Social:</strong> Join coworking communities. Yoga + wellness events MORE in rainy season. Cooking + art classes cheaper + less crowded.</li>
+            </ul>
+          </div>
+
+          <div class="bg-red-50 border-l-4 border-red-400 p-4 sm:p-6">
+            <h3 class="font-bold text-gray-900 mb-3 text-base sm:text-lg">Scooter in Rainy Season (Cautions)</h3>
+            <p class="text-sm sm:text-base text-gray-700 mb-3">
+              <strong>Risks:</strong> Roads slippery (moss from humidity). Visibility drops. Other drivers reckless. Avoid if possible.
+            </p>
+            <p class="text-sm sm:text-base text-gray-700">
+              <strong>If you must:</strong> Slow down (40 km/h max). Avoid big roads. Don't brake hard. Light leather shoes for traction. Full-face helmet + visibility gear.
+            </p>
+            <p class="text-sm sm:text-base text-gray-700">
+              <strong>Better:</strong> Grab when raining. Worth the extra cost for safety + peace of mind.
+            </p>
+          </div>
+
+          <div>
+            <h3 class="font-bold text-gray-900 mb-3 text-base sm:text-lg">Accommodation Tips</h3>
+            <ul class="space-y-2 text-sm sm:text-base text-gray-700">
+              <li>✓ <strong>Choose:</strong> Room with good ventilation + ceiling fan</li>
+              <li>✗ <strong>Avoid:</strong> Ground-floor rooms (humidity, mold risk)</li>
+              <li>✓ <strong>Request:</strong> Rooms on higher floors (better airflow)</li>
+              <li>✓ <strong>Look for:</strong> "Ensuite with AC" or verified reviews mentioning dry/clean</li>
+              <li>✓ <strong>Bring:</strong> Dehumidifier packets (absorb moisture)</li>
+              <li>✓ <strong>Do:</strong> Air out clothes + bedding daily</li>
+            </ul>
+          </div>
+        </div>
+      </section>
+
+      {/* Health & Safety Banner */}
+      <section class="bg-gradient-to-r from-blue-50 to-blue-100 rounded-lg p-6 sm:p-8 border-l-4 border-blue-500">
+        <h2 class="text-2xl sm:text-3xl font-bold text-gray-900 mb-4">Travel Insurance + Safety</h2>
+        <p class="text-base sm:text-lg text-gray-700 mb-4">
+          Travel insurance is essential. <a href={affiliates.safetywing} target="_blank" rel="noopener noreferrer" class="font-bold text-blue-600 hover:underline">SafetyWing</a> covers travel, health, and evacuation for nomads. <strong>$45/month.</strong>
+        </p>
+        <p class="text-sm sm:text-base text-gray-600 italic">
+          *check policy details — most plans cover personal use but not racing.*
+        </p>
+      </section>
+
+      {/* eSIM & Banking Banner */}
+      <section class="bg-gradient-to-r from-green-50 to-green-100 rounded-lg p-6 sm:p-8 border-l-4 border-green-500 mt-8">
+        <h2 class="text-2xl sm:text-3xl font-bold text-gray-900 mb-4">eSIM + Banking for Bali</h2>
+        <div class="space-y-4 text-base sm:text-lg text-gray-700">
+          <p>
+            <strong><a href={affiliates.airalo} target="_blank" rel="noopener noreferrer" class="text-green-600 hover:underline font-bold">Airalo eSIM:</a></strong> Instant local data in Bali. ~$15 for 30 days. No SIM card slot hassle.
+          </p>
+          <p>
+            <strong><a href={affiliates.wise} target="_blank" rel="noopener noreferrer" class="text-green-600 hover:underline font-bold">Wise Multi-Currency Account:</a></strong> Send money + get a debit card. Real exchange rates, no hidden fees. Best for nomads.
+          </p>
+        </div>
+      </section>
+
+    </main>
+
+    {/* Footer */}
+    <footer class="bg-gray-50 border-t border-gray-200 py-8 sm:py-12 px-4 sm:px-6 md:px-8 mt-16 sm:mt-20">
+      <div class="mx-auto max-w-3xl">
+        <p class="text-center text-sm sm:text-base text-gray-600 mb-4">
+          This guide is exclusive to Rumroom World email subscribers. Share it with anyone planning a Bali trip.
+        </p>
+        <p class="text-center text-xs sm:text-sm text-gray-500">
+          Last updated: May 2026. Data checked against current nomad groups and recent traveler reports.
+        </p>
+      </div>
+    </footer>
+  </article>
+</BaseLayout>

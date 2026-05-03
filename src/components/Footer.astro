@@ -1,0 +1,66 @@
+---
+import { AUTHOR_EMAIL, SITE_TITLE } from '../consts';
+---
+
+<footer id="newsletter" class="bg-soft border-t border-primary/10 mt-16 py-14">
+  <div class="container-main">
+    <!-- Subscribe section -->
+    <div class="max-w-2xl mx-auto text-center mb-12">
+      <h2 class="font-display text-3xl md:text-4xl font-bold text-primary mb-4 tracking-tight">
+        Subscribe to new posts &rarr;
+      </h2>
+      <p class="text-primary/70 mb-8">
+        Practical travel guides, slow-travel tips, and hidden spots — delivered when I publish, never spam.
+      </p>
+      <form class="flex flex-col sm:flex-row gap-3 max-w-lg mx-auto">
+        <input
+          type="email"
+          placeholder="Email"
+          required
+          class="flex-1 px-5 py-3 border border-primary/30 bg-secondary text-primary rounded-md focus:outline-none focus:border-accent focus:ring-2 focus:ring-accent/20"
+        />
+        <input
+          type="text"
+          placeholder="Name"
+          class="flex-1 sm:max-w-[40%] px-5 py-3 border border-primary/30 bg-secondary text-primary rounded-md focus:outline-none focus:border-accent focus:ring-2 focus:ring-accent/20"
+        />
+        <button type="submit" class="btn-secondary whitespace-nowrap">
+          Subscribe
+        </button>
+      </form>
+      <p class="text-xs text-primary/50 mt-4">
+        By subscribing, you agree to our <a href="/privacy/" class="underline hover:text-accent">Privacy Policy</a>.
+      </p>
+    </div>
+
+    <!-- Bottom links row -->
+    <div class="grid grid-cols-1 md:grid-cols-3 gap-8 pt-8 border-t border-primary/10">
+      <div>
+        <a href="/" class="inline-block">
+          <img src="/logo.png" alt={SITE_TITLE} class="h-10 w-auto mb-3" />
+        </a>
+        <p class="text-sm text-primary/60">Travel guides for slow travelers and digital nomads.</p>
+      </div>
+      <div>
+        <h3 class="font-bold text-sm uppercase tracking-wide text-primary mb-3">Site</h3>
+        <ul class="space-y-2 text-sm">
+          <li><a href="/about/" class="text-primary/70 hover:text-accent transition-colors">About</a></li>
+          <li><a href="/pillars/bali/" class="text-primary/70 hover:text-accent transition-colors">Bali Guide</a></li>
+          <li><a href="/privacy/" class="text-primary/70 hover:text-accent transition-colors">Privacy</a></li>
+          <li><a href="/affiliate-disclosure/" class="text-primary/70 hover:text-accent transition-colors">Affiliate Disclosure</a></li>
+        </ul>
+      </div>
+      <div>
+        <h3 class="font-bold text-sm uppercase tracking-wide text-primary mb-3">Contact</h3>
+        <p class="text-sm">
+          <a href={`mailto:${AUTHOR_EMAIL}`} class="text-primary/70 hover:text-accent transition-colors">
+            {AUTHOR_EMAIL}
+          </a>
+        </p>
+      </div>
+    </div>
+    <div class="pt-8 mt-8 border-t border-primary/10 text-center text-xs text-primary/50">
+      <p>&copy; 2026 Rumroom World. Written by Kseniia.</p>
+    </div>
+  </div>
+</footer>

@@ -1,0 +1,47 @@
+---
+import { SITE_TITLE } from '../consts';
+---
+
+<header class="bg-secondary border-b border-primary/5">
+  <div class="container-main py-4">
+    <nav class="grid grid-cols-3 items-center gap-4">
+      <!-- Left: nav links -->
+      <ul class="flex gap-6 items-center justify-self-start">
+        <li>
+          <a
+            href="/pillars/bali/"
+            class="font-body text-base font-semibold text-primary hover:text-accent transition-colors"
+          >
+            Bali
+          </a>
+        </li>
+        <li class="hidden sm:block">
+          <a
+            href="/about/"
+            class="font-body text-base font-semibold text-primary hover:text-accent transition-colors"
+          >
+            About
+          </a>
+        </li>
+      </ul>
+
+      <!-- Center: logo -->
+      <a href="/" class="block justify-self-center" aria-label={SITE_TITLE}>
+        <img
+          src="/logo.png"
+          alt={SITE_TITLE}
+          class="h-12 md:h-14 w-auto"
+          width="250"
+          height="80"
+        />
+      </a>
+
+      <!-- Right: subscribe CTA -->
+      <div class="justify-self-end">
+        <a href="#newsletter" class="btn-primary text-sm">
+          Subscribe
+        </a>
+      </div>
+    </nav>
+  </div>
+</header>

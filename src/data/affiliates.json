@@ -1,0 +1,51 @@
+{
+  "safetywing": {
+    "name": "SafetyWing",
+    "url": "https://safetywing.com/?referenceID=26521603&utm_source=26521603&utm_medium=Ambassador",
+    "blurb": "Travel insurance for digital nomads — $45/mo, no fuss",
+    "category": "insurance",
+    "cta": "Get covered"
+  },
+  "airalo": {
+    "name": "Airalo",
+    "url": "https://airalo.tpm.li/4rMthhOs",
+    "blurb": "eSIM that works the second your plane lands. ~$15 for 30 days.",
+    "category": "connectivity",
+    "cta": "Get an eSIM"
+  },
+  "wise": {
+    "name": "Wise",
+    "url": "https://wise.com/invite/irhc/kseniias372",
+    "blurb": "Multi-currency account with real exchange rates",
+    "category": "banking",
+    "cta": "Open account"
+  },
+  "ivisa": {
+    "name": "iVisa",
+    "url": "https://www.ivisa.com/?ref=PLACEHOLDER",
+    "blurb": "Online visa application service",
+    "category": "visa",
+    "cta": "Apply for visa"
+  },
+  "discoverCars": {
+    "name": "Discover Cars",
+    "url": "https://www.discovercars.com/?a_aid=PLACEHOLDER",
+    "blurb": "Compare car rentals worldwide",
+    "category": "transport",
+    "cta": "Find a car"
+  },
+  "klook": {
+    "name": "Klook",
+    "url": "https://www.klook.com/?aid=PLACEHOLDER",
+    "blurb": "Tours and activities across Asia",
+    "category": "tours",
+    "cta": "Browse tours"
+  },
+  "booking": {
+    "name": "Booking.com",
+    "url": "https://www.booking.com/?aid=PLACEHOLDER",
+    "blurb": "Hotels and apartments worldwide",
+    "category": "hotels",
+    "cta": "Search hotels"
+  }
+}

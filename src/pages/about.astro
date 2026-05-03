@@ -1,0 +1,108 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { AUTHOR_NAME, AUTHOR_EMAIL } from '../consts';
+---
+
+<BaseLayout
+  title="About Kseniia"
+  description="Hi, I'm Kseniia — slow traveler, digital nomad, and the one writing every word here. About this blog, what I cover, and how I make money."
+>
+  <div class="container-main py-20">
+    <div class="max-w-2xl mx-auto">
+      <h1 class="font-display text-5xl font-bold text-primary mb-4">About</h1>
+      <p class="text-lg text-primary/70 italic mb-12">
+        Saying this as someone who's been doing slow travel for 5+ years and has 141 flights tracked on Flighty — yes, I'm the actual person writing every word here.
+      </p>
+
+      <div class="prose-article">
+        <!-- Author intro card -->
+        <div class="bg-soft/5 border border-soft/20 rounded-lg p-8 mb-12">
+          <div class="flex items-start gap-6 flex-col sm:flex-row">
+            <div class="flex-shrink-0">
+              <div
+                class="w-32 h-32 rounded-full bg-gradient-to-br from-emerald-400 via-teal-500 to-cyan-600 flex items-center justify-center text-6xl drop-shadow-lg"
+                aria-label="Kseniia avatar placeholder"
+              >
+                <span aria-hidden="true">🌴</span>
+              </div>
+            </div>
+            <div class="flex-1">
+              <h2 class="font-display text-2xl font-bold text-primary mb-3">
+                Hi, I'm Kseniia 👋
+              </h2>
+              <p class="text-primary/80 mb-3">
+                I'm a slow traveler and digital nomad based in <strong>Spain about 70% of the year</strong> — the rest of my time is split between Bali, France, Hungary, and visits home.
+              </p>
+              <p class="text-primary/80">
+                I write the practical stuff I wish someone had told me before each trip. No sponsored fluff. No Instagram bait. Just what actually works.
+              </p>
+            </div>
+          </div>
+        </div>
+
+        <h2 class="font-display text-2xl font-bold text-primary mt-12 mb-4">Who this is for</h2>
+        <p class="text-primary/80 mb-6">
+          If you're a <strong>slow traveler</strong> — someone who'd rather spend a month in one neighborhood than tick off six countries in a fortnight — or a <strong>digital nomad</strong> figuring out where to actually base yourself this season, this blog is for you. I write especially with women travelers and remote workers in mind, because that's the kind of trip planning advice I needed when I started.
+        </p>
+
+        <h2 class="font-display text-2xl font-bold text-primary mt-12 mb-4">What I actually write about</h2>
+        <p class="text-primary/80 mb-4">
+          Practical, honest guides — not destination listicles. The kind of stuff that helps you make the next decision:
+        </p>
+        <ul class="text-primary/80 mb-6 space-y-2">
+          <li>🛂 Visa logistics — what's actually possible vs. what travel agents oversell</li>
+          <li>🏡 Where to live for 1-6 months — neighborhoods, not just cities</li>
+          <li>💸 Real cost of living — with numbers I've actually paid, not Reddit estimates from 2018</li>
+          <li>💻 Coworking, wifi, and remote-work realities — including which "digital nomad hubs" are overrated</li>
+          <li>🛵 Getting around — scooters, transfers, when to walk</li>
+          <li>🍜 Where to eat — local picks, not Instagram traps</li>
+        </ul>
+        <p class="text-primary/80 mb-6">
+          Right now my deepest coverage is on <a href="/pillars/bali/" class="text-accent hover:underline font-semibold">Bali</a>. Next up: Spain (where I live), then France, Portugal, and Hungary — places I've spent significant time in, not just airport-layovers.
+        </p>
+
+        <h2 class="font-display text-2xl font-bold text-primary mt-12 mb-4">Why "Rumroom"?</h2>
+        <p class="text-primary/80 mb-6">
+          It's the personal brand I've been writing under for years — across this travel blog, my marketing blog at <a href="https://rumroom.space" class="text-accent hover:underline">rumroom.space</a>, and the older Russian-language version at travel.rumroom.ru. The name comes from the idea of "room for thoughts" — a small, quiet space to think clearly. Which is exactly how I feel about slow travel: the whole point is leaving room for the place to actually land.
+        </p>
+
+        <h2 class="font-display text-2xl font-bold text-primary mt-12 mb-4">How I make money (honest version)</h2>
+        <p class="text-primary/80 mb-4">
+          Some of the links in my guides — for things like travel insurance, eSIMs, scooter rentals, accommodation, and visa services — are <strong>affiliate links</strong>. That means if you click one and end up booking, I get a small commission. <strong>It doesn't cost you anything extra.</strong>
+        </p>
+        <p class="text-primary/80 mb-4">
+          What I will <em>never</em> do:
+        </p>
+        <ul class="text-primary/80 mb-6 space-y-2">
+          <li>✅ Recommend something I haven't used or wouldn't use myself</li>
+          <li>✅ Take money to write about a place or product</li>
+          <li>✅ Hide the fact that a link is affiliate</li>
+        </ul>
+        <p class="text-primary/80 mb-6">
+          If I mention a service it's because I actually used it (or, in a couple of cases, because a trusted friend who lives full-time in the place uses it and reports back honestly). When I have reservations about a brand, I say so.
+        </p>
+        <p class="text-primary/80 mb-6">
+          Full disclosure on the <a href="/affiliate-disclosure/" class="text-accent hover:underline font-semibold">Affiliate Disclosure page</a>.
+        </p>
+
+        <h2 class="font-display text-2xl font-bold text-primary mt-12 mb-4">A note on AI</h2>
+        <p class="text-primary/80 mb-6">
+          I use AI tools to help with translation (between Russian and English), research scaffolding, and editing — the same way I use a calculator or spell-check. <strong>Every guide is based on my real travel and decisions, written and reviewed by me.</strong> Nothing here is auto-generated copy. If a paragraph feels off, blame me, not the model.
+        </p>
+
+        <h2 class="font-display text-2xl font-bold text-primary mt-12 mb-4">Get in touch</h2>
+        <p class="text-primary/80 mb-3">
+          Got a question, a correction, or want a personal recommendation I haven't written up yet? I read every email.
+        </p>
+        <p class="text-primary/80 mb-2">
+          📧 <a href={`mailto:${AUTHOR_EMAIL}`} class="text-accent font-semibold hover:underline">
+            {AUTHOR_EMAIL}
+          </a>
+        </p>
+        <p class="text-primary/60 text-sm italic mt-8">
+          Thanks for reading. Genuinely. — Kseniia
+        </p>
+      </div>
+    </div>
+  </div>
+</BaseLayout>

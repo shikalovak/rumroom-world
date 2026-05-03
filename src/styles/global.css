@@ -1,0 +1,275 @@
+/* Tilda-style: Inter sans-serif throughout. Heavier weights for display use. */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-secondary text-primary font-body antialiased;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4 {
+    @apply font-display;
+    letter-spacing: -0.01em;
+  }
+}
+
+@layer components {
+  /*
+    Tilda-faithful editorial article body — откалибровано под скриншоты travel.rumroom.ru.
+    Большие H2 (36-40px), щедрое spacing между параграфами (28px), line-height 1.75.
+    !important нужен потому что Tailwind `prose` plugin задаёт свои значения и
+    нам надо их перебить.
+  */
+  .prose-article {
+    max-width: none;
+    color: theme(colors.primary);
+    font-size: 1.0625rem; /* 17px — Tilda body size */
+    line-height: 1.75;
+  }
+  @media (min-width: 768px) {
+    .prose-article {
+      font-size: 1.125rem; /* 18px на десктопе */
+    }
+  }
+  .prose-article > p,
+  .prose-article > ul,
+  .prose-article > ol,
+  .prose-article > blockquote,
+  .prose-article > hr,
+  .prose-article > div {
+    margin-top: 0;
+    margin-bottom: 1.75rem; /* 28px между блоками — Tilda-уровень воздуха */
+  }
+  .prose-article p {
+    margin-top: 0;
+    margin-bottom: 1.75rem;
+  }
+
+  /* H2 — большой раздельный заголовок секции, как «Когда лучше ехать на Бали» в Тильде */
+  .prose-article h2 {
+    @apply font-display;
+    font-size: 1.875rem; /* 30px mobile */
+    font-weight: 800;
+    line-height: 1.2;
+    color: theme(colors.primary);
+    margin-top: 4rem; /* 64px — большой break перед секцией */
+    margin-bottom: 1.25rem;
+    letter-spacing: -0.02em;
+  }
+  @media (min-width: 768px) {
+    .prose-article h2 {
+      font-size: 2.25rem; /* 36px desktop — Tilda-размер */
+    }
+  }
+
+  /* H3 — подзаголовок внутри секции */
+  .prose-article h3 {
+    @apply font-display;
+    font-size: 1.375rem; /* 22px mobile */
+    font-weight: 700;
+    line-height: 1.3;
+    color: theme(colors.primary);
+    margin-top: 2.5rem;
+    margin-bottom: 0.75rem;
+    letter-spacing: -0.01em;
+  }
+  @media (min-width: 768px) {
+    .prose-article h3 {
+      font-size: 1.625rem; /* 26px desktop */
+    }
+  }
+
+  .prose-article h4 {
+    @apply font-display;
+    font-size: 1.125rem;
+    font-weight: 700;
+    color: theme(colors.primary);
+    margin-top: 2rem;
+    margin-bottom: 0.5rem;
+  }
+
+  /* Lede — первый параграф крупнее, чуть приглушённый, как в Тильде */
+  .prose-article > p:first-of-type {
+    font-size: 1.1875rem; /* 19px mobile */
+    line-height: 1.7;
+    color: theme(colors.primary / 90%);
+  }
+  @media (min-width: 768px) {
+    .prose-article > p:first-of-type {
+      font-size: 1.25rem; /* 20px desktop */
+    }
+  }
+
+  /* Ссылки — терракот, без подчёркивания по умолчанию (Tilda-чисто), подчёркивание на hover */
+  .prose-article a {
+    color: theme(colors.accent);
+    font-weight: 600;
+    text-decoration: underline;
+    text-decoration-color: theme(colors.accent / 30%);
+    text-underline-offset: 3px;
+    transition: text-decoration-color 0.15s ease;
+  }
+  .prose-article a:hover {
+    text-decoration-color: theme(colors.accent);
+  }
+
+  /* Списки — с щедрым spacing между items, Tilda-стиль */
+  .prose-article ul,
+  .prose-article ol {
+    margin-top: 0;
+    margin-bottom: 1.75rem;
+    padding-left: 1.5rem;
+  }
+  .prose-article ul {
+    list-style: disc;
+  }
+  .prose-article ol {
+    list-style: decimal;
+  }
+  .prose-article li {
+    margin-bottom: 0.875rem; /* 14px — заметный gap, как в Тильде */
+    line-height: 1.7;
+    padding-left: 0.25rem;
+  }
+  .prose-article li::marker {
+    color: theme(colors.accent);
+  }
+  .prose-article li > p {
+    margin-bottom: 0.5rem;
+  }
+  .prose-article li > p:last-child {
+    margin-bottom: 0;
+  }
+
+  /* Strong — жирный, чёткий, той же насыщенности что body */
+  .prose-article strong,
+  .prose-article b {
+    font-weight: 700;
+    color: theme(colors.primary);
+  }
+
+  /* Em — italic */
+  .prose-article em,
+  .prose-article i {
+    font-style: italic;
+  }
+
+  /* Blockquote — Tilda-стиль: индентация, accent-bar слева, чуть приглушённый */
+  .prose-article blockquote {
+    margin: 2.5rem 0;
+    padding: 0.5rem 0 0.5rem 1.5rem;
+    border-left: 4px solid theme(colors.accent);
+    color: theme(colors.primary / 75%);
+    font-style: italic;
+    font-size: 1.0625em;
+  }
+  .prose-article blockquote p:last-child {
+    margin-bottom: 0;
+  }
+
+  /* HR — мягкий разделитель с большим margin */
+  .prose-article hr {
+    border: 0;
+    border-top: 1px solid theme(colors.primary / 12%);
+    margin: 3.5rem 0;
+  }
+
+  /* Table — простая, читаемая */
+  .prose-article table {
+    width: 100%;
+    margin: 2rem 0;
+    font-size: 0.9375rem;
+    border-collapse: collapse;
+  }
+  .prose-article th,
+  .prose-article td {
+    padding: 0.875rem 1rem;
+    text-align: left;
+    border-bottom: 1px solid theme(colors.primary / 10%);
+  }
+  .prose-article th {
+    font-weight: 700;
+    background: theme(colors.soft);
+  }
+
+  /* Изображения внутри статьи — rounded, breathing room */
+  .prose-article img {
+    margin: 2.5rem auto;
+    border-radius: 16px;
+  }
+  .prose-article figure {
+    margin: 2.5rem 0;
+  }
+  .prose-article figure img {
+    margin: 0;
+  }
+  .prose-article figcaption {
+    margin-top: 0.75rem;
+    font-size: 0.9375rem;
+    color: theme(colors.primary / 60%);
+    text-align: center;
+    font-style: italic;
+  }
+
+  /* Code — inline */
+  .prose-article code {
+    background: theme(colors.soft);
+    padding: 0.125rem 0.375rem;
+    border-radius: 4px;
+    font-size: 0.9375em;
+    color: theme(colors.primary);
+  }
+
+  /*
+    Callout box — peach/cream фон, как в Тильде («Если вы задумываетесь, стоит ли…»).
+    Использовать в markdown через `<div class="callout">…</div>` или пометить frontmatter.
+  */
+  .callout {
+    background: #FCE9D8;
+    border-radius: 12px;
+    padding: 1.75rem 2rem;
+    margin: 2.5rem 0;
+    color: theme(colors.primary);
+    font-size: 1.0625rem;
+    line-height: 1.75;
+  }
+  .callout p:last-child {
+    margin-bottom: 0;
+  }
+  .callout strong {
+    color: theme(colors.primary);
+  }
+
+  .container-main {
+    /* 1152px — editorial constraint, не «во весь экран» на широких мониторах. */
+    @apply max-w-6xl mx-auto px-4 sm:px-6 lg:px-8;
+  }
+
+  /* Tilda-style red CTA — rounded pill, uppercase, with elevation shadow */
+  .btn-primary {
+    @apply inline-block px-7 py-3 bg-accent text-secondary font-bold uppercase tracking-wide rounded-tilda transition-all duration-200;
+    box-shadow: 0px 15px 30px -10px rgba(0, 11, 48, 0.2);
+  }
+  .btn-primary:hover {
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  }
+
+  /* Black secondary CTA — for subscribe forms */
+  .btn-secondary {
+    @apply inline-block px-7 py-3 bg-primary text-secondary font-bold transition-colors hover:bg-black;
+  }
+
+  /* Affiliate disclosure: soft red tint, red left border */
+  .affiliate-disclosure {
+    @apply bg-accent/5 border-l-4 border-accent rounded-r p-4 my-8 text-sm italic text-primary/80;
+  }
+  .affiliate-disclosure a {
+    @apply text-accent font-semibold not-italic hover:underline;
+  }
+}

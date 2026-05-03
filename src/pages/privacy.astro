@@ -1,0 +1,97 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { AUTHOR_EMAIL, SITE_TITLE } from '../consts';
+---
+
+<BaseLayout
+  title="Privacy Policy"
+  description="Privacy policy for Rumroom World — what data we collect, how it's used, and your rights as a reader."
+>
+  <div class="container-main py-20">
+    <div class="max-w-2xl mx-auto">
+      <h1 class="font-display text-5xl font-bold text-primary mb-4">Privacy Policy</h1>
+      <p class="text-sm text-primary/60 mb-12">
+        Last updated: May 1, 2026
+      </p>
+
+      <div class="prose-article">
+        <p class="text-primary/80 mb-6">
+          Short version: I run a small travel blog. I try to collect the minimum data possible. I don't sell your data. Here's what's actually happening.
+        </p>
+
+        <h2 class="font-display text-2xl font-bold text-primary mt-12 mb-4">Who runs this site</h2>
+        <p class="text-primary/80 mb-6">
+          {SITE_TITLE} is a personal travel blog operated by Kseniia. Contact:
+          <a href={`mailto:${AUTHOR_EMAIL}`} class="text-accent hover:underline font-semibold">{AUTHOR_EMAIL}</a>.
+        </p>
+
+        <h2 class="font-display text-2xl font-bold text-primary mt-12 mb-4">What I collect</h2>
+
+        <h3 class="font-display text-lg font-bold text-primary mt-6 mb-2">Email addresses (only if you give them)</h3>
+        <p class="text-primary/80 mb-4">
+          If you sign up for the newsletter or download a lead-magnet (e.g., a Bali first-timers checklist), I collect your email address and any name you optionally provide. I use this only to:
+        </p>
+        <ul class="text-primary/80 mb-4 space-y-2">
+          <li>Send you the resource you signed up for</li>
+          <li>Send occasional travel tips and new-post notifications</li>
+          <li>Reply to messages you send me directly</li>
+        </ul>
+        <p class="text-primary/80 mb-6">
+          You can unsubscribe at any time using the link in any email. If you reply asking to be removed, I'll do it manually within 7 days.
+        </p>
+
+        <h3 class="font-display text-lg font-bold text-primary mt-6 mb-2">Basic visitor analytics</h3>
+        <p class="text-primary/80 mb-6">
+          Like most websites, I track aggregate, anonymized analytics — page views, country (rough), device type, referrer. I do <em>not</em> use Google Analytics' invasive features, and I do not run advertising trackers on this site.
+        </p>
+
+        <h3 class="font-display text-lg font-bold text-primary mt-6 mb-2">Affiliate cookies</h3>
+        <p class="text-primary/80 mb-6">
+          When you click an affiliate link (Booking, SafetyWing, Airalo, etc.), the merchant — not me — places a tracking cookie on your browser. This cookie attributes any subsequent booking back to my affiliate account so I can earn commission. I have no access to the cookie itself or your booking details. See the <a href="/affiliate-disclosure/" class="text-accent hover:underline">Affiliate Disclosure</a> for full details.
+        </p>
+
+        <h2 class="font-display text-2xl font-bold text-primary mt-12 mb-4">What I don't do</h2>
+        <ul class="text-primary/80 mb-6 space-y-2">
+          <li>I do not sell your data to anyone, ever.</li>
+          <li>I do not use behavioral advertising on this site.</li>
+          <li>I do not share your email address with affiliate partners.</li>
+          <li>I do not run third-party tracking pixels (Facebook Pixel, etc.).</li>
+        </ul>
+
+        <h2 class="font-display text-2xl font-bold text-primary mt-12 mb-4">Where data is stored</h2>
+        <p class="text-primary/80 mb-6">
+          The blog itself is hosted on <strong>Vercel</strong> (United States and EU edge regions). Email subscriptions, when active, are managed through a third-party email service (Buttondown or ConvertKit — I'll specify here once selected). Each provider has its own privacy policy and is GDPR-compliant.
+        </p>
+
+        <h2 class="font-display text-2xl font-bold text-primary mt-12 mb-4">Your rights (especially if you're in the EU/UK)</h2>
+        <p class="text-primary/80 mb-4">
+          Under GDPR and UK GDPR, you have the right to:
+        </p>
+        <ul class="text-primary/80 mb-4 space-y-2">
+          <li>Ask what personal data I have on you</li>
+          <li>Ask me to correct or delete your data</li>
+          <li>Withdraw consent for marketing emails (use any unsubscribe link)</li>
+          <li>Lodge a complaint with your local data-protection authority</li>
+        </ul>
+        <p class="text-primary/80 mb-6">
+          To exercise any of these, just email me. I'll respond within 7 days.
+        </p>
+
+        <h2 class="font-display text-2xl font-bold text-primary mt-12 mb-4">Children</h2>
+        <p class="text-primary/80 mb-6">
+          This site is not directed at children under 16. I do not knowingly collect data from minors. If you believe a child has signed up, contact me and I'll delete the account.
+        </p>
+
+        <h2 class="font-display text-2xl font-bold text-primary mt-12 mb-4">Updates to this policy</h2>
+        <p class="text-primary/80 mb-6">
+          If I change anything material, I'll update the "Last updated" date at the top and, for substantive changes, send a notice to email subscribers.
+        </p>
+
+        <h2 class="font-display text-2xl font-bold text-primary mt-12 mb-4">Questions</h2>
+        <p class="text-primary/80">
+          📧 <a href={`mailto:${AUTHOR_EMAIL}`} class="text-accent font-semibold hover:underline">{AUTHOR_EMAIL}</a>
+        </p>
+      </div>
+    </div>
+  </div>
+</BaseLayout>
