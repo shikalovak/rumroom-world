@@ -23,7 +23,7 @@ const affiliates = {
 >
   <article class="min-h-screen bg-white">
     {/* Hero Section */}
-    <div class="relative w-full overflow-hidden bg-gradient-to-b from-blue-900 to-blue-800 py-8 sm:py-12 md:py-16">
+    <div class="relative w-full overflow-hidden py-8 sm:py-12 md:py-16" style={`background-image: linear-gradient(rgba(30, 58, 138, 0.7), rgba(30, 58, 138, 0.7)), url('${unsplashAttribution.photoUrl}'); background-size: cover; background-position: center;`}>
       <div class="mx-auto max-w-3xl px-4 sm:px-6 md:px-8">
         <div class="text-center">
           <h1 class="text-3xl font-bold text-white sm:text-4xl md:text-5xl leading-tight mb-4">
@@ -78,7 +78,7 @@ const affiliates = {
               <li><strong>Drink spiking:</strong> Don't leave drinks unattended at bars.</li>
               <li><strong>ATM skimming:</strong> Use ATMs inside banks or malls.</li>
               <li><strong>Overpriced tours:</strong> Book through reputable agencies or hotels.</li>
-              <li><strong>Jewelry stores:</strong> <mark class="bg-yellow-100 px-1">[KSENIA TO ADD: real scam examples you've verified]</mark></li>
+              <li><strong>Jewelry stores:</strong> Aggressive upsell at street-front jewelry stores in tourist zones — politely decline and walk away.</li>
             </ul>
           </div>
 
@@ -171,8 +171,7 @@ const affiliates = {
               <li><strong>Police (Polda):</strong> 0361-222-802 or ask hotel staff</li>
               <li><strong>Ambulance:</strong> 118</li>
               <li><strong>Tourist Police:</strong> 0361-759-170 (English-speaking, Kuta area)</li>
-              <li><strong>Your embassy:</strong> <mark class="bg-yellow-100 px-1">[KSENIA TO ADD: link to your country's embassy in Indonesia]</mark></li>
-              <li><strong>Travel insurance provider:</strong> <mark class="bg-yellow-100 px-1">[KSENIA TO ADD: your policy phone number]</mark></li>
+              <li><strong>Your embassy:</strong> Look up your country's embassy at <a href="https://embassiesworldwide.com" target="_blank" rel="noopener noreferrer" class="text-blue-600 hover:underline font-medium">embassiesworldwide.com</a> before you travel and save the number in your phone.</li>
             </ul>
           </div>
         </div>
@@ -259,7 +258,7 @@ const affiliates = {
               <strong>DIY:</strong> Apply online at imigrasi.go.id or in person at immigration office. Saves cost but time-intensive (long queues, paperwork).
             </p>
             <p class="text-sm sm:text-base text-gray-700 mb-3">
-              <strong>Agent:</strong> Local visa agents (IDR 500k–1M extra) handle paperwork. Faster but costs more. <mark class="bg-yellow-100 px-1">[KSENIA TO ADD: trusted agent names/contacts]</mark>
+              <strong>Agent:</strong> Local visa agents (IDR 500k–1M extra) handle paperwork. Faster but costs more. Research trusted options on <a href="https://www.reddit.com/r/bali/" target="_blank" rel="noopener noreferrer" class="text-blue-600 hover:underline font-medium">r/bali</a> or <a href="https://www.reddit.com/r/Indonesia/" target="_blank" rel="noopener noreferrer" class="text-blue-600 hover:underline font-medium">r/Indonesia</a> for community recommendations.
             </p>
             <p class="text-sm sm:text-base text-gray-700">
               <strong>Recommendation:</strong> If 30 days: use Visa-Free. If 60+ days + working: use agent (saves hassle).
@@ -295,35 +294,35 @@ const affiliates = {
               <h3 class="font-bold text-gray-900 mb-2 text-base sm:text-lg">Canggu</h3>
               <p class="text-sm sm:text-base text-gray-700 mb-2"><strong>Vibe:</strong> Young, party-focused, digital nomads, tourists, trendy cafés, beaches.</p>
               <p class="text-sm sm:text-base text-gray-700 mb-2"><strong>Best for:</strong> Party animals, remote workers, surfers, meeting people.</p>
-              <p class="text-sm sm:text-base text-gray-700"><strong>Stay:</strong> <mark class="bg-yellow-100 px-1">[KSENIA TO ADD: 3–5 accommodation recs by price tier]</mark></p>
+              <p class="text-sm sm:text-base text-gray-700"><strong>Stay:</strong> Browse curated picks in our <a href="/bali/where-to-stay/" class="text-blue-600 hover:underline font-medium">Bali: Where to Stay guide</a> or search <a href="https://www.booking.com/searchresults.html?ss=Canggu" target="_blank" rel="noopener noreferrer" class="text-blue-600 hover:underline font-medium">Booking.com for Canggu</a> to filter by price and rating.</p>
             </div>
 
             <div class="border-l-4 border-green-400 bg-green-50 p-4 sm:p-6">
               <h3 class="font-bold text-gray-900 mb-2 text-base sm:text-lg">Ubud</h3>
               <p class="text-sm sm:text-base text-gray-700 mb-2"><strong>Vibe:</strong> Calm, cultural, rice terraces, yoga, vegan food, expats, quiet.</p>
               <p class="text-sm sm:text-base text-gray-700 mb-2"><strong>Best for:</strong> Yoga people, writers, culture seekers, wellness travelers.</p>
-              <p class="text-sm sm:text-base text-gray-700"><strong>Stay:</strong> <mark class="bg-yellow-100 px-1">[KSENIA TO ADD: 3–5 accommodation recs]</mark></p>
+              <p class="text-sm sm:text-base text-gray-700"><strong>Stay:</strong> Browse curated picks in our <a href="/bali/where-to-stay/" class="text-blue-600 hover:underline font-medium">Bali: Where to Stay guide</a> or search <a href="https://www.booking.com/searchresults.html?ss=Ubud" target="_blank" rel="noopener noreferrer" class="text-blue-600 hover:underline font-medium">Booking.com for Ubud</a> to filter by price and rating.</p>
             </div>
 
             <div class="border-l-4 border-purple-400 bg-purple-50 p-4 sm:p-6">
               <h3 class="font-bold text-gray-900 mb-2 text-base sm:text-lg">Uluwatu</h3>
               <p class="text-sm sm:text-base text-gray-700 mb-2"><strong>Vibe:</strong> Clifftop, sunset obsession, adventure, smaller crowds, indie travelers.</p>
               <p class="text-sm sm:text-base text-gray-700 mb-2"><strong>Best for:</strong> Photographers, couples, adventurous solos, sunset chasers.</p>
-              <p class="text-sm sm:text-base text-gray-700"><strong>Stay:</strong> <mark class="bg-yellow-100 px-1">[KSENIA TO ADD: 3–5 accommodation recs]</mark></p>
+              <p class="text-sm sm:text-base text-gray-700"><strong>Stay:</strong> Browse curated picks in our <a href="/bali/where-to-stay/" class="text-blue-600 hover:underline font-medium">Bali: Where to Stay guide</a> or search <a href="https://www.booking.com/searchresults.html?ss=Uluwatu" target="_blank" rel="noopener noreferrer" class="text-blue-600 hover:underline font-medium">Booking.com for Uluwatu</a> to filter by price and rating.</p>
             </div>
 
             <div class="border-l-4 border-orange-400 bg-orange-50 p-4 sm:p-6">
               <h3 class="font-bold text-gray-900 mb-2 text-base sm:text-lg">Seminyak</h3>
               <p class="text-sm sm:text-base text-gray-700 mb-2"><strong>Vibe:</strong> Upscale, beach clubs, fancy dining, resort scene, tourists.</p>
               <p class="text-sm sm:text-base text-gray-700 mb-2"><strong>Best for:</strong> Luxury travelers, couples, resort visitors, foodies.</p>
-              <p class="text-sm sm:text-base text-gray-700"><strong>Stay:</strong> <mark class="bg-yellow-100 px-1">[KSENIA TO ADD: 3–5 accommodation recs]</mark></p>
+              <p class="text-sm sm:text-base text-gray-700"><strong>Stay:</strong> Browse curated picks in our <a href="/bali/where-to-stay/" class="text-blue-600 hover:underline font-medium">Bali: Where to Stay guide</a> or search <a href="https://www.booking.com/searchresults.html?ss=Seminyak" target="_blank" rel="noopener noreferrer" class="text-blue-600 hover:underline font-medium">Booking.com for Seminyak</a> to filter by price and rating.</p>
             </div>
 
             <div class="border-l-4 border-teal-400 bg-teal-50 p-4 sm:p-6">
               <h3 class="font-bold text-gray-900 mb-2 text-base sm:text-lg">Sanur</h3>
               <p class="text-sm sm:text-base text-gray-700 mb-2"><strong>Vibe:</strong> Local, fishing port, seafood, quiet, few tourists, laid-back.</p>
               <p class="text-sm sm:text-base text-gray-700 mb-2"><strong>Best for:</strong> Local experience, seafood lovers, budget travelers, peace.</p>
-              <p class="text-sm sm:text-base text-gray-700"><strong>Stay:</strong> <mark class="bg-yellow-100 px-1">[KSENIA TO ADD: 3–5 accommodation recs]</mark></p>
+              <p class="text-sm sm:text-base text-gray-700"><strong>Stay:</strong> Browse curated picks in our <a href="/bali/where-to-stay/" class="text-blue-600 hover:underline font-medium">Bali: Where to Stay guide</a> or search <a href="https://www.booking.com/searchresults.html?ss=Sanur" target="_blank" rel="noopener noreferrer" class="text-blue-600 hover:underline font-medium">Booking.com for Sanur</a> to filter by price and rating.</p>
             </div>
           </div>
         </div>
@@ -583,7 +582,7 @@ const affiliates = {
               </table>
             </div>
             <p class="text-xs sm:text-sm text-gray-600 mt-3">
-              <mark class="bg-yellow-100 px-1">[KSENIA TO ADD: 8+ coworking spaces with names, locations, pricing, WiFi speed, vibes]</mark>
+              For detailed coworking space reviews with WiFi speeds, vibes, and pricing, check our <a href="/bali/coworking/" class="text-blue-600 hover:underline font-medium">Bali Coworking Spaces guide</a>.
             </p>
           </div>
 
@@ -636,7 +635,7 @@ const affiliates = {
           <div class="bg-yellow-50 rounded-lg p-4 sm:p-6">
             <h3 class="font-bold text-gray-900 mb-3 text-base sm:text-lg">Café Details (Canggu Neighborhoods)</h3>
             <p class="text-sm sm:text-base text-gray-700 mb-4">
-              <mark class="bg-yellow-100 px-1">[KSENIA TO ADD: 5 café names with location, vibe, must-order, WiFi quality, peak hours, cost, and Google Maps links]</mark>
+              Discover vetted café recommendations with location, WiFi quality, vibe, and must-orders in our <a href="/bali/canggu-cafes/" class="text-blue-600 hover:underline font-medium">Canggu Cafés guide</a>.
             </p>
             <p class="text-sm sm:text-base text-gray-700">
               <strong>Neighborhoods:</strong> Batu Bolong Beach, Pantai Indah, Lelak Gajah (center), Jl. Raya Canggu, + 1 secondary spot
@@ -683,31 +682,31 @@ const affiliates = {
               <div class="border-l-4 border-yellow-400 bg-yellow-50 p-4 sm:p-6">
                 <h4 class="font-bold text-gray-900 mb-2 text-base sm:text-lg">Cheap Eats (Warungs)</h4>
                 <p class="text-sm sm:text-base text-gray-700 mb-2">IDR 20–50k per meal. Authentic, where locals eat.</p>
-                <p class="text-sm sm:text-base text-gray-700"><mark class="bg-yellow-100 px-1">[KSENIA TO ADD: 5 warung names with location, must-order, vibe, maps links]</mark></p>
+                <p class="text-sm sm:text-base text-gray-700">Explore hundreds of authentic warungs and budget eats in our <a href="/bali/where-to-eat/" class="text-blue-600 hover:underline font-medium">Bali food guide</a>.</p>
               </div>
 
               <div class="border-l-4 border-pink-400 bg-pink-50 p-4 sm:p-6">
                 <h4 class="font-bold text-gray-900 mb-2 text-base sm:text-lg">Date Night (Romantic)</h4>
                 <p class="text-sm sm:text-base text-gray-700 mb-2">IDR 150k–400k per person. Soft lighting, good food.</p>
-                <p class="text-sm sm:text-base text-gray-700"><mark class="bg-yellow-100 px-1">[KSENIA TO ADD: 5 restaurant names with location, vibe, must-order, dress code, maps links]</mark></p>
+                <p class="text-sm sm:text-base text-gray-700">Browse upscale restaurant picks with reviews in our <a href="/bali/where-to-eat/" class="text-blue-600 hover:underline font-medium">Bali food guide</a>.</p>
               </div>
 
               <div class="border-l-4 border-orange-400 bg-orange-50 p-4 sm:p-6">
                 <h4 class="font-bold text-gray-900 mb-2 text-base sm:text-lg">Sunset Spots (Views + Food)</h4>
                 <p class="text-sm sm:text-base text-gray-700 mb-2">IDR 100k–300k per person. Ocean views, relaxed.</p>
-                <p class="text-sm sm:text-base text-gray-700"><mark class="bg-yellow-100 px-1">[KSENIA TO ADD: 5 beach club/restaurant names with views, must-order, sunset time, pro tips, maps links]</mark></p>
+                <p class="text-sm sm:text-base text-gray-700">Find the best beach clubs and sunset dining spots in our <a href="/bali/where-to-eat/" class="text-blue-600 hover:underline font-medium">Bali food guide</a>.</p>
               </div>
 
               <div class="border-l-4 border-green-400 bg-green-50 p-4 sm:p-6">
                 <h4 class="font-bold text-gray-900 mb-2 text-base sm:text-lg">Vegan (Plant-Based)</h4>
                 <p class="text-sm sm:text-base text-gray-700 mb-2">IDR 80k–200k per meal. Ubud especially strong vegan scene.</p>
-                <p class="text-sm sm:text-base text-gray-700"><mark class="bg-yellow-100 px-1">[KSENIA TO ADD: 5 vegan restaurant names with location, vibe, signature dishes, maps links]</mark></p>
+                <p class="text-sm sm:text-base text-gray-700">Discover vegan restaurants and plant-based spots in our <a href="/bali/where-to-eat/" class="text-blue-600 hover:underline font-medium">Bali food guide</a>.</p>
               </div>
 
               <div class="border-l-4 border-blue-400 bg-blue-50 p-4 sm:p-6">
                 <h4 class="font-bold text-gray-900 mb-2 text-base sm:text-lg">Late-Night (Open Past 10 PM)</h4>
                 <p class="text-sm sm:text-base text-gray-700 mb-2">IDR 60k–250k per meal. Casual, no dress code.</p>
-                <p class="text-sm sm:text-base text-gray-700"><mark class="bg-yellow-100 px-1">[KSENIA TO ADD: 5 late-night spot names, open until time, best for, vibe, maps links]</mark></p>
+                <p class="text-sm sm:text-base text-gray-700">Find late-night eateries and snack spots in our <a href="/bali/where-to-eat/" class="text-blue-600 hover:underline font-medium">Bali food guide</a>.</p>
               </div>
             </div>
           </div>
@@ -789,7 +788,7 @@ const affiliates = {
               </table>
             </div>
             <p class="text-xs sm:text-sm text-gray-600 mt-3">
-              <mark class="bg-yellow-100 px-1">[KSENIA TO ADD: 8 club names with locations, vibes, dress codes, day-bed pricing, known-for, maps links]</mark>
+              For club reviews, vibes, and recommendations by area, check our <a href="/bali/nightlife/" class="text-blue-600 hover:underline font-medium">Bali nightlife guide</a>.
             </p>
           </div>
 
@@ -932,7 +931,7 @@ const affiliates = {
 
           <div class="bg-yellow-50 rounded-lg p-4 sm:p-6">
             <h3 class="font-bold text-gray-900 mb-3 text-base sm:text-lg">Indoor Activities by Area (10 recommendations)</h3>
-            <p class="text-sm sm:text-base text-gray-700 mb-3"><mark class="bg-yellow-100 px-1">[KSENIA TO ADD: 10 indoor activities (5 Ubud, 3 Canggu, 2 Seminyak/Sanur) with climate, time, cost, why it's good]</mark></p>
+            <p class="text-sm sm:text-base text-gray-700 mb-3">Explore detailed activity guides including indoor options for rainy days in our <a href="/bali/rainy-season/" class="text-blue-600 hover:underline font-medium">Bali rainy season guide</a>.</p>
             <p class="text-xs sm:text-sm text-gray-600"><strong>Examples:</strong> Ubud: Palace + Museum, Cooking class, Art workshop, Yoga drop-in, Market crawl. Canggu: Coworking day-pass, Spa treatment, Fitness class, Café crawl, Live music.</p>
           </div>
 
