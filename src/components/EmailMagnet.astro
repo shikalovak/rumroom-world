@@ -5,7 +5,18 @@ interface Props {
 }
 
 const { country, leadMagnetName } = Astro.props;
+
+// Derive source slug from current URL for tracking which article drove the signup.
+// /posts/bali/canggu-cafes/ → bali/canggu-cafes
+const pathname = Astro.url.pathname;
+const sourceSlug = pathname
+  .replace(/^\/posts\//, '')
+  .replace(/^\/pillars\//, 'pillar-')
+  .replace(/\/$/, '') || 'unknown';
 ---
+
+<!-- Kit (ConvertKit) form helper script. Loaded once per page; safe to include in multiple instances. -->
+<script src="https://f.convertkit.com/ckjs/ck.5.js" is:inline></script>
 
 <div class="bg-soft/10 border-2 border-soft rounded-lg p-8 my-12">
   <h3 class="font-display text-xl font-bold text-primary mb-2">
@@ -15,21 +26,45 @@ const { country, leadMagnetName } = Astro.props;
     Get practical tips and a checklist for {country.toLowerCase()}. Delivered to your inbox in 2 minutes.
   </p>
 
-  <form class="space-y-4">
+  <form
+    action="https://app.kit.com/forms/9398561/subscriptions"
+    class="seva-form formkit-form space-y-4"
+    method="post"
+    data-sv-form="9398561"
+    data-uid="0790cdda69"
+    data-format="inline"
+    data-version="5"
+    min-width="400 500 600 700 800"
+  >
+    <input type="hidden" name="fields[source_article]" value={sourceSlug} />
+    <input type="hidden" name="fields[country]" value={country} />
     <input
       type="email"
+      name="email_address"
       placeholder="your@email.com"
       required
       class="w-full px-4 py-3 border border-primary/20 rounded-lg focus:outline-none focus:border-accent focus:ring-2 focus:ring-accent/20"
     />
     <button
       type="submit"
-      class="w-full btn-primary"
+      class="formkit-submit formkit-submit w-full btn-primary"
+      data-element="submit"
     >
-      Send me the guide
+      <span class="formkit-spinner"><div></div><div></div><div></div></span>
+      <span>Send me the guide</span>
     </button>
     <p class="text-xs text-primary/60 text-center">
       No spam. Only occasional emails about travel tips and new posts.
     </p>
   </form>
 </div>
+
+<style is:global>
+  /* Hide Kit spinner by default; ck.js shows it during submission. */
+  .formkit-spinner { display: none; }
+  .formkit-spinner > div { display: inline-block; }
+  /* Style for the success message that ck.js injects after subscribe. */
+  .formkit-alert { padding: 1rem; border-radius: 0.5rem; margin-top: 1rem; }
+  .formkit-alert-success { background-color: #d1fae5; color: #065f46; }
+  .formkit-alert-error { background-color: #fee2e2; color: #991b1b; }
+</style>
