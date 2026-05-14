@@ -1,0 +1,162 @@
+---
+// OAuth callback page for Pinterest API authorization flow.
+// Pinterest redirects here with ?code=<authorization_code>&state=<...>
+// JS extracts the code and displays it prominently for user to copy/paste back to Claude.
+// Not indexed (noindex), no styling dependencies, fully self-contained.
+---
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="robots" content="noindex,nofollow" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>OAuth Callback — Rumroom World</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+      background: #f5efe6;
+      color: #2d2a26;
+      min-height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 24px;
+    }
+    .card {
+      background: white;
+      max-width: 720px;
+      width: 100%;
+      padding: 40px 36px;
+      border-radius: 12px;
+      box-shadow: 0 6px 32px rgba(45, 42, 38, 0.10);
+    }
+    h1 {
+      font-size: 24px;
+      font-weight: 700;
+      margin-bottom: 6px;
+      color: #2d2a26;
+    }
+    .sub {
+      color: #6e655c;
+      font-size: 15px;
+      margin-bottom: 28px;
+    }
+    .label {
+      font-size: 13px;
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+      color: #6e655c;
+      margin-bottom: 8px;
+      font-weight: 600;
+    }
+    .code-box {
+      background: #faf6f0;
+      border: 1px solid #e8ddcc;
+      border-radius: 8px;
+      padding: 18px 16px;
+      font-family: "SF Mono", Menlo, Consolas, monospace;
+      font-size: 14px;
+      word-break: break-all;
+      line-height: 1.5;
+      color: #2d2a26;
+      min-height: 60px;
+      user-select: all;
+      cursor: text;
+    }
+    .code-box.empty { color: #c45f2e; }
+    button {
+      background: #c45f2e;
+      color: white;
+      border: 0;
+      padding: 12px 22px;
+      border-radius: 8px;
+      font-size: 14px;
+      font-weight: 600;
+      cursor: pointer;
+      margin-top: 18px;
+      transition: background 0.15s;
+    }
+    button:hover { background: #a44d22; }
+    button.copied { background: #4a7c4e; }
+    .row { margin-bottom: 24px; }
+    .footer {
+      margin-top: 24px;
+      font-size: 13px;
+      color: #6e655c;
+      padding-top: 18px;
+      border-top: 1px solid #e8ddcc;
+    }
+    .error {
+      background: #fff0eb;
+      border-color: #f4c8b8;
+      color: #a44d22;
+    }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <h1>Pinterest OAuth — authorization code received</h1>
+    <p class="sub">Paste this code back into your Claude chat to finish API setup.</p>
+
+    <div class="row">
+      <div class="label">Authorization code</div>
+      <div id="code-box" class="code-box empty">…parsing URL…</div>
+      <button id="copy-btn" type="button">Copy code</button>
+    </div>
+
+    <div class="row" id="state-row" style="display:none;">
+      <div class="label">State (for verification)</div>
+      <div id="state-box" class="code-box"></div>
+    </div>
+
+    <div class="footer">
+      This page is a one-off OAuth callback target — it doesn't store or transmit your code anywhere.
+      The code only appears in the URL of this page; close the tab when you're done.
+    </div>
+  </div>
+
+  <script>
+    const params = new URLSearchParams(window.location.search);
+    const code = params.get('code');
+    const state = params.get('state');
+    const error = params.get('error');
+    const errorDesc = params.get('error_description');
+
+    const codeBox = document.getElementById('code-box');
+    const stateBox = document.getElementById('state-box');
+    const stateRow = document.getElementById('state-row');
+    const copyBtn = document.getElementById('copy-btn');
+
+    if (error) {
+      codeBox.classList.remove('empty');
+      codeBox.classList.add('error');
+      codeBox.textContent = `Error: ${error}${errorDesc ? ' — ' + errorDesc : ''}`;
+      copyBtn.style.display = 'none';
+    } else if (code) {
+      codeBox.classList.remove('empty');
+      codeBox.textContent = code;
+      if (state) {
+        stateBox.textContent = state;
+        stateRow.style.display = 'block';
+      }
+    } else {
+      codeBox.textContent = 'No code in URL. This page expects ?code=<auth_code> after Pinterest redirect.';
+      copyBtn.style.display = 'none';
+    }
+
+    copyBtn.addEventListener('click', () => {
+      if (!code) return;
+      navigator.clipboard.writeText(code).then(() => {
+        copyBtn.textContent = 'Copied ✓';
+        copyBtn.classList.add('copied');
+        setTimeout(() => {
+          copyBtn.textContent = 'Copy code';
+          copyBtn.classList.remove('copied');
+        }, 2000);
+      });
+    });
+  </script>
+</body>
+</html>
