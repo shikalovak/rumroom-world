@@ -1,0 +1,17 @@
+---
+import { getCollection } from 'astro:content';
+import PillarLayout from '../../../layouts/PillarLayout.astro';
+
+export async function getStaticPaths() {
+  const pillars = await getCollection('pillars-ru');
+  return pillars.map((pillar) => ({
+    params: { slug: pillar.slug },
+    props: { pillar },
+  }));
+}
+
+const { pillar } = Astro.props;
+const altLangPath = `/pillars/${pillar.slug}/`;
+---
+
+<PillarLayout pillar={pillar} lang="ru" altLangPath={altLangPath} />

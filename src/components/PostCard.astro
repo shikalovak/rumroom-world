@@ -1,19 +1,23 @@
 ---
 import { CollectionEntry } from 'astro:content';
+import { t, type Lang, postPath } from '../i18n/strings';
 
 interface Props {
-  post: CollectionEntry<'posts'>;
+  // Accept either EN or RU post — schemas are identical.
+  post: CollectionEntry<'posts'> | CollectionEntry<'posts-ru'>;
+  lang?: Lang;
 }
 
-const { post } = Astro.props;
-const { title, description, pubDate, readingTime, heroImage, heroImageAlt, cluster } = post.data;
+const { post, lang = 'en' } = Astro.props;
+const s = t(lang);
+const { title, pubDate, readingTime, heroImage, heroImageAlt, cluster } = post.data;
 
 const slug = post.slug;
 const country = cluster.split('/')[0];
-const postSlug = slug.includes('/') ? slug.split('/').pop() : slug;
-const href = `/${country}/${postSlug}/`;
+const postSlug = slug.includes('/') ? slug.split('/').pop()! : slug;
+const href = postPath(lang, country, postSlug);
 
-// Cluster → emoji + soft pastel mapping for image fallback (Tilda-style: muted, friendly)
+// Cluster → emoji + soft pastel mapping for image fallback
 const clusterStyles: Record<string, { emoji: string; bg: string }> = {
   bali: { emoji: '🌴', bg: 'bg-gradient-to-br from-teal-50 via-emerald-50 to-cyan-100' },
   spain: { emoji: '🇪🇸', bg: 'bg-gradient-to-br from-amber-50 via-orange-50 to-red-100' },
@@ -26,7 +30,6 @@ const style = clusterStyles[country] || { emoji: '✈️', bg: 'bg-soft' };
 const useRealImage = heroImage && heroImage.startsWith('http');
 ---
 
-<!-- Tilda-style card: no card frame, just rounded image + clean text below -->
 <article class="group flex flex-col h-full">
   <a href={href} class="block mb-5">
     {useRealImage ? (
@@ -51,12 +54,12 @@ const useRealImage = heroImage && heroImage.startsWith('http');
     </h3>
     <div class="flex items-center gap-2 text-xs uppercase tracking-wider text-primary/50 font-semibold">
       <time datetime={pubDate.toISOString()}>
-        {pubDate.toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric' })}
+        {pubDate.toLocaleDateString(s.date_locale, { year: 'numeric', month: 'short', day: 'numeric' })}
       </time>
       {readingTime && (
         <>
           <span class="opacity-50">·</span>
-          <span>{readingTime} min</span>
+          <span>{readingTime} {s.minutes_short}</span>
         </>
       )}
     </div>

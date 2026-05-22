@@ -3,18 +3,24 @@ import type { CollectionEntry } from 'astro:content';
 import BaseLayout from './BaseLayout.astro';
 import PostCard from '../components/PostCard.astro';
 import { getCollection } from 'astro:content';
+import type { Lang } from '../i18n/strings';
 
 interface Props {
-  pillar: CollectionEntry<'pillars'>;
+  pillar: CollectionEntry<'pillars'> | CollectionEntry<'pillars-ru'>;
+  lang?: Lang;
+  altLangPath?: string;
 }
 
-const { pillar } = Astro.props;
+const { pillar, lang = 'en', altLangPath } = Astro.props;
 const { title, description, emoji, heroImage, heroImageAlt, heroImageCredit } = pillar.data;
 
-const allPosts = await getCollection('posts');
+const postsCollection = lang === 'ru' ? 'posts-ru' : 'posts';
+const allPosts = await getCollection(postsCollection);
 const pillarPosts = allPosts
   .filter((p) => p.data.cluster.startsWith(pillar.slug) && !p.data.draft)
   .sort((a, b) => b.data.pubDate.getTime() - a.data.pubDate.getTime());
+
+const articlesHeading = lang === 'ru' ? 'Статьи' : 'Articles';
 
 // Group by sub-cluster
 const grouped: { [key: string]: typeof allPosts } = {};
@@ -29,7 +35,7 @@ pillarPosts.forEach((post) => {
 const { Content } = await pillar.render();
 ---
 
-<BaseLayout title={title} description={description}>
+<BaseLayout title={title} description={description} lang={lang} altLangPath={altLangPath}>
   <div class="container-main py-12">
     {heroImage && (
       <div class="max-w-3xl mx-auto mb-10">
@@ -67,11 +73,11 @@ const { Content } = await pillar.render();
     {Object.entries(grouped).map(([subCluster, posts]) => (
       <section class="mb-16">
         <h2 class="font-display text-3xl font-bold text-primary mb-8 capitalize">
-          {subCluster === 'general' ? 'Articles' : subCluster.replace(/-/g, ' ')}
+          {subCluster === 'general' ? articlesHeading : subCluster.replace(/-/g, ' ')}
         </h2>
         <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
           {posts.map((post) => (
-            <PostCard post={post} />
+            <PostCard post={post} lang={lang} />
           ))}
         </div>
       </section>

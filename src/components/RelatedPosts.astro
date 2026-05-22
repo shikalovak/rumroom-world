@@ -1,15 +1,18 @@
 ---
 import { getCollection, type CollectionEntry } from 'astro:content';
 import PostCard from './PostCard.astro';
+import type { Lang } from '../i18n/strings';
 
 interface Props {
-  post: CollectionEntry<'posts'>;
+  post: CollectionEntry<'posts'> | CollectionEntry<'posts-ru'>;
+  lang?: Lang;
   max?: number;
 }
 
-const { post, max = 3 } = Astro.props;
+const { post, lang = 'en', max = 3 } = Astro.props;
 
-const allPosts = await getCollection('posts');
+const collectionName = lang === 'ru' ? 'posts-ru' : 'posts';
+const allPosts = await getCollection(collectionName);
 const relatedPosts = allPosts
   .filter(
     (p) =>
@@ -19,14 +22,20 @@ const relatedPosts = allPosts
   )
   .sort((a, b) => b.data.pubDate.getTime() - a.data.pubDate.getTime())
   .slice(0, max);
+
+const country = post.data.cluster.split('/')[0];
+const countryLabel = lang === 'ru' ? ({
+  bali: 'Бали', spain: 'Испании', france: 'Франции', portugal: 'Португалии', hungary: 'Венгрии',
+} as Record<string, string>)[country] || country : country;
+const heading = lang === 'ru' ? `Ещё про ${countryLabel}` : `More from ${country}`;
 ---
 
 {relatedPosts.length > 0 && (
   <section class="my-8 sm:my-10 md:my-12">
-    <h2 class="font-display text-xl sm:text-2xl font-bold text-primary mb-6 sm:mb-8">More from {post.data.cluster.split('/')[0]}</h2>
+    <h2 class="font-display text-xl sm:text-2xl font-bold text-primary mb-6 sm:mb-8">{heading}</h2>
     <div class="grid grid-cols-1 md:grid-cols-3 gap-4 sm:gap-5 md:gap-6">
       {relatedPosts.map((p) => (
-        <PostCard post={p} />
+        <PostCard post={p} lang={lang} />
       ))}
     </div>
   </section>

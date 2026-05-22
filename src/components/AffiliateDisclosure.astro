@@ -1,8 +1,20 @@
 ---
+import type { Lang } from '../i18n/strings';
+
+interface Props {
+  lang?: Lang;
+}
+const { lang = 'en' } = Astro.props;
 ---
 
 <div class="affiliate-disclosure">
-  <p>
-    💚 This post contains affiliate links. If you book through them, I earn a small commission at no extra cost to you — your price is the same. I only recommend services I actually use myself. <a href="/affiliate-disclosure/" class="underline hover:no-underline">Full disclosure</a>.
-  </p>
+  {lang === 'ru' ? (
+    <p>
+      💚 В этом тексте есть affiliate-ссылки. Если ты бронируешь через них, я получаю небольшую комиссию — на цене это не сказывается. Я рекомендую только то, чем пользуюсь сама. <a href="/affiliate-disclosure/" class="underline hover:no-underline">Подробнее</a>.
+    </p>
+  ) : (
+    <p>
+      💚 This post contains affiliate links. If you book through them, I earn a small commission at no extra cost to you — your price is the same. I only recommend services I actually use myself. <a href="/affiliate-disclosure/" class="underline hover:no-underline">Full disclosure</a>.
+    </p>
+  )}
 </div>

@@ -5,14 +5,18 @@ import AffiliateDisclosure from '../components/AffiliateDisclosure.astro';
 import AuthorBio from '../components/AuthorBio.astro';
 import RelatedPosts from '../components/RelatedPosts.astro';
 import EmailMagnet from '../components/EmailMagnet.astro';
+import { t, type Lang } from '../i18n/strings';
 
 interface Props {
-  post: CollectionEntry<'posts'>;
+  post: CollectionEntry<'posts'> | CollectionEntry<'posts-ru'>;
+  lang?: Lang;
+  altLangPath?: string;
 }
 
-const { post } = Astro.props;
+const { post, lang = 'en', altLangPath } = Astro.props;
 const { title, description, pubDate, updatedDate, heroImage, heroImageAlt, heroImageCredit, author, readingTime, cluster } = post.data;
 const { Content } = await post.render();
+const s = t(lang);
 
 const country = cluster.split('/')[0];
 const countryName = country.charAt(0).toUpperCase() + country.slice(1);
@@ -30,11 +34,19 @@ const heroStyle = clusterStyles[country] || { emoji: '✈️', bg: 'bg-soft' };
 const hasRealImage = heroImage && !heroImage.startsWith('/images/');
 const ogImage = hasRealImage ? heroImage : '/og-image.png';
 
-// Pretty date format
-const fmtDate = (d: Date) => d.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
+// Pretty date format — locale-aware
+const fmtDate = (d: Date) => d.toLocaleDateString(s.date_locale, { year: 'numeric', month: 'long', day: 'numeric' });
+
+// i18n labels for meta line
+const byLabel = lang === 'ru' ? 'Автор' : 'By';
+const minReadLabel = lang === 'ru' ? 'мин чтения' : 'min read';
+const updatedLabel = lang === 'ru' ? 'Обновлено' : 'Updated';
+const countryNameLocal = lang === 'ru' ? ({
+  bali: 'Бали', spain: 'Испания', france: 'Франция', portugal: 'Португалия', hungary: 'Венгрия',
+} as Record<string, string>)[country] || countryName : countryName;
 ---
 
-<BaseLayout title={title} description={description} image={ogImage} pubDate={pubDate} author={author}>
+<BaseLayout title={title} description={description} image={ogImage} pubDate={pubDate} author={author} lang={lang} altLangPath={altLangPath}>
   <article>
     <!-- Hero — wider container (768px) for visual impact, slightly shorter -->
     <div class="max-w-3xl mx-auto px-4 sm:px-6 pt-8 sm:pt-12">
@@ -71,7 +83,7 @@ const fmtDate = (d: Date) => d.toLocaleDateString('en-US', { year: 'numeric', mo
       <header class="pt-10 pb-8">
         <!-- Cluster tag -->
         <div class="text-xs uppercase tracking-widest text-accent font-bold mb-4">
-          {countryName}
+          {countryNameLocal}
         </div>
         <h1 class="font-display text-3xl sm:text-4xl md:text-[2.5rem] font-bold text-primary leading-tight mb-5 tracking-tight">
           {title}
@@ -81,26 +93,26 @@ const fmtDate = (d: Date) => d.toLocaleDateString('en-US', { year: 'numeric', mo
         </p>
         <!-- Author + meta line -->
         <div class="flex flex-wrap items-center gap-x-3 gap-y-1 text-sm text-primary/60 pt-4 border-t border-primary/10">
-          <span class="font-semibold text-primary">By {author || 'Kseniia'}</span>
+          <span class="font-semibold text-primary">{byLabel} {author || 'Kseniia'}</span>
           <span aria-hidden="true">·</span>
           <time datetime={pubDate.toISOString()}>{fmtDate(pubDate)}</time>
           {readingTime && (
             <>
               <span aria-hidden="true">·</span>
-              <span>{readingTime} min read</span>
+              <span>{readingTime} {minReadLabel}</span>
             </>
           )}
           {updatedDate && updatedDate.getTime() !== pubDate.getTime() && (
             <>
               <span aria-hidden="true">·</span>
-              <span class="italic">Updated {fmtDate(updatedDate)}</span>
+              <span class="italic">{updatedLabel} {fmtDate(updatedDate)}</span>
             </>
           )}
         </div>
       </header>
 
       <!-- Affiliate disclosure -->
-      <AffiliateDisclosure />
+      <AffiliateDisclosure lang={lang} />
 
       <!-- Article body -->
       <div class="prose-article">
@@ -108,7 +120,7 @@ const fmtDate = (d: Date) => d.toLocaleDateString('en-US', { year: 'numeric', mo
       </div>
 
       <!-- Related posts (within reading column) -->
-      <RelatedPosts post={post} />
+      <RelatedPosts post={post} lang={lang} />
 
       <!-- Email magnet at the END (per design rules — never mid-article) -->
       <EmailMagnet country={countryName} leadMagnetName={`${countryName} Travel Guide`} />

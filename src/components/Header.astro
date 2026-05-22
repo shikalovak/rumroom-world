@@ -1,5 +1,12 @@
 ---
 import { SITE_TITLE } from '../consts';
+import { t, type Lang, homePath, aboutPath, pillarPath } from '../i18n/strings';
+
+interface Props {
+  lang?: Lang;
+}
+const { lang = 'en' } = Astro.props;
+const s = t(lang);
 ---
 
 <header class="bg-secondary border-b border-primary/5">
@@ -9,24 +16,24 @@ import { SITE_TITLE } from '../consts';
       <ul class="flex gap-3 sm:gap-4 md:gap-6 items-center justify-self-start">
         <li>
           <a
-            href="/pillars/bali/"
+            href={pillarPath(lang, 'bali')}
             class="font-body text-base font-semibold text-primary hover:text-accent transition-colors"
           >
-            Bali
+            {s.nav_bali}
           </a>
         </li>
         <li class="hidden sm:block">
           <a
-            href="/about/"
+            href={aboutPath(lang)}
             class="font-body text-base font-semibold text-primary hover:text-accent transition-colors"
           >
-            About
+            {s.nav_about}
           </a>
         </li>
       </ul>
 
       <!-- Center: logo -->
-      <a href="/" class="block justify-self-center" aria-label={SITE_TITLE}>
+      <a href={homePath(lang)} class="block justify-self-center" aria-label={SITE_TITLE}>
         <img
           src="/logo.png"
           alt={SITE_TITLE}
@@ -39,7 +46,7 @@ import { SITE_TITLE } from '../consts';
       <!-- Right: subscribe CTA -->
       <div class="justify-self-end">
         <a href="#newsletter" class="btn-primary text-sm">
-          Subscribe
+          {s.nav_subscribe}
         </a>
       </div>
     </nav>

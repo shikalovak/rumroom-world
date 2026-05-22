@@ -1,5 +1,6 @@
 ---
-import { SITE_TITLE, SITE_DESCRIPTION, SITE_URL } from '../consts';
+import { SITE_TITLE, SITE_URL } from '../consts';
+import type { Lang } from '../i18n/strings';
 import '../styles/global.css';
 
 interface Props {
@@ -11,6 +12,8 @@ interface Props {
   author?: string;
   articleType?: string;
   robots?: string;
+  lang?: Lang;
+  altLangPath?: string;
 }
 
 const {
@@ -22,7 +25,23 @@ const {
   author = 'Kseniia',
   articleType = 'article',
   robots,
+  lang = 'en',
+  altLangPath,
 } = Astro.props;
+
+// Compute hreflang alternates. Always emit self + the other lang if known.
+const selfPath = Astro.url.pathname;
+const otherLang: Lang = lang === 'ru' ? 'en' : 'ru';
+const alternates: Array<{ hreflang: string; href: string }> = [
+  { hreflang: lang, href: `${SITE_URL}${selfPath}` },
+];
+if (altLangPath) {
+  alternates.push({ hreflang: otherLang, href: `${SITE_URL}${altLangPath}` });
+  // x-default → English version
+  alternates.push({ hreflang: 'x-default', href: `${SITE_URL}${lang === 'en' ? selfPath : altLangPath}` });
+}
+
+const ogLocale = lang === 'ru' ? 'ru_RU' : 'en_US';
 
 const jsonLd = articleType === 'article' && pubDate ? {
   '@context': 'https://schema.org',
@@ -31,6 +50,7 @@ const jsonLd = articleType === 'article' && pubDate ? {
   description: description,
   image: image,
   datePublished: pubDate.toISOString(),
+  inLanguage: lang === 'ru' ? 'ru-RU' : 'en-US',
   author: {
     '@type': 'Person',
     name: author,
@@ -51,6 +71,11 @@ const jsonLd = articleType === 'article' && pubDate ? {
 {robots && <meta name="robots" content={robots} />}
 <link rel="canonical" href={canonicalURL} />
 
+<!-- hreflang alternates -->
+{alternates.map((a) => (
+  <link rel="alternate" hreflang={a.hreflang} href={a.href} />
+))}
+
 <!-- Open Graph Tags -->
 <meta property="og:title" content={title} />
 <meta property="og:description" content={description} />
@@ -58,6 +83,7 @@ const jsonLd = articleType === 'article' && pubDate ? {
 <meta property="og:url" content={canonicalURL} />
 <meta property="og:type" content={articleType === 'article' ? 'article' : 'website'} />
 <meta property="og:site_name" content={SITE_TITLE} />
+<meta property="og:locale" content={ogLocale} />
 
 <!-- Twitter Card Tags -->
 <meta name="twitter:card" content="summary_large_image" />

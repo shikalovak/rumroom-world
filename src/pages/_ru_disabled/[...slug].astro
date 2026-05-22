@@ -1,0 +1,29 @@
+---
+import { getCollection, type CollectionEntry } from 'astro:content';
+import PostLayout from '../../layouts/PostLayout.astro';
+
+export async function getStaticPaths() {
+  const posts = await getCollection('posts-ru');
+  return posts
+    .filter((post) => !post.data.draft)
+    .map((post) => {
+      // URL pattern: /ru/<country>/<post-slug>/  — must match sitemap.xml.ts
+      const country = post.data.cluster.split('/')[0];
+      const slug = `${country}/${post.slug}`;
+      return {
+        params: { slug },
+        props: { post, slug: post.slug },
+      };
+    });
+}
+
+interface Props {
+  post: CollectionEntry<'posts-ru'>;
+  slug: string;
+}
+
+const { post, slug } = Astro.props;
+const altLangPath = `/${post.data.cluster.split('/')[0]}/${slug}/`;
+---
+
+<PostLayout post={post} lang="ru" altLangPath={altLangPath} />

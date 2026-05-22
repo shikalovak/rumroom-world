@@ -2,6 +2,7 @@
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
 import BaseHead from '../components/BaseHead.astro';
+import type { Lang } from '../i18n/strings';
 
 interface Props {
   title: string;
@@ -10,13 +11,17 @@ interface Props {
   pubDate?: Date;
   author?: string;
   robots?: string;
+  lang?: Lang;
+  // Path (no origin) of the equivalent page in the other language, e.g. "/ru/about/" or "/about/".
+  // When supplied, BaseHead emits hreflang alternate links.
+  altLangPath?: string;
 }
 
-const { title, description, image, pubDate, author, robots } = Astro.props;
+const { title, description, image, pubDate, author, robots, lang = 'en', altLangPath } = Astro.props;
 ---
 
 <!doctype html>
-<html lang="en">
+<html lang={lang}>
   <head>
     <BaseHead
       title={title}
@@ -25,13 +30,15 @@ const { title, description, image, pubDate, author, robots } = Astro.props;
       pubDate={pubDate}
       author={author}
       robots={robots}
+      lang={lang}
+      altLangPath={altLangPath}
     />
   </head>
   <body class="flex flex-col min-h-screen">
-    <Header />
+    <Header lang={lang} />
     <main class="flex-1">
       <slot />
     </main>
-    <Footer />
+    <Footer lang={lang} />
   </body>
 </html>
