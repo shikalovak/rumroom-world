@@ -6,12 +6,12 @@ updatedDate: 2026-05-08
 author: kseniia
 readingTime: 11
 description: "Practical money guide for Bali 2026. ATM tricks, Wise vs Revolut, cash culture explained, and the single biggest currency mistake most travelers make."
-heroImage: "https://images.unsplash.com/photo-1657770295015-79b98a3e37ac?w=1500&q=80&fm=jpg&auto=format,compress"
-heroImageAlt: "Laptop on a ledge — remote-work setup in a Bali coworking"
+heroImage: "https://images.unsplash.com/photo-1625605079055-52ccf31be29a?w=1500&q=80&fm=jpg&auto=format,compress"
+heroImageAlt: "Person holding 10000 Indonesian rupiah banknote"
 heroImageCredit:
-  photographer: "Thai Nguyen"
-  profileUrl: "https://unsplash.com/@quangthai_itshop"
-  photoUrl: "https://unsplash.com/photos/a-laptop-on-a-ledge-5Y507jwIRrY"
+  photographer: "Muhammad Daudy"
+  profileUrl: "https://unsplash.com/@ahsanjaya"
+  photoUrl: "https://unsplash.com/photos/person-holding-10000-indonesian-rupiah-4BT1KgD34Rs"
 primaryKeyword: money in bali
 secondaryKeywords:
   - bali atm fees

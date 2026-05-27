@@ -6,12 +6,12 @@ updatedDate: 2026-05-15
 author: kseniia
 readingTime: 12
 description: "Honest beach-by-beach guide. Where to actually swim (vs where the riptide will kill you), best sunsets, hidden quiet spots, and which beaches to skip."
-heroImage: "https://images.unsplash.com/photo-1546484458-6904289cd4f0?w=1500&q=80&fm=jpg&auto=format,compress"
-heroImageAlt: "People at a Bali pool party"
+heroImage: "https://images.unsplash.com/photo-1520277872024-58b40679ddb4?w=1500&q=80&fm=jpg&auto=format,compress"
+heroImageAlt: "Aerial view of Padang Padang Beach, Bali — turquoise water, cliffs, and tropical shoreline"
 heroImageCredit:
-  photographer: "Cassie Gallegos"
-  profileUrl: "https://unsplash.com/@theadventurebitch"
-  photoUrl: "https://unsplash.com/photos/people-in-swimming-pool-6wCWCPwmRJY"
+  photographer: "Oliver Sjöström"
+  profileUrl: "https://unsplash.com/@ollivves"
+  photoUrl: "https://unsplash.com/photos/aerial-shot-of-seashore-EztqREO1cag"
 primaryKeyword: best beaches in bali
 secondaryKeywords:
   - bali swimming beach

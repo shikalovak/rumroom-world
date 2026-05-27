@@ -6,12 +6,12 @@ updatedDate: 2026-05-26
 author: kseniia
 readingTime: 12
 description: "Honest beginner surf guide for Bali. Best beaches by skill level, what lessons actually cost ($15-50/hr), board rental realities, and which spots will kill you on day one."
-heroImage: "https://images.unsplash.com/photo-1591192626617-f9c691fa8df4?w=1500&q=80&fm=jpg&auto=format,compress"
-heroImageAlt: "Green rice fields near trees in Bali"
+heroImage: "https://images.unsplash.com/photo-1592065289359-7f20aec44239?w=1500&q=80&fm=jpg&auto=format,compress"
+heroImageAlt: "Surfer carrying a surfboard walking into the ocean at Canggu, Bali"
 heroImageCredit:
-  photographer: "Carles Rabada"
-  profileUrl: "https://unsplash.com/@carlesrgm"
-  photoUrl: "https://unsplash.com/photos/green-grass-field-near-green-trees-during-daytime-F0f6CNjVn_o"
+  photographer: "Sebastian Puskeiler"
+  profileUrl: "https://unsplash.com/@keiler"
+  photoUrl: "https://unsplash.com/photos/a-person-holding-a-surfboard-walking-into-the-ocean-XtRH7Zs3ShU"
 primaryKeyword: bali surfing for beginners
 secondaryKeywords:
   - best surf spot bali beginners

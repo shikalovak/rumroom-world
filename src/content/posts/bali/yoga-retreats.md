@@ -6,12 +6,12 @@ updatedDate: 2026-05-22
 author: kseniia
 readingTime: 13
 description: "Honest guide to picking a Bali yoga retreat. What $300 vs $1500 vs $4000 actually buys you, red flags, and 5 retreats I'd actually recommend by name."
-heroImage: "https://images.unsplash.com/photo-1574308107819-81503d86593e?w=1500&q=80&fm=jpg&auto=format,compress"
-heroImageAlt: "Brown canopy surrounded by trees — Bali jungle"
+heroImage: "https://images.unsplash.com/photo-1573646985533-85d8a384e020?w=1500&q=80&fm=jpg&auto=format,compress"
+heroImageAlt: "Woman meditating in yoga pose on the beach at sunset"
 heroImageCredit:
-  photographer: "Rahmadiyono Widodo"
-  profileUrl: "https://unsplash.com/@yonowidodo"
-  photoUrl: "https://unsplash.com/photos/brown-canopy-surrounded-by-trees-ma4OLjJjaWM"
+  photographer: "Zen Bear Yoga"
+  profileUrl: "https://unsplash.com/@zenbear"
+  photoUrl: "https://unsplash.com/photos/woman-meditating-at-beach-ps9cSHYerEw"
 primaryKeyword: bali yoga retreats
 secondaryKeywords:
   - best yoga retreat bali
