@@ -4,15 +4,19 @@ slug: canggu-cafes
 pubDate: 2026-05-01
 updatedDate: 2026-05-01
 author: kseniia
+readingTime: 11
 description: "Honest picks for where to eat in Canggu: breakfast spots, hidden local joints, and sunset beach clubs. Real reviews, real prices."
-heroImage: /images/canggu-food.jpg
+heroImage: "https://images.unsplash.com/photo-1645839449196-62bde406052e?w=1500&q=80&fm=jpg&auto=format,compress"
+heroImageAlt: "Wooden table topped with a bowl of food at a Canggu cafe"
+heroImageCredit:
+  photographer: "Eirik Skarstein"
+  profileUrl: "https://unsplash.com/@eskarstein"
+  photoUrl: "https://unsplash.com/photos/a-wooden-table-topped-with-a-bowl-of-food-sW2DQ6FXJZc"
 primaryKeyword: best restaurants canggu
 secondaryKeywords: ["canggu cafes", "best brunch canggu", "where to eat canggu", "best food canggu"]
 cluster: bali/food
 affiliates: ["safetywing", "airalo", "booking"]
 ---
-
-# 13 Best Cafes & Restaurants in Canggu (Local's Picks for 2026)
 
 There's a reason half of Bali's expats end up living in Canggu: you can eat differently for breakfast, lunch and dinner for a month and still not run out of new places. Rice field views in the morning, banana-leaf-shaded lunches, sunset cocktails feet-in-sand. The catch — the food scene moves fast. Spots open and close, what was incredible in 2023 might be tired now, and most travel blogs are stuck quoting cafés that no longer exist. So here's what's actually worth your time in 2026, with honest takes on which ones deserve the hype and which ones don't.
 

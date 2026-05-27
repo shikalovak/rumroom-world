@@ -4,16 +4,20 @@ slug: where-to-eat
 pubDate: 2026-05-01
 updatedDate: 2026-05-01
 description: "Bali food culture is its own thing, and after years of eating across the island, I've learned that half the magic of a Bali trip is actually on your plate. This guide breaks down the best spots by meal and location—from sunrise bowls in Canggu to underwater dining in Nusa Dua."
-heroImage: /images/bali-food.jpg
+heroImage: "https://images.unsplash.com/photo-1728050829024-8113f4cd85ec?w=1500&q=80&fm=jpg&auto=format,compress"
+heroImageAlt: "Table topped with plates of Balinese food and drinks"
+heroImageCredit:
+  photographer: "Antonio Araujo"
+  profileUrl: "https://unsplash.com/@antonioaaaraujo"
+  photoUrl: "https://unsplash.com/photos/a-table-topped-with-plates-of-food-and-drinks-xyel_GFkqh4"
 author: kseniia
+readingTime: 10
 cluster: bali/food
 primaryKeyword: "best food in bali"
 secondaryKeywords: ["where to eat in bali", "best restaurants bali", "best breakfast bali", "best dinner bali"]
 affiliates: ["safetywing", "airalo", "booking", "klook"]
 internalLinks: ["/bali/for-first-timers/", "/bali/where-to-stay/", "/bali/canggu-cafes/", "/bali/coworking/", "/bali/cost-of-living/"]
 ---
-
-# Where to Eat in Bali: Best Breakfast, Lunch, and Dinner Spots (2026)
 
 In Bali, food is not a refuel. It's an event. Mornings start with smoothie bowls overlooking rice paddies. Lunch can be a $3 plate of nasi campur from a roadside warung — or a $40 farm-to-table tasting in the Ubud jungle. Dinner? It might be an open-flame seafood platter at an Echo Beach club, or — yes, really — inside an actual cave or below the surface of an aquarium. Pick your meal, pick your scene; the island will provide. This guide breaks down where I'd actually go for each meal, by neighborhood and by vibe.
 

@@ -12,6 +12,11 @@ const posts = defineCollection({
     secondaryKeywords: z.array(z.string()).optional(),
     heroImage: z.string().optional(),
     heroImageAlt: z.string().optional(),
+    heroImageCredit: z.object({
+      photographer: z.string(),
+      profileUrl: z.string().url(),
+      photoUrl: z.string().url(),
+    }).optional(),
     author: z.string().default('Kseniia'),
     readingTime: z.number().optional(),
     tags: z.array(z.string()).optional(),

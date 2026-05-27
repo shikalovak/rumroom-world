@@ -8,8 +8,13 @@ description: "Scooter rental guide for travelers in Bali. Complete pricing break
 secondaryKeywords: ["scooter rental bali", "bali scooter rental price", "rent motorbike bali", "bali scooter license"]
 cluster: "bali/practical"
 author: "Kseniia"
-heroImage: "/images/bali-scooter.jpg"
-heroImageAlt: "Scooter parked on a Bali street"
+readingTime: 11
+heroImage: "https://images.unsplash.com/photo-1712213248719-aade0e02a591?w=1500&q=80&fm=jpg&auto=format,compress"
+heroImageAlt: "A motor scooter parked on the side of a road in Bali"
+heroImageCredit:
+  photographer: "Polina Kuzovkova"
+  profileUrl: "https://unsplash.com/@p_kuzovkova"
+  photoUrl: "https://unsplash.com/photos/a-motor-scooter-parked-on-the-side-of-a-road-5nL5XIQMNHY"
 affiliates: ["safetywing", "ivisa", "discoverCars", "airalo"]
 ---
 

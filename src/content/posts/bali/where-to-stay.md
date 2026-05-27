@@ -5,7 +5,13 @@ pubDate: 2026-05-01
 updatedDate: 2026-05-01
 description: "Pick the right Bali neighborhood for your trip. Honest breakdown of Canggu, Pererenan, Ubud, Uluwatu, Seminyak, and Kuta."
 author: kseniia
-heroImage: /images/bali-neighborhoods.jpg
+readingTime: 10
+heroImage: "https://images.unsplash.com/photo-1581974206939-b42731ea9dc9?w=1500&q=80&fm=jpg&auto=format,compress"
+heroImageAlt: "Palm tree by a swimming pool in Bali"
+heroImageCredit:
+  photographer: "Daniel Faust"
+  profileUrl: "https://unsplash.com/@dan0911"
+  photoUrl: "https://unsplash.com/photos/green-palm-tree-near-swimming-pool-during-daytime-EPzfdoMYm7s"
 cluster: "bali/where-to-stay"
 primaryKeyword: "where to stay in bali"
 secondaryKeywords: ["best area to stay in bali", "canggu vs ubud", "where to live in bali", "best neighborhood bali digital nomad"]
