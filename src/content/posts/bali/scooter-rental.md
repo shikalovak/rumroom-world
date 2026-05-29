@@ -1,11 +1,11 @@
 ---
-title: "How to Rent a Scooter in Bali: Prices, Rules, Safety (2026)"
+title: "Bali Scooter Rental 2026: Real Prices ($5–25/day), Rules + What to Do If You Scratch It"
 slug: scooter-rental
 pubDate: 2026-05-01
-updatedDate: 2026-05-01
+updatedDate: 2026-05-29
 primaryKeyword: "scooter rental bali"
-description: "Scooter rental guide for travelers in Bali. Complete pricing breakdown, documentation requirements, insurance advice, and honest safety tips from local experience."
-secondaryKeywords: ["scooter rental bali", "bali scooter rental price", "rent motorbike bali", "bali scooter license"]
+description: "Real 2026 Bali scooter rental prices ($5–25/day), IDP rules, what to do if you scratch the bike, and police checkpoint protocols. Honest local breakdown from 3+ years on the island."
+secondaryKeywords: ["scooter rental bali", "bali scooter rental price per day 2026", "scratched rental scooter in indonesia", "rent motorbike bali", "bali scooter license", "scooter hire bali"]
 cluster: "bali/practical"
 author: "Kseniia"
 readingTime: 11
@@ -144,6 +144,44 @@ Police set up checkpoints weekly. Honestly? They're looking for quick checks, no
 - Smile. Use the phrase "Saya punya SIM internasional" (I have an international license) even if you don't—buys you credibility.
 - If pushed, ask "Bisa bayar resmi?" (Can I pay officially?) They'll either let you go or agree to the informal settlement.
 
+## What to do if you scratch the scooter
+
+This is the question I get most often—what happens if you scratch the rental in Bali? Honest answer: it's usually not as bad as you think, but **how you handle the first hour matters more than the damage itself.**
+
+### The first 60 minutes
+
+1. **Stop somewhere safe.** Don't keep riding to "see if it gets worse." Pull over, breathe.
+2. **Photograph everything immediately.** Wide shot, close-up, both sides of the bike, plus the surrounding road or whatever caused the scratch. Timestamp on phone matters.
+3. **Don't post on Instagram.** Sounds silly, but rental shops have caught customers via their public stories. Wait.
+4. **Call the rental shop owner directly**—not WhatsApp the office, the *person*. They'll usually meet you on-site or send someone within 30 min.
+
+### What you'll actually pay (real 2026 numbers)
+
+Damage costs in Bali are surprisingly transparent once you know the going rate. From my own and friends' experiences:
+
+| Damage type | Honest replacement cost (USD) | What rental shops often quote first |
+|---|---|---|
+| Single side mirror | $4–$8 | $20–$40 |
+| Scratched plastic fairing (no crack) | $0 (buff out) to $15 (touch-up paint) | $50–$120 |
+| Cracked fairing (large piece, needs replacing) | $25–$60 | $100–$200 |
+| Broken brake/clutch lever | $5–$15 | $30–$60 |
+| Bent handlebar | $20–$40 | $80–$150 |
+| Replacement key (lost) | $10–$20 | $50–$100 |
+
+**The negotiation pattern:** rental shop opens high, you counter with "I checked Tokopedia, the part is X rupiah." Tokopedia is the Indonesian Amazon—real-time market prices for any motorbike part. Show them the listing on your phone. The quote drops fast.
+
+### When NOT to pay on the spot
+
+- The damage is pre-existing (this is why you photo'd the bike at pickup—if you didn't, lesson learned)
+- They're quoting more than 3x reasonable cost AND won't negotiate
+- They're claiming structural damage (engine, frame) without showing you proof
+
+In those cases: pay for whatever's verifiable, leave a fair deposit, ask them to get a written quote from a Honda/Yamaha service shop, and meet again. Most shops back down once you sound like you know the system.
+
+### If it's worse than a scratch—you crashed
+
+If someone's hurt, the bike is wrecked, or police got involved, that's a different protocol entirely. I wrote it up here: **[What to do in the first 60 minutes after a scooter accident in Bali](/bali/scooter-accident-protocol/)**—hospitals, police, insurance claims, the photos that actually matter.
+
 ## Useful phrases
 
 | English | Indonesian |
@@ -207,6 +245,16 @@ Honda Scoopy or Vario 125. Both are forgiving, affordable, and light.
 
 **Where's the cheapest gas?**
 Pertamina stations (orange/red signs) are the national chain—cheaper and more reliable than roadside vendors.
+
+---
+
+## Related Bali practical guides
+
+- **[First time in Bali? Mistakes to avoid](/bali/for-first-timers/)** — the bigger picture before you land
+- **[What to do after a scooter accident in Bali](/bali/scooter-accident-protocol/)** — hospitals, police, insurance protocol
+- **[Bali visa guide: VOA, B211A, KITAS](/bali/visa-guide/)** — IDP fits into the bigger document picture
+- **[Monthly villa rental in Bali](/bali/monthly-villa-rental/)** — if you're staying long enough to need a bike long-term
+- **[Real Bali cost of living](/bali/cost-of-living/)** — where scooter rental fits in your monthly budget
 
 ---
 
