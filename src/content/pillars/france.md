@@ -3,12 +3,12 @@ title: "France Beyond Paris: A Slow Travel Pillar Guide"
 description: "How to actually see France — Provence, Côte d'Azur, Lyon, Bordeaux — and why Paris is just the starting point. Plus transit and airport tips."
 emoji: "🇫🇷"
 order: 3
-heroImage: "https://images.unsplash.com/photo-1528360983277-13d401cdc186?w=1500&q=80&fm=jpg&auto=format,compress"
-heroImageAlt: "Lavender field in Provence stretching to the horizon at golden hour"
+heroImage: "https://images.unsplash.com/photo-1684746742697-dd830100ba5c?w=1500&q=80&fm=jpg&auto=format,compress"
+heroImageAlt: "Provence lavender field with mountain in the background"
 heroImageCredit:
-  photographer: "Michael Fousert"
-  profileUrl: "https://unsplash.com/@michaelfousert"
-  photoUrl: "https://unsplash.com/photos/1528360983277-13d401cdc186"
+  photographer: "Thomas Despeyroux"
+  profileUrl: "https://unsplash.com/@thomasdes"
+  photoUrl: "https://unsplash.com/photos/a-field-of-lavender-flowers-with-a-mountain-in-the-background-0d7ckLu3_t4"
 ---
 
 I came back from France the first time thinking I knew it: Eiffel Tower, croissants, the slightly snooty service at Parisian cafés. Left a month later realizing I'd just scratched the surface. Then I went back — to Provence this time, for the lavender fields and the hilltop villages. Then to Lyon, specifically for the food. Then to the Côte d'Azur because someone told me Antibes was better than Nice and I needed to see for myself. (They were right.)
