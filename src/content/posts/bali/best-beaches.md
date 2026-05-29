@@ -7,7 +7,7 @@ author: kseniia
 readingTime: 12
 description: "Honest beach-by-beach guide. Where to actually swim (vs where the riptide will kill you), best sunsets, hidden quiet spots, and which beaches to skip."
 heroImage: "https://images.unsplash.com/photo-1520277872024-58b40679ddb4?w=1500&q=80&fm=jpg&auto=format,compress"
-heroImageAlt: "Aerial view of Padang Padang Beach, Bali — turquoise water, cliffs, and tropical shoreline"
+heroImageAlt: "Aerial view of a tropical Bali beach with turquoise water, cliffs, and white sand"
 heroImageCredit:
   photographer: "Oliver Sjöström"
   profileUrl: "https://unsplash.com/@ollivves"
