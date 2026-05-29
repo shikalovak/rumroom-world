@@ -7,6 +7,7 @@ export const STRINGS = {
   en: {
     // Header
     nav_bali: 'Bali',
+    nav_france: 'France',
     nav_about: 'About',
     nav_subscribe: 'Subscribe',
     // Footer
@@ -22,6 +23,7 @@ export const STRINGS = {
     footer_section_contact: 'Contact',
     footer_link_about: 'About',
     footer_link_bali: 'Bali Guide',
+    footer_link_france: 'France Guide',
     footer_link_privacy: 'Privacy',
     footer_link_disclosure: 'Affiliate Disclosure',
     footer_copyright: '© 2026 Rumroom World. Written by Kseniia.',
@@ -44,6 +46,7 @@ export const STRINGS = {
   },
   ru: {
     nav_bali: 'Бали',
+    nav_france: 'Франция',
     nav_about: 'Обо мне',
     nav_subscribe: 'Подписаться',
     footer_subscribe_heading: 'Подпишись на новые статьи →',
@@ -58,6 +61,7 @@ export const STRINGS = {
     footer_section_contact: 'Контакты',
     footer_link_about: 'Обо мне',
     footer_link_bali: 'Гайд по Бали',
+    footer_link_france: 'Гайд по Франции',
     footer_link_privacy: 'Конфиденциальность',
     footer_link_disclosure: 'Раскрытие об аффилиатах',
     footer_copyright: '© 2026 Rumroom World. Пишет Ксения.',
