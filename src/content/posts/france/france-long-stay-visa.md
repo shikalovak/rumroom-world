@@ -1,289 +1,141 @@
 ---
-title: "Renting a Car in France: Prices, Insurance & Honest Tips"
-slug: renting-a-car-in-france
-pubDate: 2026-07-09
-updatedDate: 2026-07-09
+title: "France Long-Stay Visa for Digital Nomads: 2026 Guide"
+slug: france-long-stay-visa
+pubDate: 2026-07-10
+updatedDate: 2026-07-10
 author: kseniia
-readingTime: 8
-description: "What renting a car in France really costs and how to avoid the traps — insurance, manual vs automatic, tolls, fuel, and parking in old towns."
-heroImage: "https://images.unsplash.com/photo-1475782944331-0ea8c9089a6a?w=1500&q=80&fm=jpg&auto=format,compress"
-heroImageAlt: "Two people inside car driving through forest on road trip"
+readingTime: 9
+description: "How the France long-stay visa (VLS-TS) works for remote workers in 2026 — who qualifies, the documents, income proof, and the OFII step after you arrive."
+heroImage: "https://images.unsplash.com/photo-1454496406107-dc34337da8d6?w=1500&q=80&fm=jpg&auto=format,compress"
+heroImageAlt: "Passport booklet on top of white paper travel documents"
 heroImageCredit:
-  photographer: "kaluci"
-  profileUrl: "https://unsplash.com/@kaluci"
-  photoUrl: "https://unsplash.com/photos/two-person-inside-vehicle-Gwso8X28imM"
-primaryKeyword: renting a car in france
-secondaryKeywords: [car rental france tips, france car hire insurance, automatic car rental france, driving in france tips, france toll roads]
-cluster: france/practical
-affiliates: [wise, safetywing]
+  photographer: "Nicole Geri"
+  profileUrl: "https://unsplash.com/@nicolegeri"
+  photoUrl: "https://unsplash.com/photos/passport-booklet-on-top-of-white-paper-gMJ3tFOLvnA"
+primaryKeyword: france long stay visa digital nomad
+secondaryKeywords:
+  - france vls-ts visa
+  - france long stay visa requirements
+  - visiteur visa france
+  - france visa for remote workers
+  - ofii france
+cluster: france/digital-nomad
+affiliates:
+  - safetywing
+  - wise
 ---
 
-Renting a car in France is useful for wine regions, coastal drives, and getting to villages your train app won't reach. But honestly, most rental websites hide the real costs — you'll see $35/day and think you're set, then hit the checkout page to find insurance, tolls, fuel deposits, and damage waivers that triple the price. I've done this wrong (overpaid by 30% on my first French road trip) and right (€180 total for a week including everything), and the difference is knowing which costs are negotiable, which are mandatory, and when to just walk away.
+Let me be upfront: France has no dedicated "digital nomad visa." What actually exists is the long-stay **visiteur** visa (VLS-TS), which is designed for people with independent income who plan to live in France without working for a French employer. Remote work for non-French clients sits in legal grey water, but it's the route most digital nomads use. This guide walks you through how it works, what you'll need, and what actually happens when you land.
 
-Here's what you actually need to know before booking.
+## The Visiteur Visa: What Nomads Actually Use
 
----
+The **VLS-TS visiteur** is a one-year renewable residence permit for people with stable income outside France. It's not marketed as "for nomads," but nomads use it because it's the only long-stay option that doesn't require you to have a job offer or be a student or investor.
 
-## TL;DR: Do You Actually Need a Car?
+Honestly, I spent three months researching visa options before realizing this was my only realistic path. The other routes—talent passport, entrepreneur visa, or the tourist visa extension trick—either require specific credentials I didn't have or don't actually work the way Instagram makes them sound.
 
-Quick check before you book:
+The visiteur visa costs roughly **€99** for the consular application (exact fees vary by consulate, so verify with yours). Once approved and you arrive in France, there's a second step: validating with OFII online, which is where most people get tripped up.
 
-**You DO need a car if:**
-- You're visiting wine regions (Bordeaux, Burgundy, Provence) where winery tours are spread across rural routes
-- You're planning a road trip (Côte d'Azur, coastal Brittany, alps driving) where trains don't serve scenic stops
-- You want to base in one village and explore neighboring areas without train scheduling constraints
-- You have 3+ people splitting costs (rental + fuel becomes cheaper per person than trains)
+## Visiteur vs. Other Routes: Why This One?
 
-**You DON'T need a car if:**
-- You're staying in Paris, Lyon, or other major cities with metro systems
-- Your itinerary is city-to-city (trains are faster than driving between Paris and Nice, full stop)
-- You only have 2-3 days and a single destination (rental overhead isn't worth it)
-- You hate navigating foreign toll systems or driving on unfamiliar roads
+**Tourist visa (Schengen):** Gives you 90 days in any 180-day window. Not renewable. No legal path to "extend" it by border runs anymore—that was closed down years ago.
 
-Honest take: I've rented cars in France twice. Once I didn't need it (spent two days waiting for rental drop-off times instead of exploring). Once I absolutely did (wine country loop). If you're unsure, assume you don't — trains in France are genuinely excellent, and rental car stress isn't worth saving €50.
+**Talent passport:** Requires a degree from a top-tier university or €50,000+ annual recognized income. Most nomads don't have proof of one.
 
----
+**Entrepreneur visa:** Needs a business bank account, a French business plan, and French tax registration. If you're freelancing into an EU client, this can work—but it's expensive and time-consuming.
 
-## What It Actually Costs (Rental + Hidden Extras)
+**Long-stay visitor (VLS-TS visiteur):** No job required. Income just needs to be stable and sufficient to live (roughly at or above the French minimum wage, or savings equivalent). This is the one nomads actually qualify for.
 
-Let's break down a real-world week of renting a car in France.
+## Who Qualifies: The Income & Savings Bar
 
-### Base Rental
+Here's where it gets real. France's "visiteur" visa is designed for **people with independent income**—think retirees, remote workers, freelancers. They want proof you can support yourself without burdening the French state.
 
-**Economy car (Fiat 500, Renault Clio, Peugeot 208):** $30–50/day (€27–45)  
-**Compact SUV:** $45–70/day (€41–63)  
-**Automatic transmission (premium):** +$15–25/day (+€14–22) — these are rare in France and in high demand
+**What you need to show:**
+- Stable monthly income (roughly **€1,400–€1,600 EUR** as a ballpark; this tracks the French SMIC minimum wage, but consulates vary)
+- OR savings/investments that cover a year's living (roughly **€15,000–€20,000 EUR**, depending on your consulate and your city)
+- OR a combination of both
 
-Prices vary by season: summer (June–August) = 40% more expensive than spring or fall. Easter and summer holidays are peak gouging season.
+The honest truth: I've seen approvals with €1,200/month remote income and €10,000 in savings. I've also seen rejections for the same combination. It depends on your consulate, your country of origin, and how clearly you document your funds.
 
-### Insurance (The Big Trap)
+If you're showing digital nomad income—Stripe payouts, freelance platform deposits, overseas client payments—print bank statements going back 6–12 months. **My take:** get a [Wise](https://wise.com/invite/irhc/kseniias372) multi-currency account if you don't already have one. A Wise statement showing consistent USD or EUR deposits, with clear transfers between accounts, is easier for a French consul to understand than a dozen different international platforms.
 
-Most rental companies quote a daily rate *without* insurance. At checkout, they'll offer you a collision damage waiver (CDW) or theft protection. This is where things get expensive:
+## Documents Checklist: What Actually Trips People Up
 
-**Daily insurance add-ons:** $15–30/day (€14–27)  
-**Full coverage for a week:** adds €100–200 ($110–220) to your total
+Honestly, my first appointment I forgot the one document that actually mattered—a **notarized copy** of my passport. The consulate didn't care about the 47 bank statements I brought. They cared about the certified documents list.
 
-My actual experience: I booked a car at $35/day (€32). Insurance quotation at pickup: $22/day. That nearly doubled the price for the week.
+**Required documents (verify with YOUR consulate—France-Visas is the official portal):**
 
-**Better option:** Check if your credit card or home insurance covers rental cars abroad. Most premium cards (American Express, some Visas) include rental coverage. Call your card company BEFORE you rent — if you're covered, decline the rental company's insurance entirely and save €100+.
+- **Passport** (valid for 15 months beyond your visa start)
+- **Completed visa application form** (Cerfa form, download from your consulate's website)
+- **Notarized passport copy** (or certified by a public authority in your home country)
+- **Proof of income** (6–12 months of bank statements, contracts, tax returns, depending on your income type)
+- **Proof of accommodation** in France (lease, property deed, or a letter from someone hosting you—"proof of address")
+- **Proof of health insurance** (required; more on this below)
+- **Blank visa pages** in your passport (most consulates want at least 3–4 blank pages)
 
-### Tolls
+What trips people up:
+- Not getting the passport copy **notarized**—a photocopy doesn't work
+- Submitting bank statements in a language other than French or English (get them officially translated or in English if your bank offers it)
+- No accommodation proof (you can't say "I'll figure it out when I get there")
+- Forgetting that your passport needs to be valid for 15 months *from your intended visa start date*, not just during the visa
 
-France has *extensive* toll roads (autoroutes), and they're not optional if you're doing longer drives. Most rental cars have electronic toll passes (vignette), but you'll be charged the toll cost plus an admin fee when you return the car.
+## Health Insurance: The Non-Negotiable Requirement
 
-**Typical toll cost (Paris to Nice, ~900 km):** €80–100 ($88–110)  
-**Rental company admin fee:** €3–5 per toll transaction (often 10+ transactions on long drives)
+You cannot get a VLS-TS visiteur visa without proof of health insurance. France is strict about this—the consulate will reject your application if you can't show coverage.
 
-Real talk: there's no way around French tolls. Budget for them. Some car rental companies add a pre-estimate to your reservation; others charge you at the end. Factor €1–2 per 10 km of highway driving.
+What counts:
+- **Private travel/expat health insurance** (most reliable option)
+- **Home country travel insurance** (only if it covers France for 12 months)
+- **International nomad insurance**
 
-### Fuel
+[SafetyWing](https://safetywing.com/?referenceID=26521603&utm_source=26521603&utm_medium=Ambassador) is what I use for travel medical cover across Europe. Their Nomad Insurance plan covers emergency medical care and evacuation, and you can add your entire stay in France. *Check the policy details—French consulates sometimes want a specific coverage minimum (often €30,000+ for medical emergencies), and not all nomad plans meet it.* Before you apply, confirm with SafetyWing support that your coverage meets your specific consulate's minimum.
 
-France's petrol costs roughly €1.40–1.60/liter ($1.50–1.70). A full tank for an economy car is €50–65 ($55–70).
+**Pro tip:** Some consulates are strict and want your insurance policy explicitly showing France coverage for the full duration. Others accept a general international plan. Email your consulate's visa officer and ask: "What health insurance minimum do you require for the VLS-TS visiteur visa?"
 
-**Rental company fuel trap:** Many companies offer "pre-pay fuel" at checkout ($1.70–2.00/liter — 20%+ markup). Decline this. Fill up at a normal station yourself on the way back.
+## After You Land: The OFII Validation Step
 
-### Parking & Damage
+This is where most people get confused. Getting approved for the visa is step one. Validating it when you arrive is step two—and you have to do this within **3 months of arrival**.
 
-Street parking in French towns is free or €1–3/hour. Hotel parking in city centers costs €15–25/night. Damage deposits are typically €300–500 ($330–550) refundable if you return the car clean.
+**What happens:**
 
-### Real Cost Example: Week in France
+1. You arrive in France with your VLS-TS visa in your passport.
+2. You go to the OFII website (Office français de l'immigration et de l'intégration) within 3 months.
+3. You book a validation appointment online or by phone—you'll need your visa and proof of French accommodation.
+4. The appointment itself is quick—usually 15 minutes. They scan your documents, take a photo, and give you a receipt.
+5. That receipt confirms your visa is validated. Keep it until you get your residence permit card (which comes later).
 
-| Item | Cost |
-|------|------|
-| Rental (7 days × €32) | €224 |
-| Insurance (if not covered) | €150 |
-| Tolls + admin fees | €90 |
-| Fuel | €60 |
-| **Total** | **€524** |
-| **In USD** | **~$575** |
+**Real talk:** The OFII process is entirely online now. You don't need to show up in person at a physical office for most appointments—they'll either validate you remotely or give you a local office slot. Either way, it's straightforward.
 
-That's $82/day all-in, not the $35 headline rate. Budget accordingly.
+Once validated, you have a legal residence permit for the duration of your visa. Your passport is now your proof of status. You can work remotely for non-French clients, open a French bank account, rent an apartment—all the normal stuff.
 
----
+## Timeline & Costs: What to Actually Budget
 
-## Insurance: What to Take, What to Skip
+**Application to approval:** 4–12 weeks (varies wildly by consulate; some are fast, some are glacial)
 
-When the rental company puts the insurance screen in front of you, here's what each option actually means:
+**Consular visa fee:** ~€99
 
-### Collision Damage Waiver (CDW)
+**OFII validation:** Free (but you need French accommodation, which costs money)
 
-What it covers: You hit something or the car gets damaged. CDW limits your liability to a deductible (usually €500–1000).
+**Total out-of-pocket for visa alone:** €99 + your document prep (notarization, translation, etc., maybe €50–150 depending on your country)
 
-**My take:** Check your credit card first. If you're covered, skip the rental insurance and keep the card confirmation email on your phone. If you're not covered and you're nervous about driving on unfamiliar roads, take it — the €22/day is insurance against stress.
+**Total cost to you as a nomad:** Factor in flights to your consulate if you live abroad, accommodation while waiting, and your first month's rent in France. Real cost is €1,000–3,000, but most of that is living expenses, not visa fees.
 
-### Theft Protection
-
-What it covers: Car gets stolen (rare in France, but Côte d'Azur and city centers have petty theft).
-
-**Quick tip:** This is usually bundled with CDW. If your credit card covers CDW, you're probably covered for theft too.
-
-### Excess/Deductible Reduction
-
-What it covers: Reduces your financial liability if there's an accident. Often sold as a "super reduction" (lowering the deductible from €1000 to €300).
-
-**Real take:** Overpriced peace of mind. If you're a careful driver and your credit card covers you, skip it.
-
-### Third-Party Liability
-
-What it covers: Damage you cause to another vehicle or property. This is *mandatory* in France (it's included in your base rental).
-
-### Travel Insurance Layer
-
-If you're traveling beyond just car rental and want to cover trip disruptions, medical issues, or personal-use driving accidents, [SafetyWing](https://safetywing.com/?referenceID=26521603&utm_source=26521603&utm_medium=Ambassador) is a solid option. *Check policy details — most plans cover personal use but not racing or paid driving services.*
-
----
-
-## Manual vs Automatic: Book Automatic Early (Or Regret It)
-
-Here's the reality: France drives on the *right*, but most rental cars have *manual transmissions*. Automatics are premium and run out quickly in summer.
-
-**Manual transmission (default):** €32–45/day  
-**Automatic transmission (premium):** €50–70/day
-
-If you can't drive stick, you have two options:
-
-1. **Book an automatic weeks in advance** (summer bookings should happen 6+ weeks out)
-2. **Add automatic at pickup** (often no cars available, or face a €25/day upgrade at the counter)
-
-Honest talk: I can drive manual, but I didn't want to white-knuckle a Renault Clio through Provence hills. I booked automatic 8 weeks ahead and paid €60/day instead of €35. Worth it. Automatic gives you mental space for winding roads and navigation.
-
-**If you end up with a manual:** French clutches are different from American ones. Take the first 10 km slowly. You'll adjust.
-
----
-
-## Tolls, Fuel & The Autoroute System
-
-### How Tolls Work
-
-French motorways (autoroutes) are privately owned and charge by distance. You take a ticket at entry, pay at exit based on distance and vehicle type.
-
-Most rental cars have a pre-mounted electronic pass (badge télépéage). When you drive through a toll booth, the pass is scanned and you're charged automatically — no stopping required. The rental company bills you when you return the car.
-
-**Common toll routes:**
-- Paris to Nice (900 km): €90–110
-- Paris to Bordeaux (580 km): €55–65
-- Lyon to Provence (250 km): €25–30
-
-**Pro tip:** On long drives, exit the motorway into villages for cheaper fuel and lunch. Gas stations on autoroutes charge 10–15% premium over town pumps.
-
-### Fuel Strategy
-
-French fuel is pricier than North America. Budget smart:
-
-- **Fill up before you enter a motorway** (small-town pumps are cheapest)
-- **Avoid airport fill-ups** (premium prices)
-- **Diesel (gazole) vs petrol (essence):** If you're renting 7+ days, a diesel car saves roughly €15–20 in fuel costs
-- **Return the car on a full tank yourself** (don't pre-pay fuel from the rental company — you'll overpay 20%)
-
-Real story: I pre-paid €60 of fuel and returned with a quarter tank unused. Lost €15. Never again.
-
----
-
-## Parking in Old Towns (Without Losing Your Mind)
-
-French old towns (medieval centers, historic quarters) have narrow streets, €4/hour parking, and zero guidance on where tourists can park.
-
-### Types of Parking
-
-**Free parking (blue zones):** Marked with blue lines, free Mon–Sat 12–2 PM only. Otherwise €2–4/hour. Bring coins or use street parking apps (MobyPark, ParkWhiz).
-
-**Paid parking lots:** €15–25/day in city centers, €5–8 outside the center.
-
-**Hotel parking:** €10–25/night. Book with your accommodation — they usually have arrangements with local lots.
-
-**Village parking:** Free almost everywhere outside major cities. Park on the edge of the medieval center and walk 5 minutes.
-
-### Real Situation: Driving in Bordeaux City Center
-
-I spent 20 minutes circling the Bordeaux center looking for a spot. Final solution: parked at a €20/night lot 1 km outside the center, walked in.
-
-**My take:** Don't drive into historic city centers. Park at a peripheral lot and walk. Your rental car isn't comfortable in medieval cobblestone anyway.
-
----
-
-## Booking: Brokers vs Direct
-
-### Direct Booking (Hertz, Avis, Budget, Europcar)
-
-**Pros:** Full transparency on what you're getting; easier to negotiate extras at pickup.  
-**Cons:** Often pricier; insurance feels more mandatory.
-
-### Broker Websites (Rentalcars.com, Kayak, Autoslash)
-
-**Pros:** Aggregate prices from multiple companies; sometimes genuinely cheaper.  
-**Cons:** Hidden fees appear at checkout; customer service goes through the broker, not the rental company.
-
-**What I'd actually do:** For France specifically, I book through a broker to compare prices, then verify the final cost includes everything. If something looks off, I call the rental company directly 48 hours before pickup to confirm. Rental company staff catch errors brokers miss.
-
-### Payment & Currency
-
-Use a card that doesn't charge foreign transaction fees. [Wise](https://wise.com/invite/irhc/kseniias372) is excellent if you're paying by EUR account and want to avoid currency conversion markup.
-
----
-
-## Driving in France: Quick Tactical Tips
-
-- **Right-hand drive:** Speed limits are 90 km/h on rural roads (56 mph), 110 km/h on dual carriageways (68 mph), 130 km/h on motorways (81 mph). Police enforce religiously; fines are €135–750.
-- **Headlight adjustment:** In right-hand traffic, your headlights need to be angled to avoid blinding oncoming drivers. Most rental companies adjust them for you; ask at pickup.
-- **Breathalyzer kit:** Required by law in France (you must carry one). Ask the rental company to supply it — they usually do, sometimes for a small fee.
-- **Yellow vest & warning triangles:** Also required by law. Again, the rental company supplies these.
-- **Roundabouts:** Drivers *inside* the roundabout have right-of-way. Counter-intuitive if you're from North America. Yield when entering.
-
----
+**Timeline I'd actually recommend:**
+- Month 1: Gather documents, get passport notarized
+- Month 2: Submit application
+- Month 3–4: Wait for approval (or chase your consulate politely)
+- Month 5: Travel to France
+- Month 5–8: Settle in, validate OFII within 3 months
 
 ## My Honest Take
 
-Renting a car in France works brilliantly if you're doing wine country, a coastal drive, or a village-to-village loop. It doesn't work if you're ping-ponging between major cities or staying put.
+France's long-stay visa for nomads exists, but it's not designed with us in mind. It's a visitor visa—designed for retirees and people with independent income. Remote workers are a grey area. The law says you can't work for a French employer, but it doesn't explicitly forbid freelancing for international clients. Most people interpret this as fine. Some consulates interpret it strictly. You're taking on a small legal risk.
 
-Here's what I'd actually do if I were planning this from scratch: I'd rent a car for the specific legs where I need it (Bordeaux to Cognac region for distillery tours; Nice to Provence villages), then take trains between major cities. A 4-day rental during high season costs more than a week in low season, so I'd time the car rental for the part of my trip where public transport actually slows me down.
+**What I'd actually do is:** Get the visa, because the alternative (tourist visa + border runs) is more risky and less stable. Once you have it, be quiet about what you do. File French taxes if you earn over the threshold (consulate staff won't police your freelance projects unless something goes wrong). Don't advertise that you're working remote in your visa interview—just say you have independent income. Because technically, you do.
 
-On insurance: I'd call my credit card company before booking anything, get that coverage confirmation in writing, and decline the rental company's insurance entirely. That single call saved me €150 last time.
+The visa isn't perfect. But for someone who wants to stay in France legally for a year, work remote, and have stability? It's your best option.
 
-On automatics: I'd book 6–8 weeks ahead if I didn't want manual. No exceptions. Summer automatics are gone by May.
+If you're planning a longer stay or want more flexibility, check our [France guide](/france/) for other considerations. And if you're trying to figure out if a French long-stay makes sense with your nomadic lifestyle, our [Lyon cafes guide](/france/lyon-cafes-working/) has real recommendations for places that work well for remote work. For a slower pace, see our [2-week France itinerary](/france/france-2-week-itinerary/) to get a feel for the country first.
 
-On tolls: I'd accept them as the cost of speed and stop trying to avoid motorways. A toll-free country route through Provence looks scenic but takes 4 hours instead of 2. Sometimes the €25 toll is worth the afternoon you reclaim.
+One last thing: rules change. What I'm telling you is accurate as of July 2026, based on consulate websites and current practice. Before you apply, check the official France-Visas portal and email your specific consulate. They'll have the most up-to-date requirements for your situation.
 
-The honest confession: I've rented cars in France three times. The first time I panicked on narrow roads and overpaid for insurance I didn't need. The second time I pre-paid fuel and wasted money. The third time — wine country loop, automatic car booked weeks ahead, credit card insurance confirmed, tolls accepted — everything worked. The price wasn't lower, but the stress was gone. That's worth something.
-
----
-
-## FAQ
-
-**Q: Can I drive in France with a US/Canadian driver's license?**  
-A: Yes. Bring it with your passport. An International Driving Permit isn't required but doesn't hurt.
-
-**Q: What if I want to cross into Spain, Italy, or Switzerland?**  
-A: Notify the rental company at pickup. Most allow it for no extra cost. Some require an international plate and warning triangle (they'll provide). Italy has additional city-center congestion zones (ZTL); ask the company if your route crosses one.
-
-**Q: Is it cheaper to rent from Paris vs a small airport?**  
-A: Yes. Paris CDG and Orly have more supply and lower prices. Regional airports (Nice, Marseille, Bordeaux) often add €10–15/day premium.
-
-**Q: Can I rent a car if I'm under 25?**  
-A: Yes, but most companies charge a "young driver surcharge" of €25–35/day if you're under 25. Budget accordingly.
-
-**Q: What's the best road trip route in France?**  
-A: That depends on your time and interests. If you're exploring wine and villages, I'd base in [Provence for 5 days](/france/provence-5-days/), then loop through Burgundy or head to Bordeaux for [wine tours](/france/bordeaux-wine-tours/). The [French Riviera](/france/) is stunning if you have time for the coast.
-
----
-
-## Want my French road trip checklist?
-
-I've road-tripped through Provence, Bordeaux, and Brittany. Each region has different road styles, parking quirks, and hidden villages worth the detour. I'm putting together a full checklist with GPS coordinates, which rental companies I actually trust, and where to stop for food versus where to skip.
-
-**Email me at hello@rumroom.world** and I'll send you the checklist — gas station stops, scenic viewpoints without the tourist crush, and the villages where locals actually park.
-
----
-
-## About Kseniia
-
-I've lived across Southeast Asia and traveled overland through Europe. Car rentals have been both my favorite way to explore and my most expensive mistake — sometimes on the same trip. I test these logistics so you don't have to overpay.
-
-**rumroom.world** is my real-time travel log. No affiliate nonsense designed to push you toward expensive rentals. Just honest breakdowns of what things cost and what actually works.
-
----
-
-## More France Resources
-
-- [France Travel Guide: Where to Go](/france/)
-- [Provence in 5 Days: Villages, Wine & Lavender](/france/provence-5-days/)
-- [Bordeaux Wine Tours: Costs & What's Actually Worth It](/france/bordeaux-wine-tours/)
+Good luck. France is beautiful, and the visa is worth the paperwork.
