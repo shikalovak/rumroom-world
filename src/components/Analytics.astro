@@ -1,7 +1,9 @@
 ---
 // Cookieless on-site analytics (Umami Cloud).
 //
-// Production only — dev servers and preview deploys stay out of the numbers.
+// Production deploys only. Guarded on VERCEL_ENV, not import.meta.env.PROD,
+// which is also true for preview builds — preview traffic would otherwise land
+// in the same numbers as real readers.
 // The website id is public by design (it ships in the page HTML), so it lives
 // here rather than in an env var: a missing env var would silently disable
 // tracking with no visible symptom.
@@ -10,10 +12,11 @@
 // cluster targets EU readers), ~2KB instead of ~134KB gzip, and a REST API we
 // can pull weekly reports from. Rationale in 05-analytics-options.md.
 const WEBSITE_ID = '209e3a85-79fc-4d37-b00a-ecdd808a5fee';
+const isProduction = process.env.VERCEL_ENV === 'production';
 ---
 
 {
-  import.meta.env.PROD && (
+  isProduction && (
     <script
       defer
       is:inline
