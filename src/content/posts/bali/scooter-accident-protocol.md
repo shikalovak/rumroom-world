@@ -6,12 +6,12 @@ updatedDate: 2026-05-12
 author: kseniia
 readingTime: 14
 description: "The first 60 minutes after a scooter crash in Bali: which hospital to go to, what the police will ask, what treatment actually costs, and the photos your insurer will want. Written by someone who has been there."
-heroImage: "https://images.unsplash.com/photo-1712213248719-aade0e02a591?w=1500&q=80&fm=jpg&auto=format,compress"
-heroImageAlt: "A motor scooter parked on the side of a road in Bali"
+heroImage: "https://images.unsplash.com/photo-1754799399729-b0f809544e08?w=1500&q=80&fm=jpg&auto=format,compress"
+heroImageAlt: "Scooters and motorbikes packed at a traffic light on a busy street in Pererenan, Bali"
 heroImageCredit:
-  photographer: "Polina Kuzovkova"
-  profileUrl: "https://unsplash.com/@p_kuzovkova"
-  photoUrl: "https://unsplash.com/photos/a-motor-scooter-parked-on-the-side-of-a-road-5nL5XIQMNHY"
+  photographer: "Ari Kurniawan"
+  profileUrl: "https://unsplash.com/@arikurniawan"
+  photoUrl: "https://unsplash.com/photos/motorcycles-waiting-at-a-traffic-light-on-a-street-COT3llvXyco"
 primaryKeyword: scooter accident bali
 secondaryKeywords:
   - bali scooter crash what to do
