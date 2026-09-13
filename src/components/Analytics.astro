@@ -1,0 +1,24 @@
+---
+// Cookieless on-site analytics (Umami Cloud).
+//
+// Production only — dev servers and preview deploys stay out of the numbers.
+// The website id is public by design (it ships in the page HTML), so it lives
+// here rather than in an env var: a missing env var would silently disable
+// tracking with no visible symptom.
+//
+// Umami rather than GA4: no cookies means no EU consent banner (the France
+// cluster targets EU readers), ~2KB instead of ~134KB gzip, and a REST API we
+// can pull weekly reports from. Rationale in 05-analytics-options.md.
+const WEBSITE_ID = '209e3a85-79fc-4d37-b00a-ecdd808a5fee';
+---
+
+{
+  import.meta.env.PROD && (
+    <script
+      defer
+      is:inline
+      src="https://cloud.umami.is/script.js"
+      data-website-id={WEBSITE_ID}
+    />
+  )
+}
