@@ -1,5 +1,5 @@
 ---
-title: "Bali Scooter Rental 2026: Real Prices ($5–25/day), Rules + What to Do If You Scratch It"
+title: "Bali Scooter Rental 2026: Prices + If You Scratch It"
 slug: scooter-rental
 pubDate: 2026-05-01
 updatedDate: 2026-05-29

@@ -1,11 +1,11 @@
 ---
-title: "Scooter Accident in Bali: Exactly What to Do (Step-by-Step, 2026)"
+title: "Scooter Accident in Bali: What to Do First (2026)"
 slug: scooter-accident-protocol
 pubDate: 2026-05-12
 updatedDate: 2026-05-12
 author: kseniia
 readingTime: 14
-description: "What to do in the first 60 minutes after a scooter accident in Bali. Hospitals, police, insurance, photos that matter — written by someone who's been there."
+description: "The first 60 minutes after a scooter crash in Bali: which hospital to go to, what the police will ask, what treatment actually costs, and the photos your insurer will want. Written by someone who has been there."
 heroImage: "https://images.unsplash.com/photo-1712213248719-aade0e02a591?w=1500&q=80&fm=jpg&auto=format,compress"
 heroImageAlt: "A motor scooter parked on the side of a road in Bali"
 heroImageCredit:
@@ -171,23 +171,22 @@ Processing takes 2-3 weeks. You'll get a question or two; answer fast. I've had 
 
 **Honestly,** the hardest part isn't filing—it's remembering to do it while you're healing and stressed. Do it the day you get home.
 
-## Returning the Rental Bike: What's Fair
+## Returning the Rental Bike After a Crash
 
-The rental company will inspect the bike within 48 hours. Small scratches? They'll probably eat it (normal wear). Visible dents, cracked plastic, broken mirrors? They'll charge you.
+> **Didn't crash — just scratched the bike?** Then this page is the wrong one for you. Cosmetic damage is its own situation with its own numbers, and I've broken down what each type of scratch actually costs versus what shops quote first in [what to do if you scratch a rental scooter in Bali](/bali/scooter-rental/#what-to-do-if-you-scratch-the-scooter). Come back here only if there were injuries.
 
-**Typical charges:**
-- Scratches (cosmetic): $0-30 USD / 0-450k IDR
-- Cracked fairings/plastic: $40-100 USD / 600k-1.5M IDR
-- Bent frame or handlebars: $150+ USD / 2.25M+ IDR
-- Missing parts: replacement cost + 30-50% markup
+After a real accident the bike conversation is different, because the shop knows something serious happened and the damage is rarely cosmetic. The rental company will inspect within 48 hours, and a bent frame or handlebars starts around $150 USD (2.25M IDR) — well above anything in the scratch range.
 
-**What I'd actually do is:**
-1. Take photos of the bike right after the accident (before repair)
-2. Get a written estimate from the rental shop
-3. If it's over $100 USD (1.5M IDR), ask them to show you a mechanic's quote
-4. Negotiate. Most shops will drop the bill 20-30% if you're calm and friendly
+**What I'd actually do:**
 
-I've paid $60 USD once and $120 USD another time. Both times, I asked if they'd give me a discount for paying cash same-day. They did.
+1. Photograph the bike right after the accident, before any repair. If you were taken to hospital, ask whoever came with you to do it.
+2. Get a written estimate from the rental shop rather than a number said out loud.
+3. Over $100 USD (1.5M IDR), ask them to show you a mechanic's quote from a Honda or Yamaha service shop.
+4. Negotiate. Most shops drop the bill 20–30% if you're calm and friendly.
+
+I've paid $60 USD once and $120 USD another time. Both times I asked for a discount for paying cash same-day, and both times they gave it.
+
+One thing that is specific to accidents: if you're claiming on travel insurance, the bike repair receipt is part of the claim. Get it itemised and in writing before you pay, or your insurer will treat it as an unverified cash payment.
 
 ## Telling Family Back Home (The Practical Script)
 

@@ -1,6 +1,6 @@
 ---
-title: "Paris Metro Without a Physical Card: Bonjour RATP & IDF Mobilité (2026)"
-description: "How to buy Paris metro tickets through your phone — Bonjour RATP, IDF Mobilité, Navigo Easy. What I learned on my last trip."
+title: "Best Paris Metro App: Tickets on Your Phone (2026)"
+description: "Which Paris metro app to actually download in 2026 — Bonjour RATP vs IDF Mobilité vs Navigo Easy, which one sells tickets your phone will accept, and the five-minute setup to do before you land."
 slug: paris-metro-apps
 pubDate: 2026-05-26
 cluster: france/practical
