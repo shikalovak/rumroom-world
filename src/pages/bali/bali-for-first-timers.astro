@@ -1,0 +1,21 @@
+---
+// Редирект со старого слага. Страница отдаётся и по /bali/bali-for-first-timers, и по
+// /bali/bali-for-first-timers/, поэтому покрывает оба варианта, которые Google держит
+// в индексе как 404. rel=canonical склеивает сигналы на живой URL.
+import { SITE_URL } from '../../consts';
+const target = '/bali/for-first-timers/';
+---
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>Moved</title>
+    <meta http-equiv="refresh" content={`0; url=${target}`} />
+    <link rel="canonical" href={`${SITE_URL}${target}`} />
+    <meta name="robots" content="noindex, follow" />
+  </head>
+  <body>
+    <p>This guide moved to <a href={target}>{target}</a>.</p>
+    <script is:inline define:vars={{ target }}>window.location.replace(target);</script>
+  </body>
+</html>

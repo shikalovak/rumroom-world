@@ -12,13 +12,4 @@ export default defineConfig({
   ],
   output: 'static',
   adapter: vercel(),
-
-  // Старые слаги, на которые у Google остались ссылки (GSC: Not found 404).
-  // Держим редиректы, чтобы не терять уже накопленные сигналы.
-  redirects: {
-    '/bali/bali-visa-guide': '/bali/visa-guide/',
-    '/bali/bali-visa-guide/': '/bali/visa-guide/',
-    '/bali/bali-for-first-timers': '/bali/for-first-timers/',
-    '/bali/bali-for-first-timers/': '/bali/for-first-timers/',
-  },
 });
