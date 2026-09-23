@@ -1,6 +1,6 @@
 ---
 title: "Best Paris Metro App: Tickets on Your Phone (2026)"
-description: "Which Paris metro app to actually download in 2026 — Bonjour RATP vs IDF Mobilité vs Navigo Easy, which one sells tickets your phone will accept, and the five-minute setup to do before you land."
+description: "Best Paris metro app for 2026: IDF Mobilités for tickets, Bonjour RATP for navigation. Which one to download and the five-minute setup before you land."
 slug: paris-metro-apps
 pubDate: 2026-05-26
 cluster: france/practical
@@ -20,6 +20,8 @@ draft: false
 I just got back from Paris and for the first time in all my trips there, I bought zero physical tickets. Not one. Everything went through my phone — metro rides, buses, the whole city. It took about five minutes to set up before I landed.
 
 This is actually new. Paris transit was famously bad at going digital. You needed a physical card (the Navigo), or you fumbled with vending machines that sometimes didn't accept foreign Visa cards, or you bought a *carnet* of paper tickets that you'd inevitably lose one of. Not anymore. Here's what changed, what the two main apps actually do, and which one you actually need.
+
+**Quick answer:** if you only download one app, make it **IDF Mobilités**. It's the one that actually sells and stores your tickets on your phone, so it's what gets you through the metro gate. Add **Bonjour RATP** alongside it for real-time navigation, but IDF Mobilités is the app that matters most.
 
 ---
 
