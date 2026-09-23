@@ -124,7 +124,7 @@ Check out my [guide to getting from Orly Airport on your first visit](https://ru
 
 Here's a confession: I spent seven days in Paris on one trip and wished I'd spent four days there and three somewhere else. The city doesn't *need* a week—it's great, but it's also dense and tiring.
 
-**My take:** If you have time, base yourself in Paris for 3–4 days, then take the train somewhere. Strasbourg is four hours. Nice is six. Even smaller places like Annecy are doable day trips. I wrote up [some cities worth leaving Paris for](https://rumroom.world/france/10-best-cities-beyond-paris/), and if you're planning a longer France trip, that might shape which arrondissement you pick (closer to Gare du Nord for train departures, for instance).
+**My take:** If you have time, base yourself in Paris for 3–4 days, then take the train somewhere. Strasbourg is four hours. Nice is six. Even smaller places like Annecy are doable day trips — I've mapped out my favorites in [a guide to day trips from Paris](https://rumroom.world/france/paris-day-trips/). I wrote up [some cities worth leaving Paris for](https://rumroom.world/france/10-best-cities-beyond-paris/), and if you're planning a longer France trip, that might shape which arrondissement you pick (closer to Gare du Nord for train departures, for instance).
 
 And if you're planning a full two-week France loop, I mapped out [how to do it without burning out](https://rumroom.world/france/france-2-week-itinerary/)—including where Paris actually fits.
 
