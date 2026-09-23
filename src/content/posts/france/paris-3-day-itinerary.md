@@ -28,7 +28,7 @@ My first Paris trip, I tried to see everything. Louvre in the morning, Versaille
 
 **What kills a short Paris trip:** trying to hit 8+ major sights and cover the entire city. You'll spend half your time on metro lines and in queues. My take: pick one neighborhood for each day and let it breathe.
 
-Honestly, the secret to a good 3-day Paris trip is **skipping at least two things** every guidebook insists you can't miss. You can come back. You probably won't, but you *can*, and that permission is liberating.
+Honestly, the secret to a good 3-day Paris trip is **skipping at least two things** every guidebook insists you can't miss. You can come back. You probably won't, but you *can*, and that permission is liberating. (For the bigger list, see my [Paris first-timer mistakes guide](https://rumroom.world/france/paris-first-timer-mistakes/).)
 
 ## Day 1: Arrival, Settle In, One Neighborhood
 
@@ -38,7 +38,7 @@ You arrive tired (whether from the airport or elsewhere). If I were planning thi
 
 **Settle somewhere walkable.** Book a hotel or apartment in the 5th, 6th, or 11th arrondissement on [Booking.com](https://www.booking.com/searchresults.html?ss=Paris). These aren't the most famous arrondissements — they're the ones where actual Parisians live and eat. Check in, drop your bags, take a shower.
 
-**Walk one neighborhood thoroughly.** I'd choose the **Latin Quarter (5th arr.)**: walk from the Seine up Rue Mouffetard, pop into Shakespeare and Company (yes, it's touristy; yes, it's worth 15 minutes), get coffee at a side-street cafe, wander. No agenda, no rushing.
+**Walk one neighborhood thoroughly.** I'd choose the **Latin Quarter (5th arr.)**: walk from the Seine up Rue Mouffetard, pop into Shakespeare and Company (yes, it's touristy; yes, it's worth 15 minutes), get coffee at a side-street cafe (if you end up wanting to work from one later in the trip, [here's where laptops are actually welcome](https://rumroom.world/france/paris-cafes-working/)), wander. No agenda, no rushing.
 
 Real take: **eat early and eat well.** A slow dinner by 7 PM, at a bistro within walking distance of your hotel. You'll thank yourself later. Budget €20–30 (about $22–33) for a three-course meal in the 5th.
 
