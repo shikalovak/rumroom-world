@@ -2,10 +2,10 @@
 title: "How to Rent a Monthly Villa in Bali: Step-by-Step (with Real Prices, 2026)"
 slug: monthly-villa-rental
 pubDate: 2026-05-05
-updatedDate: 2026-05-05
+updatedDate: 2026-09-23
 author: kseniia
-readingTime: 13
-description: "Honest guide to renting a villa in Bali for a month or longer. Real prices ($300-$3000/mo), where to look, how to negotiate, and what nobody tells you about contracts."
+readingTime: 14
+description: "How to rent a villa in Bali for a month or longer: searching Facebook Marketplace, real prices ($300-$3000/mo), avoiding scams, negotiating, and contracts."
 heroImage: "https://images.unsplash.com/photo-1581974206939-b42731ea9dc9?w=1500&q=80&fm=jpg&auto=format,compress"
 heroImageAlt: "Palm tree by a swimming pool in Bali"
 heroImageCredit:
@@ -14,6 +14,7 @@ heroImageCredit:
   photoUrl: "https://unsplash.com/photos/green-palm-tree-near-swimming-pool-during-daytime-EPzfdoMYm7s"
 primaryKeyword: monthly villa rental bali
 secondaryKeywords:
+  - facebook marketplace bali rent
   - bali villa monthly
   - long term rental bali
   - rent villa bali for a month
@@ -36,40 +37,54 @@ This guide walks you through exactly where to look, what to expect price-wise, h
 
 Let me be concrete. I was planning a three-month stint in Canggu. Airbnb showed me a cute one-bedroom with a pool for $45/night. Over 90 days, that's **$4,050 plus fees** (so closer to $4,500–5,000 real cost).
 
-I posted in a Facebook group asking for long-term rentals. Same area, same style villa. I got offers ranging from $400–800/month. I signed a three-month lease at **$500/month = $1,500 total**.
+Then I spent a few evenings scrolling Facebook Marketplace and messaging owners. Same area, same style villa. Offers ranged from $400–800/month. I signed a three-month lease at **$500/month = $1,500 total**.
 
 Honestly, the savings are not marginal. You're looking at $3,000–3,500 in your pocket just by removing the middleman and locking in a local rate.
 
 The trade-off? You're renting directly from owners (usually), so there's paperwork, you'll negotiate in real-time, and you need to vet people carefully. But if you're staying longer than three weeks, this is non-negotiable.
 
-## Where to Actually Look (Facebook Groups, Agencies, and On-the-Ground)
+## Where to Actually Look (Marketplace First)
 
-### Facebook Groups (Most Reliable)
+### Facebook Marketplace (Where Most Listings Live)
 
-The Bali rental market lives on Facebook. Seriously. Post a photo, state your budget and move-in date, and you'll get 20+ DMs within 24 hours.
+If you ask in expat chats or read the Bali threads on travel forums, you get the same answer over and over: most long-term rentals in Bali are posted on **Facebook Marketplace**. Owners, their cousins, villa managers and small agents all list there, because it's free and it's where renters already look. Groups still exist, but these days a lot of them are the same listings reposted, plus a lot of noise.
 
-Join these specific groups:
-- **Bali Long Term Rentals** — largest, most active, moderated
-- **Bali Housing Long Term** — another solid one, slightly quieter
-- **Canggu Community** — if you're set on Canggu specifically
-- **Ubud Community** — for Ubud (quieter, cheaper, more rice terraces)
-- **Bali Villas for Rent (Direct Owner)** — owners posting their own units
+How to search it so you don't drown:
 
-Real talk: post your criteria clearly—budget, area, move-in date, number of bedrooms, must-haves (pool, AC, fast internet). Include a short intro about yourself. Property owners respond better when they know you're not a party person or a flip-and-rent speculator.
+- **Set the location to the area you want** (Canggu, Pererenan, Ubud, Sanur, Uluwatu) and keep the radius small, 5–10 km. Bali is bigger than it looks on a map, and "near Canggu" can mean 40 minutes of traffic.
+- **Use the Property Rentals category** and search both English and Indonesian words: *monthly*, *long term*, *villa*, *guest house*, plus **bulanan** (monthly), **tahunan** (yearly), **disewakan** (for rent), **kost** (a room in a local boarding house, the cheapest option).
+- **Check the period in every price.** A lot of listings quote the yearly price, or show "IDR 8.000.000" without saying per what. Ask "per month?" before you get excited.
+- **Save the search and turn on notifications.** Good places at fair prices go in a day or two. Message the same day.
+- **Message ten places, not one.** Short and specific: dates, how many months, budget, who's living there. Ask for a video tour and the exact Google Maps pin.
+- **Look at who is posting.** An account created last month with no friends and one listing is a warning sign. Plenty of real owners have messy profiles too, so this alone doesn't decide it. Use it as one of the checks below.
+- **Expect agents pretending to be owners.** That's normal and not always bad, but their price already includes a fee. If you meet the owner at the viewing, you can often talk the price down.
+
+### Facebook Groups and Telegram Chats (Second Screen)
+
+Groups are still useful for one thing Marketplace doesn't do well: **posting your own request**. Write your area, dates, budget and must-haves, and owners will message you. Search Facebook for "[area] long term rental" or "[area] community" and pick the ones with recent posts and active admins.
+
+If you read Russian, the Bali Telegram rental chats are very active too. Same rules apply: lots of real offers, and the same scams as everywhere else.
 
 ### Agencies
 
-If you want hand-holding, try:
-- **Mrhost.com** — Bali-focused long-term rental platform, some inventory, cleaner interface than Facebook but often pricier
-- **Bali.com classifieds** — smaller, less traffic, but some gems
-
-Agencies typically charge 10–15% of the first month's rent as commission. Not always bad if they do due diligence for you, but Facebook groups are usually cheaper.
+If you want hand-holding, a local agency will find, check and negotiate for you. They usually charge **10–15% of the first month** (more on yearly leases). It's worth it if you can't view in person or you're signing for 6–12 months. Ask whether the agency is a member of AREBI, the Bali real estate agents' association.
 
 ### Walk-In (Underrated)
 
-When I first arrived in Bali, I spent two weeks doing walk-ins. I'd scooter around neighborhoods, look for "For Rent" signs, knock on gates, talk to security guards. I found a gorgeous Canggu villa (three bedrooms, pool, kitchen) for **$900/month** because I showed up in person, talked to the owner directly, and we shook hands the same day.
+When I first arrived in Bali, I spent two weeks doing walk-ins. I'd scooter around neighborhoods, look for "For Rent" or **"Disewakan"** signs, knock on gates, talk to security guards. I found a gorgeous Canggu villa (three bedrooms, pool, kitchen) for **$900/month** because I showed up in person, talked to the owner directly, and we shook hands the same day.
 
-Walk-ins take time but build trust instantly and bypass all middlemen. If you have a flexible arrival date or are already here, spend a week just exploring neighborhoods and looking for physical signs.
+Walk-ins take time but build trust instantly and bypass all middlemen. Marketplace plus a week of scootering around is the combo that works best.
+
+### Marketplace Scams: How They Work
+
+Forums and expat chats keep describing the same scheme: someone copies photos of a real villa, posts it on Marketplace 30–50% below market, and asks for a "booking deposit" to hold it because "five people are asking." Once you pay, the account disappears.
+
+Before you send any money:
+
+1. **Reverse-search the photos** (Google Lens or TinEye). If the same villa shows up on Airbnb or Booking under another name, stop.
+2. **Ask for the Google Maps pin and a live video call** from the property, walking outside to the gate and street sign.
+3. **Check the bank account** at [cekrekening.id](https://cekrekening.id), the Indonesian government's database of account numbers reported for fraud. A clean result doesn't prove anything, but a hit tells you everything.
+4. **Pay only after you've seen it in person** or someone you trust has. No viewing, no deposit.
 
 ## Price Ranges by Area & Bedroom Count
 
@@ -163,7 +178,7 @@ What counts as proof?
 - **Lease signed by both parties** (even a simple one)
 - **Owner's photo ID + villa photo with ID in hand**
 - **Video walk-through** (owner on a call, showing the unit, opening drawers, turning on AC, flushing the toilet—yes, really)
-- **Reference from another tenant** (ask Facebook group if anyone's rented from them)
+- **Reference from another tenant** (post the villa name in a local group or chat and ask if anyone's rented there)
 
 If someone pushes back on verification ("Just trust me, bro"), they're not professional enough. Move on.
 
@@ -200,13 +215,13 @@ Quick tip: take photos or a short video during the viewing. When you get home, y
 
 ## My Honest Take
 
-I overpaid by roughly 30% on my first Bali villa because I booked from the US without visiting, trusted the Airbnb listing price as my anchor, and didn't know that Facebook groups existed. I spent $1,500/month on a place that would have rented for $1,050 on-the-ground.
+I overpaid by roughly 30% on my first Bali villa because I booked from the US without visiting, trusted the Airbnb listing price as my anchor, and didn't know that Facebook Marketplace is where locals actually list. I spent $1,500/month on a place that would have rented for $1,050 on-the-ground.
 
 Here's what I'd do differently if I were planning this from scratch:
 
 1. **Arrive first, book later** (if you can). Spend 1–2 weeks in a cheap [Booking.com](https://www.booking.com/searchresults.html?ss=Bali) hotel or Airbnb while you villa-hunt. Your per-day cost is $30–40, but you'll save thousands on the actual villa.
 
-2. **Join the Facebook groups before you land**. Start posting and chatting with owners/renters immediately. Build relationships.
+2. **Start watching Marketplace before you land**. Save searches for your area, get a feel for real prices, and message owners a week or two before arrival. Book the viewings, not the villa.
 
 3. **Budget for a viewing trip** if you can't arrive early. Spend $200 on a quick flight from Jakarta or fly in a few days before your move-in to see the place and verify it's real.
 
