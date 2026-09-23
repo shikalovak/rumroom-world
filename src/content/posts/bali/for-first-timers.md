@@ -238,6 +238,8 @@ For your first time, stick with Canggu, Pererenan, or Uluwatu. They give you acc
 
 ## What to pack (short and practical list)
 
+This is the condensed version — for the full rundown with a printable checklist, see my [complete Bali packing list](/bali/packing-list-bali/).
+
 🧴 SPF 50+ sunscreen (non-negotiable)  
 🦟 Mosquito repellent  
 🩳 Lightweight clothes + one long-sleeve shirt (for scooter protection)  
