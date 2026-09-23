@@ -15,7 +15,7 @@ I've lost count of how many times I've circled back to Bali. It's one of those p
 
 This guide is for people like you — slow travelers, digital nomads, people who want to stay for a real chunk of time, not people eyeing a Thursday-to-Sunday beach break. You're thinking one month, maybe three, maybe you're testing whether you could actually *live* here. You've got a budget above backpacker-hostel but below five-star resort territory. You care about work-life balance, communities that actually exist, where to eat that isn't Instagram bait, and whether it's worth the scooter risk.
 
-If this is your *very* first time and you want the gentler entry-level walkthrough — neighborhoods explained, beginner mistakes flagged, what to actually pack — read [Bali for First-Timers](/bali/for-first-timers/) first, then come back here when you're ready for the longer-stay strategy.
+If this is your *very* first time and you want the gentler entry-level walkthrough — neighborhoods explained, beginner mistakes flagged, what to actually pack — read [Bali for First-Timers](/bali/for-first-timers/) first, then come back here when you're ready for the longer-stay strategy. (Or jump straight to my [full Bali packing list](/bali/packing-list-bali/) if that's all you need right now.)
 
 Honestly, I've tried to keep this concise. But Bali deserves the nuance — it's incredible and frustrating and addictive and maddening, sometimes all on the same day.
 
