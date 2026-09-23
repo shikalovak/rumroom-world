@@ -23,9 +23,17 @@ const COUNTRY_LABEL = {
   hungary: 'Hungary',
 };
 
-// Unsplash URLs come with w=1500 — too heavy for email. Ask for 1200px.
-const emailImage = (url) =>
-  url && url.includes('images.unsplash.com') ? url.replace(/([?&])w=\d+/, '$1w=1200') : url;
+// Unsplash URLs come with w=1500 and any aspect ratio (many heroes are portrait).
+// For email: a 1200×630 banner crop, so a card never turns into a wall of photo.
+const emailImage = (url) => {
+  if (!url || !url.includes('images.unsplash.com')) return url;
+  const u = new URL(url);
+  u.searchParams.set('w', '1200');
+  u.searchParams.set('h', '630');
+  u.searchParams.set('fit', 'crop');
+  u.searchParams.set('crop', 'entropy');
+  return u.toString();
+};
 
 function emailCard(post, link) {
   const country = post.data.cluster.split('/')[0];
