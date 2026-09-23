@@ -39,7 +39,9 @@ Paris is unavoidable, and honestly it shouldn't be. The city has a real claim to
 
 But Paris is also expensive, crowded, and — if you're not careful — it'll swallow your whole France trip. A week in Paris is a week not in Provence or Lyon or the Atlantic coast.
 
-**My rule:** two to three days. Enough to feel the city without letting it become your default. Walk the Marais and the Canal Saint-Martin. Eat a croissant at a counter, not at a table (faster, cheaper, more Parisian). See whatever landmark you need to see so it stops being on your list. Then buy a TGV ticket and go somewhere that doesn't have queues for the view.
+**My rule:** two to three days. Enough to feel the city without letting it become your default. Walk the Marais and the Canal Saint-Martin. Eat a croissant at a counter, not at a table (faster, cheaper, more Parisian). See whatever landmark you need to see so it stops being on your list. Then buy a TGV ticket and go somewhere that doesn't have queues for the view. (Before you go, it's worth skimming my [first-timer mistakes in Paris](/france/paris-first-timer-mistakes/) — small stuff that's easy to avoid once you know it.)
+
+If you'd rather get out of the city for a few hours without checking out of your hotel, my [Paris day trips guide](/france/paris-day-trips/) covers the easiest ones. And if you're working while you travel, not every café wants your laptop open for three hours — [here's which ones actually do](/france/paris-cafes-working/).
 
 A few neighborhoods worth knowing for those days:
 
@@ -69,7 +71,7 @@ If I had to pick one region of France for a longer stay — a real slow month, n
 
 *Marseille* — not the obvious choice for slow travel, but I have a soft spot for it. It's loud and port-grimy and nothing like what anyone expects from France, and the bouillabaisse at the fish restaurants near Vallon des Auffes is the best you'll find anywhere. Don't go for the beach clubs. Go for the food and the walk along the Corniche.
 
-Provence without a car is half a Provence. Trains get you to the big cities; the villages, fields, and lookouts need wheels. A car rental guide is on the to-do list for this site — for now, the short version: book European rentals through a broker (Rentalcars or AutoEurope), always take full insurance and decline the extras at the counter, and inspect every scratch before driving off.
+Provence without a car is half a Provence. Trains get you to the big cities; the villages, fields, and lookouts need wheels. I've written up the full process in [renting a car in France](/france/renting-a-car-in-france/) — the short version: book European rentals through a broker (Rentalcars or AutoEurope), always take full insurance and decline the extras at the counter, and inspect every scratch before driving off. For a ready-made itinerary through the region, see [Provence in 5 days](/france/provence-5-days/).
 
 **Côte d'Azur: beautiful with caveats**
 
@@ -89,7 +91,7 @@ If there's an underrated major French city, Lyon is it. Two hours from Paris on 
 
 The old town, Vieux-Lyon, is a UNESCO site — Renaissance buildings in pink and orange, and *traboules*, which are covered passageways that cut through entire city blocks. You can spend an afternoon getting lost in them. The contemporary neighborhood of Confluence, where the Rhône and Saône rivers meet, has the nomad infrastructure: coworking spaces, good coffee, a younger crowd.
 
-Two days minimum. Ideally four. Honestly just move there for a month.
+Two days minimum. Ideally four. Honestly just move there for a month. For the specifics on where to eat, see my [Lyon food guide](/france/lyon-food-guide/).
 
 **Bordeaux and the Atlantic coast**
 
