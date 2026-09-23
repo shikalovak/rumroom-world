@@ -59,7 +59,7 @@ Pro tip: I've stayed three winters and dodged the worst. My friend once landed i
 
 **Humidity.** It's real. Not just "oh, it's humid." I mean 80–90% humidity, clothes stick to you, and you need a fan running 24/7. Pack light, breathable fabrics and (no, really) a portable clothes dryer. It's the difference between mildew and survival.
 
-**Mosquitoes.** The rain brings them. Bring solid repellent—not the weak stuff—and wear lightweight long sleeves in the evenings. They're not a dealbreaker, just annoying.
+**Mosquitoes.** The rain brings them. Bring solid repellent—not the weak stuff—and wear lightweight long sleeves in the evenings. They're not a dealbreaker, just annoying. (Full rundown of what else to pack for wet season in my [Bali packing list](/bali/packing-list-bali/).)
 
 **The mood.** This is the part I actually love. The island slows down. Cafes get cozy, waterfalls roar with fresh water, and the ricefields glow in every shade of green. It's quieter. More meditative.
 
