@@ -36,7 +36,7 @@ A full day: walk Vieux Lyon in the morning, market at lunch, museum or park in t
 
 **Where to stay:** Budget digs in **Presqu'île** (the peninsula), nicer stuff in **Vieux Lyon** if you want cobblestones and character. [Booking.com has options at every price](https://www.booking.com/searchresults.html?ss=Lyon).
 
-**My take:** If you eat well and train-hop efficiently, Lyon justifies a whole long weekend. Skip it at your peril.
+**My take:** If you eat well and train-hop efficiently, Lyon justifies a whole long weekend. Skip it at your peril. For a deeper dive into exactly where to eat, see my [Lyon food guide](/france/lyon-food-guide/).
 
 ## Bordeaux — Wine, Walkability, the TGV Effect
 
@@ -120,7 +120,7 @@ Here's what I'd actually do, depending on how much time you have.
 
 The trick: **pick 2–3 max** and stay 1.5–2 nights minimum in each. You'll actually see neighborhoods, eat well, and not feel like you're just collecting passport stamps.
 
-For train bookings and reservations, SNCF is the national rail site; book 4–8 weeks ahead for best prices. Staying connected while you navigate? [Airalo eSIM](https://airalo.tpm.li/4rMthhOs) works great throughout France — no swapping physical SIMs, just download and go.
+For train bookings and reservations, SNCF is the national rail site; book 4–8 weeks ahead for best prices. Prefer driving between cities instead? Check my [guide to renting a car in France](/france/renting-a-car-in-france/) first. Staying connected while you navigate? [Airalo eSIM](https://airalo.tpm.li/4rMthhOs) works great throughout France — no swapping physical SIMs, just download and go.
 
 ## My Honest Take
 
