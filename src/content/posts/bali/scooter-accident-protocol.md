@@ -1,11 +1,11 @@
 ---
-title: "Scooter Accident in Bali: What to Do First (2026)"
+title: "Scooter Accident or Scratch in Bali: What to Do (2026)"
 slug: scooter-accident-protocol
 pubDate: 2026-05-12
-updatedDate: 2026-05-12
+updatedDate: 2026-09-24
 author: kseniia
 readingTime: 14
-description: "The first 60 minutes after a scooter crash in Bali: which hospital to go to, what the police will ask, what treatment actually costs, and the photos your insurer will want. Written by someone who has been there."
+description: "The first hour after a Bali scooter crash: hospitals, police, insurance, and how to handle scratches, damage, and your rental deposit."
 heroImage: "https://images.unsplash.com/photo-1754799399729-b0f809544e08?w=1500&q=80&fm=jpg&auto=format,compress"
 heroImageAlt: "Scooters and motorbikes packed at a traffic light on a busy street in Pererenan, Bali"
 heroImageCredit:
@@ -173,7 +173,7 @@ Processing takes 2-3 weeks. You'll get a question or two; answer fast. I've had 
 
 ## Returning the Rental Bike After a Crash
 
-> **Didn't crash — just scratched the bike?** Then this page is the wrong one for you. Cosmetic damage is its own situation with its own numbers, and I've broken down what each type of scratch actually costs versus what shops quote first in [what to do if you scratch a rental scooter in Bali](/bali/scooter-rental/#what-to-do-if-you-scratch-the-scooter). Come back here only if there were injuries.
+> **Didn't crash — just scratched the bike?** Skip ahead to [Scratched the Rental Scooter? How to Handle the Damage and Your Deposit](#scratched-the-rental-scooter-how-to-handle-the-damage-and-your-deposit) below for the short version, or read the full pricing table and negotiation script in [what to do if you scratch a rental scooter in Bali](/bali/scooter-rental/#what-to-do-if-you-scratch-the-scooter). Keep reading this section only if there were injuries.
 
 After a real accident the bike conversation is different, because the shop knows something serious happened and the damage is rarely cosmetic. The rental company will inspect within 48 hours, and a bent frame or handlebars starts around $150 USD (2.25M IDR) — well above anything in the scratch range.
 
@@ -187,6 +187,22 @@ After a real accident the bike conversation is different, because the shop knows
 I've paid $60 USD once and $120 USD another time. Both times I asked for a discount for paying cash same-day, and both times they gave it.
 
 One thing that is specific to accidents: if you're claiming on travel insurance, the bike repair receipt is part of the claim. Get it itemised and in writing before you pay, or your insurer will treat it as an unverified cash payment.
+
+## Scratched the Rental Scooter? How to Handle the Damage and Your Deposit
+
+Not every bad scooter day ends in a hospital. Most end with you staring at a scrape on the fairing, wondering how much it's about to cost you. Here's how I handle it now, after getting burned once early on.
+
+**Photograph the bike at pickup—every single time.** Before you ride off the lot, walk around the scooter and shoot all four sides, the mirrors, the fuel tank, the seat, and the underside of the fenders. Timestamp matters, so use your phone's camera (not a screenshot from somewhere else). This is the single habit that saves you the most money and the most arguing, because it proves what was already there before you touched the bike.
+
+**Know what a small scratch actually leads to.** A scuffed fairing with no crack is a buff-and-touch-up job, not a full panel replacement. A cracked side panel is a bigger deal, but it's still a $25–60 part in Bali, not the $150–200 some shops open with. Rental shops routinely quote 3–4x the real repair cost to tourists who don't know better, so treat the first number they give you as an opening offer, not a bill.
+
+**Negotiate calmly.** Getting defensive or arguing loudly makes shop owners dig in. Stay friendly, acknowledge the damage happened on your watch, and just ask questions: "What does this part actually cost?" "Can I see a quote?" Most owners will drop the price once they realize you're not going to be an easy mark.
+
+**Get a quote from an independent bengkel (repair workshop), not just the rental shop.** Ask the owner if you can bring the bike—or a photo of the damage—to a nearby bengkel for a second opinion before agreeing to pay. Independent mechanics quote real market prices, and just asking for this option often makes the rental shop's number drop on the spot.
+
+**Never hand over your passport as a deposit.** This is non-negotiable, damage or not. If a shop insists once something's scratched, offer cash held in escrow-style (they hold it, you both agree on the ceiling) instead, or simply refuse and offer to settle the repair cost directly. Your passport is worth more than any scooter part.
+
+**Get the final number in writing before you pay**, even if it's just a text message or a note in WhatsApp confirming the agreed amount. Then pay, and ask for a receipt—a photo of them writing "paid in full, [amount], [date]" on a scrap of paper is enough. Without it, some shops will "remember" a different number when you drop the bike off for good.
 
 ## Telling Family Back Home (The Practical Script)
 
