@@ -1,10 +1,10 @@
 ---
-title: "Bali Scooter Rental 2026: Prices + If You Scratch It"
+title: "Bali Scooter Rental: Prices, Airport Pickup, Monthly Deals"
 slug: scooter-rental
 pubDate: 2026-05-01
-updatedDate: 2026-05-29
+updatedDate: 2026-09-24
 primaryKeyword: "scooter rental bali"
-description: "Real 2026 Bali scooter rental prices ($5–25/day), IDP rules, what to do if you scratch the bike, and police checkpoint protocols. Honest local breakdown from 3+ years on the island."
+description: "Real 2026 Bali scooter rental prices, airport pickup and delivery options, monthly rates, IDP rules, and what to do if you scratch the bike."
 secondaryKeywords: ["scooter rental bali", "bali scooter rental price per day 2026", "scratched rental scooter in indonesia", "rent motorbike bali", "bali scooter license", "scooter hire bali"]
 cluster: "bali/practical"
 author: "Kseniia"
@@ -80,6 +80,22 @@ Five bikes dominate Bali's roads. Here's the rundown:
 | **Sanur/Denpasar** | Local, honest prices | Lowest | $55–$70/month for Scoopy; real deals here |
 
 **Pro move:** If you're staying in Canggu but don't need the bike immediately, take a bemo (minibus) to Sanur for 30 minutes and rent there. Saves $15–$25 per month, easy.
+
+### Renting monthly
+
+If you're staying three weeks or more, monthly is almost always the better deal—daily rates add up fast, and shops treat monthly renters differently (better bikes, more flexible deposit terms). Expect **$50–$75/month** for a budget Scoopy or Beat, **$120–$170/month** for a mid-range Vario or PCX, and **$225–$360/month** for a premium NMAX or XMAX. Sanur and Denpasar run cheapest for monthly deals ($55–$70 for a Scoopy); Canggu and Ubud sit highest. Most shops want a deposit for anything beyond a month—usually $60–$120 or your passport held as security (more on why I avoid that in the scratch section below). Confirm the deposit type and amount before you hand anything over, and get it in writing.
+
+## Renting a scooter at Bali airport (Ngurah Rai)
+
+Landing at Ngurah Rai after a long flight and renting a scooter on the spot sounds efficient. In practice, I don't recommend it. You're jet-lagged, the airport area (Kuta/Tuban) has some of the densest, most chaotic traffic on the island, and learning left-hand traffic on zero sleep is how first-day accidents happen. Give yourself at least a few hours—ideally a night's sleep—before you get on two wheels for the first time.
+
+That said, if you want a bike waiting for you, you've got two realistic options:
+
+**Delivery to the airport or your first hotel.** Most rental shops don't have an official airport counter, but plenty will deliver a scooter to arrivals or straight to your accommodation if you message them on WhatsApp a day or two ahead. Search local Bali scooter rental groups on Facebook or ask your villa/hotel for a recommendation—they usually have a shop they work with. Confirm the price, deposit, and pickup time before you land, since airport-area delivery sometimes carries a small surcharge ($3–$5).
+
+**Grab or Gojek first, rent later.** My actual recommendation: take a Grab or Gojek from the airport to your villa, unpack, sleep, and arrange the scooter for the next day once you're not running on fumes. It costs you one taxi ride but saves you from navigating unfamiliar chaos exhausted.
+
+Either way, don't skip the paperwork: you'll need your **passport** to rent and an **International Driving Permit plus your home license** to ride legally (police checkpoints are common on the Kuta bypass near the airport). And whichever shop delivers to you, do the same pickup routine as anywhere else—photograph the bike from every angle before you ride off.
 
 ## How to bargain
 
