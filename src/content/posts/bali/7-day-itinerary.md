@@ -153,7 +153,7 @@ Hire a driver again ($30–40 for the day, or split with another traveler). Head
 Entry $3 (50k IDR). This temple sits on cliffs overlooking the ocean. It's stunning and worth the trip for the views alone. Go early to avoid sunset crowds (everyone and their Instastories show up 4 pm onward).
 
 ### Padang Padang Beach
-Hidden below Uluwatu is Padang Padang Beach—small, protected cove with turquoise water. Walk down the limestone steps (160 stairs, no joke). Swim, snorkel a bit if you brought gear. Eat at one of the beach warung—grilled fish, fresh juice. $4–6.
+Hidden below Uluwatu is Padang Padang Beach—small, protected cove with turquoise water. Walk down the long limestone stairway (estimates vary by source, roughly 100–160 steps). Swim, snorkel a bit if you brought gear. Eat at one of the beach warung—grilled fish, fresh juice. $4–6.
 
 ### Single Fin sunset bar
 Back to the clifftops at Single Fin (a bar overlooking Uluwatu). Grab a drink, watch sunset. This is the "Bali Instagram moment" but it actually deserves the hype. Budget $4–6 for a drink.
@@ -225,7 +225,7 @@ Cut the daily activities in half. Kids hit fatigue by noon. Swap the full-day dr
 Budget increases slightly (no room-sharing), but you have flexibility to move faster or slower. Yoga Barn and beach clubs are good social spots if you want to meet people. No pressure though.
 
 **Mobility limits:**
-Ubud has stairs everywhere. Canggu is flatter. Padang Padang beach requires descending 160 steps—skip that specific spot if stairs are an issue. Arrange handicap-friendly driver (mention when booking) for any temples.
+Ubud has stairs everywhere. Canggu is flatter. Padang Padang beach requires descending a long stairway (roughly 100–160 steps depending on the source)—skip that specific spot if stairs are an issue. Arrange handicap-friendly driver (mention when booking) for any temples.
 
 **Traveling in rainy season (Nov–March):**
 Bali doesn't have monsoon season like Southeast Asia mainland, but Nov–Feb are humid with afternoon downpours. Mornings are usually clear. Plan outdoor activities early (like the Tegallalang sunrise). Indoor activities: yoga, museums, cooking classes. Rain often clears by 4 pm.
