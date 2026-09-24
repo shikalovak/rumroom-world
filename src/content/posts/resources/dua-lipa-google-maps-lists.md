@@ -24,7 +24,7 @@ On May 28, Google Maps partnered with Service95 (Dua Lipa's editorial platform) 
 
 This is the first time Google Maps has launched curated travel lists from a celebrity at this scale. Not "top 10 from the editors"—these are the actual places she visits.
 
-I've gone through all 12, and here's what's there plus how to use them for your own trips.
+Here's what's in all 12 lists and how to use them for your own trips.
 
 ## What is Service95, anyway?
 
@@ -58,7 +58,7 @@ The full official announcement with descriptions of each list is [on Google's bl
 
 ## How Many Cities Are Covered?
 
-The thematic lists reach **47 cities** (per Dua's Instagram announcement). The six city lists focus on London, LA, NYC, Prishtina, Tokyo, and Mexico City. But the themed collections also include Paris, Barcelona, Istanbul, Rome, Berlin, and more.
+The lists reach roughly **47 countries** (per press coverage of Dua's announcement) rather than 47 individual cities — the six city-specific lists cover London, LA, NYC, Prishtina, Tokyo, and Mexico City, while the themed lists spread much wider. The six city lists focus on London, LA, NYC, Prishtina, Tokyo, and Mexico City. But the themed collections also include Paris, Barcelona, Istanbul, Rome, Berlin, and more.
 
 If you've been following travel guides here, Barcelona shows up in the wine bars, Paris appears in the bookstores and date-night spots, and London has its own dedicated list.
 
@@ -83,11 +83,11 @@ Dua's the first at this scale, but definitely won't be the last. Google's clearl
 
 ## Real Talk: Which Lists Are Best
 
-I've browsed through most of them, and **Prishtina** and **Tokyo** stand out. Prishtina because there honestly aren't many quality English guides out there—her list gives you 15+ solid spots right away. Tokyo because a lot of the spots clearly aren't touristy—they're local finds, which is gold in a city like Tokyo.
+**Prishtina** and **Tokyo** stand out among the twelve. Prishtina because there aren't many quality English-language guides to Kosovo's capital, so 15+ spots in one list is a real head start. Tokyo because many of the spots read as local finds rather than the usual tourist circuit.
 
 **London Eats** and **NYC Essential** are solid but not groundbreaking—many of the same restaurants appear in standard travel guides already. That said, if you're visiting either city for the first time, they're a great starting point.
 
-**Natural Wine Bars** is my personal favorite from the thematic collections. Natural wine places are genuinely hard to find through regular search; this list actually solves that problem.
+**Natural Wine Bars** stands out among the thematic collections, since natural wine places are genuinely hard to find through regular search — a curated list like this fills a real gap.
 
 ---
 
