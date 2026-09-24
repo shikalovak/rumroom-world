@@ -32,7 +32,7 @@ Without a scooter, Bali feels small. You're trapped in your neighborhood while b
 - **Police checks:** Carry your IDP. If stopped without one, expect a $15–$30 on-the-spot settlement
 - **Left-hand traffic** takes 2–3 days to stop feeling weird
 
-> 💱 *All prices in USD. EU readers: 1 USD ≈ €0.92.*
+> 💱 *All prices in USD. EU readers: 1 USD ≈ €0.88 as of September 2026 — check current rates before converting large amounts.*
 
 ## How much does a scooter cost in Bali?
 
@@ -83,7 +83,7 @@ Five bikes dominate Bali's roads. Here's the rundown:
 
 ### Renting monthly
 
-If you're staying three weeks or more, monthly is almost always the better deal—daily rates add up fast, and shops treat monthly renters differently (better bikes, more flexible deposit terms). Expect **$50–$75/month** for a budget Scoopy or Beat, **$120–$170/month** for a mid-range Vario or PCX, and **$225–$360/month** for a premium NMAX or XMAX. Sanur and Denpasar run cheapest for monthly deals ($55–$70 for a Scoopy); Canggu and Ubud sit highest. Most shops want a deposit for anything beyond a month—usually $60–$120 or your passport held as security (more on why I avoid that in the scratch section below). Confirm the deposit type and amount before you hand anything over, and get it in writing.
+If you're staying three weeks or more, monthly is almost always the better deal—daily rates add up fast, and shops treat monthly renters differently (better bikes, more flexible deposit terms). Expect **$50–$75/month** for a budget Scoopy or Beat, **$120–$170/month** for a mid-range Vario or PCX, and **$225–$360/month** for a premium NMAX or XMAX. Sanur and Denpasar run cheapest for monthly deals ($55–$70 for a Scoopy); Canggu and Ubud sit highest. Most shops want a deposit for anything beyond a month—usually $60–$120 or your passport held as security (more on this in the scratch section below). Confirm the deposit type and amount before you hand anything over, and get it in writing.
 
 ## Renting a scooter at Bali airport (Ngurah Rai)
 
@@ -107,7 +107,7 @@ Local secret, don't tell—rental shop owners expect negotiation. Here's what wo
 4. **Combo deals.** Ask the person you're renting from if they own the guesthouse you're staying at—bundle the rental into your accommodation deal.
 5. **Off-season timing.** May–July and November–December see fewer tourists. Rental places are more flexible with pricing.
 
-**Honest take from experience:** Record low was a Scoopy at $55/month in Sanur. In Canggu, I've never seen below $80. Location matters hugely.
+**Location matters hugely for price.** Budget bikes in Sanur can run as low as ~$55/month, while the same model in Canggu rarely dips below ~$80.
 
 ## What documents you need
 
@@ -162,7 +162,7 @@ Police set up checkpoints weekly. Honestly? They're looking for quick checks, no
 
 ## What to do if you scratch the scooter
 
-This is the question I get most often—what happens if you scratch the rental in Bali? Honest answer: it's usually not as bad as you think, but **how you handle the first hour matters more than the damage itself.**
+One of the most common worries for renters is what happens if you scratch the rental in Bali. It's usually not as bad as it feels in the moment, but **how you handle the first hour matters more than the damage itself.**
 
 ### The first 60 minutes
 
@@ -173,7 +173,7 @@ This is the question I get most often—what happens if you scratch the rental i
 
 ### What you'll actually pay (real 2026 numbers)
 
-Damage costs in Bali are surprisingly transparent once you know the going rate. From my own and friends' experiences:
+Damage costs in Bali are surprisingly transparent once you know the going rate:
 
 | Damage type | Honest replacement cost (USD) | What rental shops often quote first |
 |---|---|---|
@@ -233,7 +233,7 @@ If someone's hurt, the bike is wrecked, or police got involved, that's a differe
 5. **Riding defensively into chaos.** Bali traffic is lawless. Assume every car might turn left suddenly. Ride paranoid.
 6. **Not negotiating damage.** If you clip a mirror or scrape the fairing, tell the rental shop immediately with photos. Honesty = smaller repair costs.
 
-## Honest take
+## The Bottom Line
 
 A scooter isn't just transport on Bali—it's freedom. You're not beholden to taxi drivers, tour schedules, or ride-share prices. You can chase a sunset, find that empty beach, eat lunch where locals eat, and leave whenever you want. Yeah, the traffic feels scary for 48 hours. Yeah, you'll stall at a red light. Yeah, you might spill your coffee in the cup holder once.
 
@@ -242,7 +242,7 @@ But within a week, left-hand driving feels natural. You'll blast around with a g
 ## FAQ
 
 **Can I ride with a child?**
-Technically, no—Indonesian law says no passengers under 9. Reality is looser, but a child + scooter on chaotic roads = bad idea anyway.
+Indonesian traffic law restricts who can ride as a pillion passenger, and enforcement around children varies by region — check current local rules before assuming it's fine. Regardless of the legal minimum, a child on a scooter in Bali's traffic is a real risk worth avoiding.
 
 **Do I need a license to *rent*?**
 No. To *ride legally*? Yes. IDP + home license, both.
@@ -274,12 +274,10 @@ Pertamina stations (orange/red signs) are the national chain—cheaper and more 
 
 ---
 
-## Want my list of trusted scooter rental shops in Canggu, Pererenan, and Sanur?
-
-I've tested dozens of places and know which ones are legit, won't overcharge you for fake "damage," and rent bikes that actually start. Email me at **hello@rumroom.world** and I'll send you my curated list—save yourself the haggling headaches.
+Have a specific rental question this guide doesn't cover? Reach out at **hello@rumroom.world**.
 
 ---
 
 ## About the author
 
-Kseniia is a travel writer and long-term Bali resident who's navigated everything from visa runs to monsoon-season scooter mishaps. She writes at rumroom.world about practical Bali living—the real costs, the actual rules, the mistakes everyone makes. She's been stopped by police, haggled with rental shops, and has opinions about which beaches are worth the drive.
+Kseniia writes at rumroom.world about practical Bali living — real costs, current rules, and the logistics of getting around.
