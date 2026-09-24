@@ -1,6 +1,6 @@
 ---
-title: "Orly Airport First Time: What Surprised Me (Metro, Lines, vs CDG)"
-description: "First impressions of Paris Orly airport — Line 14 metro direct from terminal, security lines, and why it was easier than I expected."
+title: "Orly Airport First Time: What to Expect (Metro, Lines, vs CDG)"
+description: "What to expect at Paris Orly airport — the Line 14 metro direct from the terminal, security lines, and how it compares to CDG."
 slug: orly-airport-first-time
 pubDate: 2026-05-26
 cluster: france/practical
@@ -17,41 +17,37 @@ readingTime: 4
 draft: false
 ---
 
-I'd been avoiding Orly for years. Always flew into CDG, always assumed Orly was the "smaller, worse" Paris airport — the one budget carriers used, the one that required a connecting shuttle to get anywhere. Last trip I finally tried it and came away thinking: why did I avoid this for so long?
-
-Here's what I actually found.
+Orly has a reputation as the "smaller, worse" Paris airport — the one budget carriers use, the one that used to require a shuttle connection to get anywhere. That reputation is outdated. Here's what actually matters for a first-time arrival.
 
 ---
 
 ## The Line 14 metro is a genuine game-changer
 
-This is the thing that changed Orly's appeal entirely. Since June 2024, Paris metro Line 14 runs directly into the airport — there's a station inside the terminal building. You clear customs, follow signs for the metro, and you're on a train heading to central Paris in under five minutes.
+This is the thing that changed Orly's appeal entirely. Since June 2024, Paris metro Line 14 runs directly into the airport — there's a station inside the terminal building. Clear customs, follow signs for the metro, and you're on a train heading to central Paris within minutes.
 
-Line 14 is one of Paris's newest, fully automated lines: clean, modern carriages, no driver, runs frequently. The journey to Châtelet-Les Halles takes about 25 minutes. No bus transfer. No confusing inter-terminal connector. You exit arrivals, take an escalator down, tap your phone (or card), sit down.
+Line 14 is one of Paris's newest, fully automated lines: clean, modern carriages, no driver, runs frequently. The journey to Châtelet-Les Halles takes about 25 minutes. No bus transfer, no confusing inter-terminal connector — just an escalator down from arrivals, tap your phone or card, and sit down.
 
-Compare that to CDG via RER B: finding the right terminal connector, navigating CDG's layered signage, then riding a commuter train that's been in service since the 1970s. Orly wins cleanly on airport transit, at least for getting into central Paris.
+Compare that to CDG via RER B: finding the right terminal connector, navigating CDG's layered signage, then riding a commuter train with an older service record. For getting into central Paris, Orly's transit link is simpler.
 
-The old Orly connection was the Orlyval — an automatic shuttle that ran between the terminals and RER B at Antony. It worked, but it was an extra step and an extra fare. Line 14 replaced it as the primary route. If someone mentions the Orlyval to you, that's outdated advice.
+The old Orly connection was the Orlyval, an automatic shuttle that ran between the terminals and RER B at Antony. Line 14 has replaced it as the primary route into the city, and the Orlybus airport bus was discontinued in March 2025 once the metro extension opened. If you see either mentioned in older guides, treat it as outdated.
 
 ---
 
 ## The airport itself: compact and calm
 
-Orly is smaller than CDG, which turns out to be a feature. After Barcelona El Prat — where the terminals are a hike from each other and the signage always seems one update behind — Orly felt almost reassuring. Clear signs, short walks, a terminal that's been renovated recently enough to feel modern without feeling sterile.
+Orly is smaller than CDG, which turns out to be a feature. The terminals are close together, signage is clear, and the distances are human-scale — closer to a regional airport than a major international hub.
 
-The departure hall has reasonable food and shopping. Nothing spectacular, but you won't be eating sad airport sandwiches. The gates are easy to find. The whole thing is sized like a regional airport in the best sense: the distances are human-scale.
+The departure hall has reasonable food and shopping. Nothing spectacular, but it's not limited to sad airport sandwiches either. Gates are easy to find.
 
-CDG is bigger and more international — it connects to far more long-haul routes — but for a European flight with reasonable timing, Orly is noticeably lower-stress to move through.
+CDG is bigger and more international — it connects to far more long-haul routes — but for a European flight with reasonable timing, Orly is generally lower-stress to move through.
 
 ---
 
 ## Check in online. This is not optional.
 
-I passed through check-in and security in about 10 minutes total. Fast and undramatic. But I noticed the check-in desk queues for people who hadn't checked in online — those lines were long and slow. That was the bottleneck, not security.
+Passengers who check in online and only need to drop a bag typically clear check-in and security fast. The bottleneck tends to be the check-in desks for people who haven't checked in online — those queues get long.
 
-Same pattern I see at Barcelona El Prat: the airport runs well if you've done your homework; it stacks up if you haven't. The lesson is consistent enough that I'll just say it plainly: check in via the airline app the evening before. Drop your bag at the bag-drop (it's a separate, faster lane). You'll be at your gate with time to get coffee.
-
-If you're arriving at Orly rather than departing, none of this applies — arrivals were quick and uncrowded when I came through.
+The lesson is simple: check in via the airline app the evening before, and use the bag-drop lane if you're checking luggage. That leaves time to get coffee before the gate.
 
 ---
 
@@ -60,11 +56,11 @@ If you're arriving at Orly rather than departing, none of this applies — arriv
 **Orly's terminal layout:** Orly has two main terminal areas — Orly 1/2/3 (formerly Orly Ouest, the western side) and Orly 4 (formerly Orly Sud, the southern side). Line 14 connects both sides; the metro station serves the whole complex. Check your airline's terminal when you book — most European carriers and Air France use one or the other, and it affects which entrance you head to.
 
 **How much does it cost to get to central Paris from Orly?**
-You buy a specific Orly → Paris ticket in the IDF Mobilités app (or at the vending machines in the station). It's sold as a named "Orly" ticket — you don't need to figure out the zone math yourself. At time of writing it runs around **€14 return** or a lower single fare; check current rates in the app as RATP adjusts pricing annually.
+You buy a specific Orly airport ticket (a single, one-way fare — there's no return version) through the Bonjour RATP or IDF Mobilités app, at station vending machines, or loaded onto a Navigo Easy card. As of 2026, the full fare is around **€14 one-way** (about €7 reduced fare for eligible passengers). It's a special airport fare, not a standard t+ ticket — regular Paris metro tickets are not valid for the Orly extension. Confirm current pricing in the app before you travel, since fares are reviewed periodically.
 
-**Journey time:** 25 minutes to Châtelet-Les Halles on Line 14. Add 10 minutes to walk from the arrivals exit to the metro platform. Budget 40 minutes door-to-central-Paris.
+**Journey time:** 25 minutes to Châtelet-Les Halles on Line 14. Add a few minutes to walk from the arrivals exit to the metro platform. Budget 30–35 minutes door-to-central-Paris.
 
-**Night flights:** Line 14 runs late but doesn't run all night. If your flight arrives after midnight, check the last departure time for Line 14 from Orly station before you land. Orlybus (bus route 183) is the overnight alternative — slower but runs until the early hours.
+**Night flights:** Line 14 runs late but not all night — service generally stops in the early hours (check the last train time in the app before you land, since it varies slightly by day). The old Orlybus overnight bus no longer exists; if you land after the metro stops, your options are a taxi/rideshare or one of the Noctilien night bus lines that serve the area. Check current Noctilien routes and schedules if this applies to your arrival time.
 
 ---
 
@@ -81,20 +77,20 @@ You buy a specific Orly → Paris ticket in the IDF Mobilités app (or at the ve
 - Your airline doesn't serve Orly
 - You're connecting onward to another flight (CDG has far more connection options)
 
-For city trips where I have a choice, I'd pick Orly now without hesitation. The Line 14 metro makes the transfer into Paris faster than CDG has ever been for me, and the airport itself is simply less stressful to move through.
+For city trips where either airport is an option, Orly is generally the easier choice now that Line 14 is running. The metro connection into Paris is faster and less stressful than the CDG alternatives.
 
 ---
 
 ## Quick FAQ
 
 **How long does it take to get from Orly to Paris center?**
-About 25 minutes on Line 14 to Châtelet-Les Halles, plus a few minutes to reach the platform from arrivals. Budget 35–40 minutes total.
+About 25 minutes on Line 14 to Châtelet-Les Halles, plus a few minutes to reach the platform from arrivals. Budget 30–35 minutes total.
 
 **How much is the metro from Orly?**
-Check IDF Mobilités app for current rates — around €8–10 for a single at time of writing. Buy the named "Orly" ticket, not a standard t+ (which doesn't cover the airport zones).
+Around €14 for a one-way adult fare as of 2026 (about €7 reduced), via the special Orly airport ticket — check the IDF Mobilités or Bonjour RATP app for current rates. A standard t+ ticket does not cover the airport zones.
 
 **Does Line 14 go to all Paris neighborhoods directly?**
-Line 14 runs through the center and connects to all the major interchange stations. From Châtelet you can reach virtually anywhere else in Paris within another 10–15 minutes.
+Line 14 runs through the center and connects to all the major interchange stations. From Châtelet you can reach most other parts of Paris within another 10–15 minutes via a single transfer.
 
 **What if my flight lands late at night?**
-Line 14 stops running around 1am on weekdays (later on weekends). After that, Orlybus 183 to Denfert-Rochereau is the main option — slower but it runs. Check the RATP night schedule before you travel if your arrival is close to that cutoff.
+Line 14 stops running in the early hours (check the app for the exact last train, since it varies by day of week). After that, there's no dedicated airport bus anymore — Orlybus was discontinued in 2025. Check Noctilien night bus options or plan for a taxi if your arrival is close to the cutoff.
