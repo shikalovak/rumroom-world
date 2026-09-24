@@ -25,7 +25,7 @@ affiliates:
 
 You're renting a scooter. The road's hot. Traffic's chaos. One second you're merging around a truck, the next second you're on the pavement thinking "how did I get here?"
 
-Here's the truth: roughly 1 in 4 nomads in Bali for more than three months will crash a scooter. I know because I'm two of those statistics. And I wasn't prepared either time.
+Here's the truth: scooter crashes are common among visitors who ride in Bali for months at a stretch, and most people aren't prepared for that first one.
 
 This post is what you actually need to do in that first terrifying hour—before you call your family, before you panic about the rental damage, before you second-guess yourself at the hospital.
 
@@ -46,7 +46,7 @@ The moment you realize you've crashed, your brain goes sideways. You're shocked,
 - Nearby landmarks or street signs (helps location later)
 - The other person's face and bike if they were involved
 
-I wish I'd photographed every scratch on my rental. I ended up arguing for hours about what was my accident vs. what was already there.
+Skip this step and you can end up arguing for hours with the rental shop about what happened in the accident versus what was already there.
 
 ## Emergency Numbers You Need Right Now
 
@@ -78,7 +78,7 @@ Jl. Pratama, Nusa Dua
 +62-361-846-3888  
 Upscale, pricier, but excellent for anything complicated
 
-Honestly, I went to BIMC first because I didn't know better. It cost almost double Siloam. Both are fine—BIMC is faster if you want to be in and out.
+BIMC tends to cost close to double Siloam, though both are reliable—BIMC is generally faster if you want to be in and out.
 
 ## Ambulance vs. Grab: When to Call What
 
@@ -97,8 +97,6 @@ Honestly, I went to BIMC first because I didn't know better. It cost almost doub
 - Mild dizziness or headache
 
 Ambulance shows up in 8-15 minutes depending on location. Grab is 3-5 minutes. If you're not in danger of immediate complications, Grab gets you to BIMC faster and without the hospital's ambulance markup (which can add $30-50 USD / 500k IDR to your bill).
-
-My take: I called 119 the second time and waited 12 minutes. By the time they arrived, I was stable and wishing I'd just grabbed a Grab. First time, I limped to the road and flagged down a random taxi. Not recommended, but it happened.
 
 ## Dealing with the Police (The Part Nobody Talks About)
 
@@ -119,13 +117,13 @@ If a local was involved, or if traffic police happened to be nearby, you'll like
 - If the officer writes something—keep a photo of every page
 - Expect "processing fees" ($5-15 USD / 75k-225k IDR) if it's a small infraction. This isn't official; it's soft-corruption reality. Have cash on hand.
 
-I've been in situations where the officer wanted $20 USD to "help process the paperwork." I negotiated down to $10 and got a receipt-ish note. Frustrating? Yes. Worth fighting about when you're injured? No.
+Some travelers report being asked for $10-20 USD to "help process the paperwork." This isn't official, and while it's frustrating, it's usually not worth arguing about when you're injured.
 
 **Get a written report** if possible (even if handwritten). SafetyWing and most travel insurance want this for claims.
 
 ## Hospital Costs: What You'll Actually Pay
 
-This is the number that will shock you. Here's what I've paid across both accidents:
+This is the number that will shock you. Here are typical costs you may see—prices vary by hospital and severity, so treat these as estimates and confirm current pricing before you're in a crisis:
 
 **Road rash + wound cleaning + tetanus shot:** $80-150 USD (1.2M-2.25M IDR)
 
@@ -135,11 +133,11 @@ This is the number that will shock you. Here's what I've paid across both accide
 
 **Anything requiring surgery:** $2,500+ USD (37.5M+ IDR)
 
-These are real prices from BIMC and Siloam. Payment is usually immediate (cash, card, or cash advance via Grab). You then claim the receipts back to your insurance.
+These are typical prices reported at BIMC and Siloam, but confirm current rates directly since they can change. Payment is usually immediate (cash, card, or cash advance via Grab). You then claim the receipts back to your insurance.
 
-**This is exactly why travel insurance matters.** [SafetyWing](https://safetywing.com/?referenceID=26521603&utm_source=26521603&utm_medium=Ambassador) is about $45/month for people under 40, and it covers scooter accidents out of pocket up to their medical limit (*check policy details — most plans cover personal use but not racing or unlicensed riding*). I've filed two claims; they paid both without argument.
+**This is exactly why travel insurance matters.** [SafetyWing](https://safetywing.com/?referenceID=26521603&utm_source=26521603&utm_medium=Ambassador) is about $45/month for people under 40, and it covers scooter accidents out of pocket up to their medical limit (*check policy details — most plans cover personal use but not racing or unlicensed riding*). Check whether your policy covers scooter accidents and requires a valid license before you ride.
 
-The policy isn't perfect—it won't cover a solo crash if you were being reckless, and you need to file within 30 days. But for a legitimate accident? It's saved me thousands.
+The policy isn't perfect—it won't cover a solo crash if you were being reckless, and you need to file within 30 days. But for a legitimate accident, it can save you thousands in out-of-pocket costs.
 
 ## Insurance Claim Playbook (If You Have SafetyWing or Similar)
 
@@ -167,7 +165,7 @@ File within 48 hours if possible. Here's what you need:
 - Amount of claim
 - Proof you paid upfront
 
-Processing takes 2-3 weeks. You'll get a question or two; answer fast. I've had 100% reimbursement both times.
+Processing takes 2-3 weeks. You'll get a question or two; answer fast.
 
 **Honestly,** the hardest part isn't filing—it's remembering to do it while you're healing and stressed. Do it the day you get home.
 
@@ -184,13 +182,13 @@ After a real accident the bike conversation is different, because the shop knows
 3. Over $100 USD (1.5M IDR), ask them to show you a mechanic's quote from a Honda or Yamaha service shop.
 4. Negotiate. Most shops drop the bill 20–30% if you're calm and friendly.
 
-I've paid $60 USD once and $120 USD another time. Both times I asked for a discount for paying cash same-day, and both times they gave it.
+Repair costs like this often run $60-120 USD, and asking for a discount for paying cash same-day frequently works.
 
 One thing that is specific to accidents: if you're claiming on travel insurance, the bike repair receipt is part of the claim. Get it itemised and in writing before you pay, or your insurer will treat it as an unverified cash payment.
 
 ## Scratched the Rental Scooter? How to Handle the Damage and Your Deposit
 
-Not every bad scooter day ends in a hospital. Most end with you staring at a scrape on the fairing, wondering how much it's about to cost you. Here's how I handle it now, after getting burned once early on.
+Not every bad scooter day ends in a hospital. Most end with you staring at a scrape on the fairing, wondering how much it's about to cost you. Here's how to handle it.
 
 **Photograph the bike at pickup—every single time.** Before you ride off the lot, walk around the scooter and shoot all four sides, the mirrors, the fuel tank, the seat, and the underside of the fenders. Timestamp matters, so use your phone's camera (not a screenshot from somewhere else). This is the single habit that saves you the most money and the most arguing, because it proves what was already there before you touched the bike.
 
@@ -223,19 +221,17 @@ Your mom will call. Your best friend will text "ARE YOU OKAY??" Your partner wil
 - Don't send photos of injuries
 - Don't say "I was speeding" or "I wasn't paying attention" — they'll worry you're reckless forever
 
-My mom was fine once I told her I'd been to the hospital, had a scan, and was cleared. The not knowing was worse than the actual accident.
+Parents tend to be fine once they hear you've been checked out and cleared at a hospital. The not knowing is often worse than the actual accident for the people back home.
 
-## My Honest Take
+## The Bottom Line
 
-I've crashed twice in Bali. The first time, I was on my phone. The second time, a car cut me off without signaling. Both times sucked differently.
+Scooters in Bali aren't dangerous because they're inherently unsafe. They're dangerous because the road culture is chaotic and you're the most vulnerable thing on it. A truck won't slow down. A taxi won't signal. A motorbike will pass you on the inside lane while you're turning.
 
-Here's what I wish someone told me before either crash: **Scooters in Bali aren't dangerous because they're inherently unsafe. They're dangerous because the road culture is chaotic and you're the most vulnerable thing on it.** A truck won't slow down. A taxi won't signal. A motorbike will pass you on the inside lane while you're turning.
+The worst injuries tend to happen to people who think they're invincible: riding one-handed, skipping the helmet, or renting bikes without checking the brakes first. Wear your helmet every time—it makes a huge difference to how badly a fall turns out.
 
-The accidents I've seen the worst injuries from? People who think they're invincible. Who ride one-handed. Who don't wear helmets (seriously, wear your helmet—I didn't the second time and the road rash was insane). Who rent bikes without checking the brakes first.
+Riders who walk away from crashes that looked catastrophic usually have one thing in common: they were wearing a helmet, took the fall reasonably well, and got to a hospital fast.
 
-I've also seen people walk away from crashes that looked catastrophic because they were wearing a helmet, took the fall right, and got to the hospital fast.
-
-You can't control Bali's traffic. But you can control whether you're prepared when—not if—something goes wrong.
+You can't control Bali's traffic. But you can control whether you're prepared for when—not if—something goes wrong.
 
 ## Quick Checklist Before You Rent
 
