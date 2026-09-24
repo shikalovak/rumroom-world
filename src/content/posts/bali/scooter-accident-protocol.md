@@ -59,26 +59,21 @@ Save these to your phone today, before anything happens:
 ### Hospitals That Actually Handle Scooter Crashes
 
 **BIMC Kuta**  
-Jl. Bypass Ngurah Rai 100X, Kuta  
-+62-361-701-100 (English-speaking staff, tourist-friendly)  
+Jl. Bypass Ngurah Rai No. 100X, Kuta  
++62 361 761263 (English-speaking staff, tourist-friendly)  
 15 min from central Seminyak, payment options clear
 
-**BIMC Nusa Dua**  
-Jl. Pratama Blok K, Nusa Dua  
-+62-361-771-911  
-Closer if you're on the east side; more expensive than Kuta
+**BIMC Siloam Nusa Dua** (BIMC and Siloam merged this location under one name)  
+Kawasan ITDC Blok D, Nusa Dua  
++62 361 3000911  
+Closer if you're staying on the east side
 
-**Siloam Hospital Denpasar**  
-Jl. By-Pass Ngurah Rai, Denpasar  
-+62-361-244-5888  
-Cheaper than BIMC (~20-30% less), still reliable, longer wait times
+**Siloam Hospitals Denpasar**  
+Jl. Sunset Road No. 818, Kuta (despite the name, it's not in central Denpasar — confirm the branch when you book)  
+Check the current number at [siloamhospitals.com/en/hubungi-kami](https://www.siloamhospitals.com/en/hubungi-kami)  
+Generally cheaper than BIMC, still reliable, can have longer wait times
 
-**Siloam Nusa Dua**  
-Jl. Pratama, Nusa Dua  
-+62-361-846-3888  
-Upscale, pricier, but excellent for anything complicated
-
-BIMC tends to cost close to double Siloam, though both are reliable—BIMC is generally faster if you want to be in and out.
+Prices and exact contact details change, so confirm directly with the hospital before you need it — BIMC tends to run pricier than Siloam, though both are used regularly for tourist care.
 
 ## Ambulance vs. Grab: When to Call What
 
@@ -175,7 +170,7 @@ Processing takes 2-3 weeks. You'll get a question or two; answer fast.
 
 After a real accident the bike conversation is different, because the shop knows something serious happened and the damage is rarely cosmetic. The rental company will inspect within 48 hours, and a bent frame or handlebars starts around $150 USD (2.25M IDR) — well above anything in the scratch range.
 
-**What I'd actually do:**
+**What to do:**
 
 1. Photograph the bike right after the accident, before any repair. If you were taken to hospital, ask whoever came with you to do it.
 2. Get a written estimate from the rental shop rather than a number said out loud.
