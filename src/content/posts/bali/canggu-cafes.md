@@ -1,8 +1,8 @@
 ---
-title: "13 Best Cafes & Restaurants in Canggu (Local's Picks for 2026)"
+title: "12 Best Cafes & Restaurants in Canggu (2026 Guide)"
 slug: canggu-cafes
 pubDate: 2026-05-01
-updatedDate: 2026-05-01
+updatedDate: 2026-09-24
 author: kseniia
 readingTime: 11
 description: "Honest picks for where to eat in Canggu: breakfast spots, hidden local joints, and sunset beach clubs. Real reviews, real prices."
@@ -22,7 +22,7 @@ There's a reason half of Bali's expats end up living in Canggu: you can eat diff
 
 ---
 
-## Quick Hits: My Top 5
+## Quick Hits: Top 5 Picks
 
 1. **Crate Café** — Legendary all-day breakfast ($14–17 for two)
 2. **The Shady Shack** — Vegetarian oasis with real vibe ($17–20)
@@ -214,18 +214,7 @@ Wood platforms, rope swings, pools overlooking the beach. Sunset here is an *eve
 
 ---
 
-## For Locals: Three Hidden Spots
-
-### Secret Spot (Berawa) — Vegan Raw Treats
-
-**Price:** $14–17  
-**Vibe:** Tiny, quiet, serious about raw vegan
-
-Raw vegan cheesecake, fresh mango smoothies, minimal foot traffic. Real spot for strict plant-based eaters.
-
-**Real take:** So low-key you could miss it. No Wi-Fi, no Instagram aesthetic. Pure substance.
-
----
+## Two Hidden Spots Worth Knowing
 
 ### Rise & Shine (Batu Bolong) — Quiet Breakfast
 
@@ -265,23 +254,23 @@ Eggplant sauté, fried chicken in sambal sauce, rice. Less crowded than the main
 
 ---
 
-## My Actual Rotation (Honest Take)
+## A Sample Week in Canggu
 
-If I'm eating in Canggu for a week, here's what I actually do:
+Here's a realistic weekly rotation for someone eating in Canggu regularly:
 
 **Monday breakfast:** Crate (full chaos reset, giant portions).
 
-**Tuesday lunch:** Warung Bu Mi or Varuna (honest food, reset the palate).
+**Tuesday lunch:** Warung Bu Mi or Varuna (honest food, a break from café menus).
 
-**Wednesday work:** Nude or Shady Shack (4–5 hours, decent coffee, actually focus).
+**Wednesday work session:** Nude or Shady Shack (4–5 hours, decent coffee, good for focus).
 
-**Thursday dinner:** Mason if I'm treating myself, Penny Lane if friends are in town.
+**Thursday dinner:** Mason for something special, Penny Lane for a group.
 
-**Friday & Saturday:** Mix it. Breakfast somewhere new, lunch somewhere I've been, dinner somewhere special (La Brisa for sunset, or a repeat favorite).
+**Friday & Saturday:** Mix it up—breakfast somewhere new, lunch at a known favorite, dinner somewhere special (La Brisa for sunset, or a repeat favorite).
 
 **Sunday morning:** Copenhagen or Rise & Shine (quiet, good coffee, no rush).
 
-The pattern: big breakfasts on days I'm moving around, warungs for real food when I need it, cafés for work stretches, and one proper dinner per week. I don't eat at all 10 places every month. I rotate through my top 4-5 based on mood and who I'm with.
+The pattern: bigger breakfasts on active days, warungs for straightforward food, cafés for work stretches, and one dinner-out per week. Most regulars settle into a rotation of 4–5 favorites rather than working through the whole list every month.
 
 ---
 
@@ -304,19 +293,15 @@ A: Start with Crate Café (iconic), then Warung Bu Mi (authentic), then Mason or
 
 ---
 
-## Want my full Canggu food map with hidden gems and current pricing?
+## Want an Updated Canggu Food Map?
 
-I'm tracking which spots have moved, which menus have changed, and where the new openings are worth your time. Locals in my network keep me updated.
-
-**Email me at hello@rumroom.world** and I'll send you the full list—current prices, side-street locations, seasonal specials, and the spots I'm watching for 2026.
+Canggu's food scene moves fast—spots close, menus change, and new places open every few months. If you'd like an updated list of current prices, side-street locations, and new openings, **email hello@rumroom.world** and we'll send what we have.
 
 ---
 
-## About Kseniia
+## About Rum Room
 
-I've spent multiple seasons rotating through Bali's food scene—breakfast with rice fields, lunch in Ubud, dinner in Seminyak. Canggu became home. I eat where locals eat, ask questions without a guidebook, and tell you what actually works versus what looks good on Instagram.
-
-**rumroom.world** is my real-time food and travel log for Southeast Asia. No affiliate links, no "top 10" lists designed to hit ad targets. Just honest reviews from someone who lives here.
+Rum Room covers Bali's food and travel scene with a focus on what's actually worth your time versus what's designed for Instagram—no padded "top 10" lists, and no fabricated reviews.
 
 ---
 
