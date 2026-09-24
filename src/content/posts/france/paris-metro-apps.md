@@ -17,33 +17,33 @@ readingTime: 6
 draft: false
 ---
 
-I just got back from Paris and for the first time in all my trips there, I bought zero physical tickets. Not one. Everything went through my phone — metro rides, buses, the whole city. It took about five minutes to set up before I landed.
+Paris transit has gone almost entirely digital. As of November 2025, paper tickets are no longer sold at metro, RER, bus, or tram stations — everything runs through a phone or a Navigo card now. Buying a ticket, riding the metro, and catching a bus can all happen without ever touching a paper ticket or fumbling with a vending machine.
 
-This is actually new. Paris transit was famously bad at going digital. You needed a physical card (the Navigo), or you fumbled with vending machines that sometimes didn't accept foreign Visa cards, or you bought a *carnet* of paper tickets that you'd inevitably lose one of. Not anymore. Here's what changed, what the two main apps actually do, and which one you actually need.
+This is a genuinely recent shift. Paris transit was long known for lagging on digital payment — a physical Navigo card, vending machines that sometimes rejected foreign cards, or a paper carnet of tickets that was easy to lose track of. That system is now retired. Here's what changed, what the two main apps actually do, and which one matters most.
 
-**Quick answer:** if you only download one app, make it **IDF Mobilités**. It's the one that actually sells and stores your tickets on your phone, so it's what gets you through the metro gate. Add **Bonjour RATP** alongside it for real-time navigation, but IDF Mobilités is the app that matters most.
+**Quick answer:** if you only download one app, make it **IDF Mobilités**. It's the one that actually sells and stores tickets on your phone, so it's what gets you through the metro gate. Add **Bonjour RATP** alongside it for real-time navigation, but IDF Mobilités is the app that matters most for actually riding.
 
 ---
 
 ## Two apps, two jobs
 
-There are two apps you'll hear about: **Bonjour RATP** and **IDF Mobilités**. They sound like they do the same thing. They don't, quite.
+There are two apps worth knowing: **Bonjour RATP** and **IDF Mobilités**. They sound similar but serve different purposes.
 
 ### Bonjour RATP — for navigation and real-time info
 
-This is the official RATP app (RATP runs the metro, buses, RER, and trams inside Paris). It's your journey planner. You type in where you want to go, it shows you routes, real-time departures, disruptions, whether your line is running normally. It's genuinely good — better than Google Maps for Paris transit because it shows platform info and has accurate live data.
+This is the official RATP app (RATP runs the metro, buses, RER, and trams inside Paris). It's a journey planner: enter a destination, and it shows routes, real-time departures, disruptions, and whether a given line is running normally. It tends to be more useful than a general maps app for Paris transit specifically, since it shows platform info and reasonably accurate live data.
 
-What it's *not* great for: buying tickets. You can buy some tickets in Bonjour RATP, but the interface is clunky and it's not the main flow. Think of it as Google Maps + RATP's live feed.
+It's less useful for buying tickets — some ticket purchases are possible in the app, but the flow is clunkier than in IDF Mobilités. Think of it as a journey planner plus RATP's live service feed.
 
-**Download it:** yes, download it. Use it primarily for navigation.
+**Worth downloading:** yes, primarily for navigation.
 
 ### IDF Mobilités — for buying tickets and loading your phone wallet
 
-IDF Mobilités is the Île-de-France-wide transit authority — it covers everything: metro, RER, bus, SNCF Transilien trains to the suburbs. This is the app where you actually **buy tickets and store them on your phone**.
+IDF Mobilités is the Île-de-France-wide transit authority's app — covering metro, RER, bus, and SNCF Transilien trains out to the suburbs. This is the app for actually **buying tickets and storing them on a phone**.
 
-Since late 2023, IDF Mobilités supports a virtual Navigo Easy card — basically a digital version of the reusable tap card — stored in Apple Wallet (iPhone) or as an NFC tag on Android. You top it up with individual tickets or passes, then tap your phone at the metro gate just like you'd tap a physical card.
+IDF Mobilités supports a virtual Navigo Easy card — a digital version of the reusable tap card — stored in Apple Wallet (iPhone) or as an NFC-based ticket on Android. Tickets or passes are loaded onto it, then a phone tap at the metro gate works the same way a physical card does.
 
-**Download it:** yes, this is the one you need for purchasing.
+**Worth downloading:** yes — this is the one needed for purchasing.
 
 **Short version:** use IDF Mobilités to buy, use Bonjour RATP to navigate.
 
@@ -51,65 +51,65 @@ Since late 2023, IDF Mobilités supports a virtual Navigo Easy card — basicall
 
 ## Step-by-step: buying a metro ticket on iPhone
 
-1. **Download IDF Mobilités** from the App Store before you leave home.
+1. **Download IDF Mobilités** from the App Store before leaving home.
 
 2. **Open the app → "Buy tickets"** (or "Acheter des titres" if it defaults to French — there's a language setting).
 
-3. **Choose your ticket type:**
-   - *t+ ticket* — single ride on metro/bus/RER within zones 1–2. Works for the vast majority of tourist trips inside Paris.
-   - *Carnet of 10 t+ tickets* — discounted pack, makes sense if you're staying more than 3 days.
-   - *Day pass (Forfait 1 jour)* — covers unlimited travel for one day on zones 1–2. Worth it if you're doing 5+ rides.
-   - *Navigo Easy (virtual)* — a reusable container you load with whatever you need. This is the one that lives in Apple Wallet.
+3. **Choose a ticket type:**
+   - **Single Metro-Train-RER ticket** — one ride, valid across the Île-de-France network (the 2025 fare reform removed the old zone-based single-ticket system, so this single fare now covers the whole network rather than just zones 1–2).
+   - **Navigo Jour (day pass)** — unlimited travel for one calendar day across most of the network (airport zones are generally excluded — check current terms in the app).
+   - **Navigo Easy (virtual)** — a reusable container loaded with individual tickets as needed. This is the one that lives in Apple Wallet.
+   - **Navigo Hebdomadaire (weekly pass)** — a flat weekly rate for longer stays, useful if day trips outside central Paris are planned.
 
-4. **Add a payment method** — credit card or Apple Pay. Apple Pay is the smoothest.
+4. **Add a payment method** — credit card or Apple Pay. Apple Pay tends to be the smoothest option.
 
-5. **Purchase.** The ticket appears in your IDF Mobilités app, or if you set up the virtual Navigo Easy, it lands in Apple Wallet.
+5. **Purchase.** The ticket appears in the IDF Mobilités app, or lands in Apple Wallet if using the virtual Navigo Easy.
 
-6. **At the metro gate:** hold your iPhone near the yellow NFC reader (the round target). It takes about half a second. Gate opens, you walk through.
+6. **At the metro gate:** hold the iPhone near the NFC reader. It takes under a second, and the gate opens.
 
-**Android:** same flow, but you use NFC directly from the IDF Mobilités app rather than Apple Wallet. Enable NFC in settings first.
+**Android:** the same general flow applies, using NFC directly from the IDF Mobilités app rather than Apple Wallet. NFC needs to be enabled in settings first.
 
-**Non-NFC phone:** if your phone doesn't have NFC (older budget Androids), the app also generates a QR code for some ticket types. Scan it at the gate. Slightly slower, still works.
+**Non-NFC phone:** for a phone without NFC (some older or budget Android models), the app can generate a QR code for some ticket types, scanned at the gate — slightly slower, but functional.
 
 ---
 
-## Which ticket to actually buy
+## Which Ticket to Actually Buy
 
-### Single t+ ticket vs carnet
+### Single ticket
 
-A single t+ ticket runs around **€2.15** (check current rates — pricing adjusts annually). A carnet of 10 is roughly **€17.35**, which works out to €1.73 per ride. If you're making more than 3 trips, buy the carnet.
+As of 2026, a single Metro-Train-RER ticket costs around **€2.55** (bus/tram single tickets run slightly less, around **€2.05**) — check current pricing in the app, since fares are reviewed periodically. The old paper carnet of 10 tickets no longer exists; ticketing is fully digital and priced per single ride or through a day/weekly pass.
 
 ### Day pass — when it makes sense
 
-The *Forfait 1 jour* zones 1–2 costs around **€8.65**. It pays off once you hit 5 rides in a day. If you're doing a tourist day — hotel, Eiffel Tower, Louvre, Marais, dinner somewhere, back to hotel — that's easily 6 trips. Buy the day pass, stop counting.
+The **Navigo Jour** day pass runs around **€12** as of 2026 and covers unlimited travel across most of the network for a calendar day (airport connections are typically excluded and priced separately — confirm current terms in the app). It tends to pay off once several rides are planned in a single day — a typical sightseeing day (hotel, a major sight, a neighbourhood, dinner, back to the hotel) can easily reach five or six trips, at which point the day pass is usually the better value.
 
 ### Navigo Easy vs Navigo Hebdomadaire (weekly)
 
-The virtual Navigo Easy is the digital equivalent of the reusable card: you load rides onto it. If you're staying a full week, look at the *Navigo Hebdomadaire* (weekly pass) instead — it's a flat rate covering all zones 1–5 from Monday to Sunday, which makes it great if you're also doing day trips to Versailles or the airports. For a 4–5 day city trip, the Navigo Easy loaded with a day pass or carnet is usually more economical.
+The virtual Navigo Easy is the digital equivalent of the reusable card — rides or passes are loaded onto it as needed. For a stay of a full week or longer, the **Navigo Hebdomadaire** (weekly pass) is worth comparing: it's a flat rate covering the network from Monday to Sunday, which works well alongside day trips to places like Versailles. For a shorter 4–5 day city trip, Navigo Easy loaded with single tickets or a day pass or two is usually the simpler, more economical option.
 
-### Zones explained
+### Zones and airports
 
-Paris metro zones 1–2 cover central Paris and most tourist areas. Zones 3–5 extend into the suburbs. If you're heading to either Paris airport, you'll need a ticket that covers additional zones — the app sells these directly as named airport tickets so you don't have to figure out the zone math yourself.
+The 2025 fare reform removed zone-based pricing for standard single tickets within the network — a single ticket now covers a journey anywhere on the core network regardless of distance. Airport connections (to Orly via Line 14, or to CDG via RER B) are the main exception: these use separate, higher-priced airport tickets rather than the standard single fare, and the app sells these as clearly named airport tickets rather than requiring manual zone calculations.
 
 ---
 
 ## Quick FAQ
 
 **Do I need a physical Navigo card?**
-No. If you have an iPhone or a recent NFC Android, the virtual Navigo Easy in IDF Mobilités handles everything a physical card does. Physical cards still exist and still work — but you don't need one.
+No. An iPhone or a recent NFC-capable Android running the virtual Navigo Easy in IDF Mobilités can handle everything a physical card does. Physical cards still exist and still work, but they're no longer necessary.
 
-**What if my phone dies mid-trip?**
-This is the real risk of going phone-only. Three options: (1) buy a single t+ ticket from the vending machine — they accept contactless bank cards now; (2) tap your contactless bank card directly at the gate on some newer metro lines (Visa/Mastercard contactless is accepted on most Line 14 gates and some others — not universal yet, check the gate for the card symbol); (3) have a backup paper ticket tucked in your wallet as insurance.
+**What if a phone dies mid-trip?**
+This is the real risk of going phone-only, especially now that paper tickets are no longer sold at stations. A few options: (1) a contactless bank card may work directly at the gate on some lines (see below); (2) charge the phone at a café or station where possible before it's fully dead; (3) some stations retain staffed ticket counters that can issue an emergency ticket, though this is increasingly rare — checking ahead for the specific station is worth it if this is a concern.
 
-**Can I use contactless bank cards on the metro directly?**
-On some lines yes — Line 14 and a growing number of gates accept Visa/Mastercard contactless. But it's not universal across the whole network yet. Check for the card symbol on the gate reader before assuming it'll work.
+**Can contactless bank cards be used on the metro directly?**
+On some lines, yes — Line 14 and a growing number of gates accept Visa/Mastercard contactless payment directly, without needing the IDF Mobilités app at all. Coverage isn't universal across the whole network yet, so it's worth checking for the card symbol on a gate reader before relying on it.
 
 ---
 
-## Bottom line
+## Bottom Line
 
-Download both apps before your flight. Set up IDF Mobilités on WiFi at home — the virtual Navigo Easy takes about 5 minutes, and you want it done before you're standing in arrivals with luggage trying to find the vending machine. Load a carnet or a day pass depending on how long you're staying.
+Downloading both apps before a flight is worth doing. Setting up IDF Mobilités on wifi at home — the virtual Navigo Easy setup takes a few minutes — means it's ready before standing in arrivals with luggage. A single ticket, a day pass, or a Navigo Easy top-up can then be loaded depending on how the trip is shaping up.
 
-Then use Bonjour RATP once you're there to figure out which line to take and whether there are delays. The two apps together replace everything that used to require a trip to the ticket window.
+Bonjour RATP is the one to lean on once in the city, for figuring out which line to take and whether there are delays. Together, the two apps replace what used to require a trip to a ticket window or a vending machine.
 
-It's a small thing but it changes the texture of moving around Paris. One less thing to queue for, one less thing to lose.
+It's a small shift, but it changes the day-to-day experience of moving around Paris — one less thing to queue for, one less thing to lose.
