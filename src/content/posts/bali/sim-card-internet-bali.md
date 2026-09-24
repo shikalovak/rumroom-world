@@ -2,7 +2,7 @@
 title: "Getting a SIM Card in Bali: Telkomsel vs XL vs Indosat (2026 Honest Comparison)"
 slug: sim-card-internet-bali
 pubDate: 2026-06-08
-updatedDate: 2026-06-08
+updatedDate: 2026-09-24
 author: kseniia
 readingTime: 10
 description: "Practical guide to Indonesian SIM cards in Bali. Physical vs eSIM, network coverage, costs, how to top up, and which carrier actually works in Ubud, Canggu, Uluwatu."
@@ -20,7 +20,7 @@ affiliates: ["airalo"]
 
 You land at Denpasar. Your phone is already searching for networks, battery creeping down. You need reliable internet before you even leave the airport to message your villa host. The fastest, cheapest fix isn't the overpriced airport kiosk with the sleepy attendant—it's knowing exactly which SIM to grab and where to grab it in the first 30 minutes.
 
-I'm going to walk you through every option, because the difference between picking the right carrier and picking wrong is the difference between smooth navigation in Ubud and sitting in a cafe for an hour watching a Google Map refuse to load.
+This covers every option, because the difference between picking the right carrier and picking wrong is the difference between smooth navigation in Ubud and sitting in a cafe for an hour watching a Google Map refuse to load.
 
 ## Physical SIM vs eSIM: Which One Should You Actually Buy?
 
@@ -40,20 +40,20 @@ Here's the reality: **physical SIM cards are still king in Bali.** They're $5–
 
 Quick tip: if you're using eSIM, activate it the moment the plane touches down (still on the runway is fine). Activation can take 5–15 minutes.
 
-My take: I've done both. For a first Bali trip, grab a physical SIM at 7-Eleven on your way to the taxi stand. No fuss, no pre-planning, ~$6 out of your pocket.
+**Recommended default:** For a first Bali trip, a physical SIM from 7-Eleven is the simplest choice — no fuss, no pre-planning, about $6 out of pocket.
 
 ## The Three Carriers: Telkomsel vs XL vs Indosat
 
 Indonesia's telecom market is split three ways. Each carrier has real differences in coverage, especially once you leave Seminyak.
 
 **Telkomsel**
-- Market dominance: ~70% of Indonesia. The safe choice.
-- Coverage: Works in Canggu, Ubud, Uluwatu, and surprisingly good in remote villages (I've had signal in rice terraces).
+- Market dominance: The largest nationwide carrier by subscriber count and coverage. The safe choice.
+- Coverage: Works in Canggu, Ubud, Uluwatu, and reportedly reaches many remote villages and rice-terrace areas where other carriers don't.
 - Speed: Average 8–15 Mbps LTE. Reliable, not bleeding-edge.
 - Vibe: Government-backed, older infrastructure, but bulletproof where it works.
 
 **XL**
-- Market position: ~25%, popular in cities, shakier outside tourist zones.
+- Market position: Now part of the XLSmart group — XL Axiata completed a merger with Smartfren in 2025 — though the XL brand is still sold during the transition. Popular in cities, shakier outside tourist zones.
 - Coverage: Perfect in Canggu and Seminyak. Ubud is patchy (you'll lose signal in some villa areas). Forget remote villages.
 - Speed: Similar to Telkomsel, maybe slightly faster in central Bali (5–20 Mbps).
 - Vibe: More aggressive pricing, smaller coverage footprint.
@@ -61,7 +61,7 @@ Indonesia's telecom market is split three ways. Each carrier has real difference
 **Indosat**
 - Market position: Smallest of the three in Bali.
 - Coverage: Canggu is fine. Ubud = spotty (dead zones around Tegalalang). Uluwatu okay.
-- Speed: Slowest of the three on average (4–12 Mbps).
+- Speed: Historically the slowest outside cities, though 2025–2026 network testing shows it competitive with Telkomsel for speed in urban centers like Denpasar (4–15 Mbps).
 - Vibe: Cheapest plans sometimes, but you pay for it with reliability.
 
 | Carrier | Best For | Ubud Coverage | Canggu | Uluwatu | Remote | Best Speed |
@@ -70,7 +70,7 @@ Indonesia's telecom market is split three ways. Each carrier has real difference
 | XL | City-based travelers, budget seekers | Patchy | Perfect | Good | No | 5–20 Mbps |
 | Indosat | Cheapskates | Sketchy | Good | Fair | No | 4–12 Mbps |
 
-**My move: Pick Telkomsel if you're spending any significant time in Ubud.** XL if you're Canggu-only. Indosat if you're literally just passing through for 3 days and want to shave $2.
+**The practical pick: Telkomsel if you're spending any significant time in Ubud.** XL if you're Canggu-only. Indosat if you're literally just passing through for a few days and want to shave a couple dollars.
 
 ## Coverage Reality: Where These Networks Actually Work
 
@@ -80,7 +80,7 @@ This matters because the difference between "good coverage" and "you'll keep rec
 All three carriers work beautifully. Altitude Canggu? All three. Potato Head Beach? All three. This is the easiest zone in Bali for connectivity. You could flip a coin here.
 
 **Ubud (where everyone eventually ends up)**
-Here's where carriers diverge. Honestly, my first lesson was realizing that "coverage" on a carrier's map and actual signal in a villa hidden behind rice paddies are two very different things. I've had Telkomsel keep working while traveling friends with XL lost signal 50 meters up the same road.
+Here's where carriers diverge. "Coverage" on a carrier's map and actual signal in a villa hidden behind rice paddies are two very different things — Telkomsel commonly holds a signal in spots where XL and Indosat drop out.
 
 Telkomsel dominates in and around the Tegalalang Rice Terraces, the Sacred Monkey Forest, and the villa-dense areas northeast of Ubud town. XL works but expect dead zones between 6–9 PM (peak congestion). Indosat: I wouldn't bet on it for anything mission-critical.
 
@@ -104,7 +104,7 @@ This is your starter SIM package. You get minimal balance (~5k–10k in credit) 
 - **Heavy data**: 150k IDR (~$9) for 25 GB, valid 30 days. If you're streaming daily and working remotely.
 - **Social media bundle**: 25k IDR (~$1.50) for unlimited WhatsApp, Facebook, Instagram. Valid 30 days. Stacks with a data plan.
 
-Honestly, a 10GB/30-day plan ($4.50) lasted me through two weeks of daily Zoom calls, weather checks, and Instagram scrolling. Didn't think about data once.
+A 10GB/30-day plan is generally enough for around two weeks of daily Zoom calls, weather checks, and casual social media use for one person.
 
 **True "unlimited everything" plans don't really exist.** Carriers advertise them but throttle you after ~20 GB of actual usage. You'll drop from LTE to 3G speeds. It's sneaky, so don't expect it as a true unlimited lifeline.
 
@@ -112,7 +112,7 @@ Honestly, a 10GB/30-day plan ($4.50) lasted me through two weeks of daily Zoom c
 
 ## Real-World Speed: Will My Zoom Calls Work?
 
-I'm going to be straight with you about speeds because expectations matter.
+Here's what to expect, because expectations matter.
 
 **Typical speeds you'll see:**
 - **Best case (uncongested afternoon, Canggu):** 15–20 Mbps down, 5–8 up
@@ -134,7 +134,7 @@ If you're a digital nomad needing reliable upload speed for video, grab a 4G hom
 
 Good news: tethering is **not throttled** on any of these plans. Turn on your hotspot and share your 10 GB plan with a friend without penalty.
 
-I've shared my Telkomsel hotspot with travel buddies for an entire week. No extra charges, no speed drop. The 10 GB gets split between us, sure, but there's no "tethering surcharge" like some carriers do in the US.
+Sharing a hotspot for extended periods works without extra charges or a speed penalty beyond the shared data cap — there's no separate "tethering surcharge" like some carriers apply in the US.
 
 Quick tip: just be aware that hotspot drains your battery fast on old phones. Carry a power bank if you're planning to share.
 
@@ -146,7 +146,7 @@ Here's what you get with your SIM:
 
 **Making international calls:** Expensive ($0.50–1.50 per minute). Use WhatsApp, Telegram, or Google Meet instead—basically free over data.
 
-**Two-factor authentication codes:** Will arrive via SMS to your Indonesian number. Some banks and services get nervous about non-local numbers, but I've had zero issues.
+**Two-factor authentication codes:** Will arrive via SMS to your Indonesian number. Some banks and services get nervous about non-local numbers, though most travelers report no issues.
 
 The Indonesian number is real and yours for as long as you keep topping up. Stop for 6 months, they'll recycle the number. That's why travelers often just grab a new SIM on each trip—simpler than tracking an old balance.
 
@@ -166,12 +166,12 @@ If your phone supports eSIM (most iPhones from iPhone 11 onward; most recent Sam
 
 Services like [Airalo](https://airalo.tpm.li/4rMthhOs) sell Indonesian eSIMs for $25–30 per month. You buy in your home country, activate the profile in the app, and you're connected the moment you land.
 
-**Why I'd consider it:**
+**Reasons to consider it:**
 - Zero in-airport stress; you're already online texting your driver from the immigration queue
 - Better for people traveling through multiple countries (layer profiles)
 - Some people genuinely prefer not carrying a physical card
 
-**Why I don't usually bother:**
+**Reasons some travelers skip it:**
 - 2x the price (Airalo $25 vs local Telkomsel $6 SIM)
 - You lose the simplicity of walking into 7-Eleven and handing someone cash
 - If your phone breaks, you have to deal with eSIM re-provisioning from a broken phone
@@ -196,14 +196,14 @@ If you're planning to spend real time working from Bali:
 
 **WhatsApp-first communication:** Voice notes, messages, video calls over WhatsApp are all optimized for slower speeds. Better than trying to email 50 MB files.
 
-Honestly, I've worked from Ubud villas for months at a time. The SIM + occasional cafe wifi combo is completely workable if you're not running a video production studio.
+The SIM + occasional cafe wifi combo is workable for most remote work, short of running a video production studio.
 
-## My Honest Take
+## The Bottom Line
 
-Here's what I'd tell a version of myself landing in Denpasar for the first time: **You're overthinking this. Grab a Telkomsel physical SIM at 7-Eleven on the way to your transport, spend $6, activate it in 3 minutes, and forget about your connectivity anxiety for the next 30 days.**
+**The simplest path: grab a Telkomsel physical SIM at 7-Eleven on the way to your transport, spend around $6, activate it in a few minutes, and stop worrying about connectivity for the next 30 days.**
 
-I wasted mental energy my first trip researching eSIM options, comparing all three carriers, and stress-shopping at the airport kiosk. Turns out the boring choice—Telkomsel, physical, local 7-Eleven—has been the right move every single time since. No surprises, no roaming charges, no activation delays, no compatibility puzzles.
+Comparing all three carriers or researching eSIM options in depth is usually unnecessary for a first trip — the straightforward choice (Telkomsel, physical, from a 7-Eleven) tends to be the reliable one: no roaming charges, no activation delays, no compatibility issues.
 
-The only exception: if you're literally spending 72 hours in Seminyak before flying to Thailand, any carrier works fine. But if there's any chance you're heading to Ubud or staying beyond a week, commit to Telkomsel.
+The exception: if you're spending 72 hours or less in Seminyak before moving on, any carrier works fine. But if there's a chance you're heading to Ubud or staying beyond a week, Telkomsel is the safer default.
 
 Stop overthinking and start connecting. Your villa host is waiting for a WhatsApp confirmation.
