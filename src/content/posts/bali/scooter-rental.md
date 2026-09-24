@@ -157,7 +157,6 @@ Police set up checkpoints weekly. Honestly? They're looking for quick checks, no
 
 **What to do:**
 - Stay calm. Don't argue.
-- Smile. Use the phrase "Saya punya SIM internasional" (I have an international license) even if you don't—buys you credibility.
 - If pushed, ask "Bisa bayar resmi?" (Can I pay officially?) They'll either let you go or agree to the informal settlement.
 
 ## What to do if you scratch the scooter
@@ -204,7 +203,6 @@ If someone's hurt, the bike is wrecked, or police got involved, that's a differe
 |---|---|
 | Good morning, sir | Selamat pagi, Pak |
 | I have an international license | Saya punya SIM internasional |
-| I live here (establish trust) | Saya tinggal di sini lama |
 | Sorry, I don't understand | Maaf, tidak mengerti |
 | Can I pay officially? | Bisa bayar resmi? |
 
