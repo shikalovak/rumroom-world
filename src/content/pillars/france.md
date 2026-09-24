@@ -11,7 +11,7 @@ heroImageCredit:
   photoUrl: "https://unsplash.com/photos/a-field-of-lavender-flowers-with-a-mountain-in-the-background-0d7ckLu3_t4"
 ---
 
-I came back from France the first time thinking I knew it: Eiffel Tower, croissants, the slightly snooty service at Parisian cafés. Left a month later realizing I'd just scratched the surface. Then I went back — to Provence this time, for the lavender fields and the hilltop villages. Then to Lyon, specifically for the food. Then to the Côte d'Azur because someone told me Antibes was better than Nice and I needed to see for myself. (They were right.)
+It's easy to think you know France from a first visit — Eiffel Tower, croissants, the slightly snooty service at Parisian cafés — and then realize on a longer trip that you've barely scratched the surface. Provence has the lavender fields and hilltop villages, Lyon has the food scene, and the Côte d'Azur has towns like Antibes that often surprise people who expected Nice to be the highlight.
 
 France is one of those countries that doesn't reveal itself all at once. Every region is a different country — different light, different pace, different things on the menu. The France of Provence rosé on a terrace at noon has almost nothing in common with the France of Lyon's packed *bouchons* on a Friday evening, which has almost nothing in common with the France of Paris at 6 AM when the bakeries open and the streets are quiet. Getting to know France takes time. This guide is for the people who want to give it that time — slow travelers, digital nomads, anyone with more than a week and less than a tour group.
 
@@ -29,7 +29,7 @@ France is one of those countries that doesn't reveal itself all at once. Every r
 
 🗺️ **Paris is the start, not the destination:** two to three days, acclimate, then move. The country starts after the périphérique.
 
-📱 **Before you land:** download the transit apps and check the metro setup — [my guide to Paris metro apps](/france/paris-metro-apps/) has everything you need for phone-based navigation from day one.
+📱 **Before you land:** download the transit apps and check the metro setup — [this guide to Paris metro apps](/france/paris-metro-apps/) has everything you need for phone-based navigation from day one.
 
 ---
 
@@ -39,9 +39,9 @@ Paris is unavoidable, and honestly it shouldn't be. The city has a real claim to
 
 But Paris is also expensive, crowded, and — if you're not careful — it'll swallow your whole France trip. A week in Paris is a week not in Provence or Lyon or the Atlantic coast.
 
-**My rule:** two to three days. Enough to feel the city without letting it become your default. Walk the Marais and the Canal Saint-Martin. Eat a croissant at a counter, not at a table (faster, cheaper, more Parisian). See whatever landmark you need to see so it stops being on your list. Then buy a TGV ticket and go somewhere that doesn't have queues for the view. (Before you go, it's worth skimming my [first-timer mistakes in Paris](/france/paris-first-timer-mistakes/) — small stuff that's easy to avoid once you know it.)
+**A reasonable rule:** two to three days. Enough to feel the city without letting it become your default. Walk the Marais and the Canal Saint-Martin. Eat a croissant at a counter, not at a table (faster, cheaper, more Parisian). See whatever landmark you need to see so it stops being on your list. Then buy a TGV ticket and go somewhere that doesn't have queues for the view. (Before you go, it's worth skimming [first-timer mistakes in Paris](/france/paris-first-timer-mistakes/) — small stuff that's easy to avoid once you know it.)
 
-If you'd rather get out of the city for a few hours without checking out of your hotel, my [Paris day trips guide](/france/paris-day-trips/) covers the easiest ones. And if you're working while you travel, not every café wants your laptop open for three hours — [here's which ones actually do](/france/paris-cafes-working/).
+If you'd rather get out of the city for a few hours without checking out of your hotel, the [Paris day trips guide](/france/paris-day-trips/) covers the easiest ones. And if you're working while you travel, not every café wants your laptop open for three hours — [here's which ones actually do](/france/paris-cafes-working/).
 
 A few neighborhoods worth knowing for those days:
 
@@ -55,11 +55,11 @@ Getting around Paris is genuinely easy once you understand the Metro system. For
 
 ## Where to go after Paris
 
-This is the real question, and there's no single right answer — it depends on when you're going and what you want to feel. Here are the regions that have actually stuck with me:
+This is the real question, and there's no single right answer — it depends on when you're going and what you want to feel. Here are the regions worth building a trip around:
 
 **Provence: the slow travel ideal**
 
-If I had to pick one region of France for a longer stay — a real slow month, not a weekend trip — it would be Provence in May, June, or early September. The lavender peaks in early July (Valensole plateau, fewer tourists than the famous routes), the hilltop villages are genuinely beautiful in the morning and evening light, and the market culture is worth building a whole week around.
+For a longer stay — a real slow month, not a weekend trip — Provence in May, June, or early September is a strong pick. The lavender peaks in early July (Valensole plateau, fewer tourists than the famous routes), the hilltop villages are genuinely beautiful in the morning and evening light, and the market culture is worth building a whole week around.
 
 **The towns that are worth it:**
 
@@ -69,9 +69,9 @@ If I had to pick one region of France for a longer stay — a real slow month, n
 
 *Arles* — Van Gogh lived here, and you can see why. The light is particular: softer, more golden than further north. It's also a real working town, not just a museum. Good access to the Camargue if you want flamingos and wild horses.
 
-*Marseille* — not the obvious choice for slow travel, but I have a soft spot for it. It's loud and port-grimy and nothing like what anyone expects from France, and the bouillabaisse at the fish restaurants near Vallon des Auffes is the best you'll find anywhere. Don't go for the beach clubs. Go for the food and the walk along the Corniche.
+*Marseille* — not the obvious choice for slow travel, but it has its fans. It's loud and port-grimy and nothing like what anyone expects from France, and the fish restaurants near Vallon des Auffes serve some of the best bouillabaisse in the region. Skip the beach clubs; go for the food and the walk along the Corniche.
 
-Provence without a car is half a Provence. Trains get you to the big cities; the villages, fields, and lookouts need wheels. I've written up the full process in [renting a car in France](/france/renting-a-car-in-france/) — the short version: book European rentals through a broker (Rentalcars or AutoEurope), always take full insurance and decline the extras at the counter, and inspect every scratch before driving off. For a ready-made itinerary through the region, see [Provence in 5 days](/france/provence-5-days/).
+Provence without a car is half a Provence. Trains get you to the big cities; the villages, fields, and lookouts need wheels. The full process is covered in [renting a car in France](/france/renting-a-car-in-france/) — the short version: book European rentals through a broker (Rentalcars or AutoEurope), always take full insurance and decline the extras at the counter, and inspect every scratch before driving off. For a ready-made itinerary through the region, see [Provence in 5 days](/france/provence-5-days/).
 
 **Côte d'Azur: beautiful with caveats**
 
@@ -79,9 +79,9 @@ The Riviera in July is a logistics puzzle wrapped in traffic and a €30 cocktai
 
 *Nice* is the best base on the coast for anything longer than a weekend. The old town (Vieux-Nice) has a real market and proper local food — *socca* (chickpea flatbread from a street stall, eat it hot), *pissaladière*, restaurants where the prix-fixe lunch is still €14. The promenade is beautiful and touristy; the streets two blocks back are a different city.
 
-*Antibes* is my personal preference. Smaller than Nice, walled old town right above the sea, a Picasso museum in the actual castle where he worked. The morning market at Marché Provençal is one of the better ones on the coast. It hasn't quite reached the tourist saturation of the bigger names, though give it time.
+*Antibes* is a favorite among the coastal towns for many visitors. Smaller than Nice, walled old town right above the sea, a Picasso museum in the actual castle where he worked. The morning market at Marché Provençal is one of the better ones on the coast. It hasn't quite reached the tourist saturation of the bigger names, though give it time.
 
-*Cannes* without the film festival is just a beach town. Perfectly pleasant, but nothing you can't find elsewhere. Monaco is worth an hour and a train ride from Nice to see the scale of it; I wouldn't plan more than that.
+*Cannes* without the film festival is just a beach town. Perfectly pleasant, but nothing you can't find elsewhere. Monaco is worth an hour and a train ride from Nice to see the scale of it — probably not more than that for most visitors.
 
 **Lyon: go here for the food, stay for everything else**
 
@@ -91,7 +91,7 @@ If there's an underrated major French city, Lyon is it. Two hours from Paris on 
 
 The old town, Vieux-Lyon, is a UNESCO site — Renaissance buildings in pink and orange, and *traboules*, which are covered passageways that cut through entire city blocks. You can spend an afternoon getting lost in them. The contemporary neighborhood of Confluence, where the Rhône and Saône rivers meet, has the nomad infrastructure: coworking spaces, good coffee, a younger crowd.
 
-Two days minimum. Ideally four. Honestly just move there for a month. For the specifics on where to eat, see my [Lyon food guide](/france/lyon-food-guide/).
+Two days minimum. Ideally four. For the specifics on where to eat, see the [Lyon food guide](/france/lyon-food-guide/).
 
 **Bordeaux and the Atlantic coast**
 
@@ -153,4 +153,4 @@ France rewards staying in one place for a week or more in ways that a fast trip 
 
 ---
 
-Questions? Drop me a line at hello@rumroom.world.
+Questions? Get in touch at hello@rumroom.world.
