@@ -2,7 +2,7 @@
 title: "The Amalfi Coast Without the Crush: When and Where"
 slug: amalfi-coast-crowds
 pubDate: 2026-09-21
-updatedDate: 2026-09-21
+updatedDate: 2026-09-24
 author: kseniia
 readingTime: 11
 description: "How to see Positano and the Amalfi Coast without spending the day in traffic — which months work, which town to base in, and why the bus beats the rental car."
@@ -18,143 +18,141 @@ cluster: italy/where-to-go
 affiliates: ["booking", "discoverCars", "wise"]
 ---
 
-The Amalfi Coast is genuine beauty and a genuine mess in summer. By July, the 60-kilometre stretch from Sorrento to Salerno chokes with tour buses, rental cars, and pedestrians shoulder-to-shoulder in Positano's narrow alleys. A 20-minute ferry ride becomes a 4-hour crawl on the SS163 coast road; parking costs €25–35 for the day and you'll circle for 45 minutes to find it. I lost two hours of a single day to the stretch between Amalfi and Positano, sitting still while scooters squeezed past.
+The Amalfi Coast is genuine beauty and a genuine mess in summer. By July, the 60-kilometre stretch from Sorrento to Salerno chokes with tour buses, rental cars, and pedestrians shoulder-to-shoulder in Positano's narrow alleys. A 20-minute ferry ride can beat a 2–4 hour crawl on the SS163 coast road; parking commonly costs €25–35 for the day, and finding a space can take 30–45 minutes.
 
-The good news: the coast has an almost secret rhythm. A handful of weeks each year, it works beautifully—no waiting, barely any crowds, and prices that reflect actual value.
+The good news: the coast has a quieter rhythm in the right weeks. A handful of stretches each year, it works beautifully — short waits, manageable crowds, and prices that reflect actual value.
 
 ## What High Season on the Amalfi Coast Actually Looks Like
 
-When people say the coast is "crowded," they're usually thinking July and August. Those months aren't just busy—they're gridlocked. Hotels are booked six months ahead, ferries run at full capacity, and the SS163 (the only road in and out) becomes a parking lot between 10 AM and 4 PM.
+When people say the coast is "crowded," they're usually thinking July and August. Those months aren't just busy — they're often gridlocked. Hotels are booked well ahead, ferries run at full capacity, and the SS163 (the only road in and out) tends to slow to a crawl between roughly 10 AM and 4 PM.
 
-I watched this unfold in real time: tour buses from Naples arrive in coordinated waves around 10–11 AM, and by noon, every public space in Positano is shoulder-to-shoulder tourists on phone calls. Restaurants serve lunch on picnic tables at the beach. The free beach sections fill by 8:30 AM.
+Tour buses from Naples typically arrive in coordinated waves around 10–11 AM, and by noon, central Positano is packed. Restaurants often serve lunch at outdoor tables on the beach. The free beach sections commonly fill by 8:30 AM.
 
-June and September share some of July's intensity—especially mid-June through mid-July, and early September. The difference is that parking is easier to find, buses don't require elbowing onto the vehicle, and you can actually sit at a table for more than 15 minutes without feeling rushed.
+June and September share some of July's intensity, especially mid-June through mid-July and early September. The difference is that parking is somewhat easier to find, buses aren't as consistently packed, and a sit-down meal doesn't feel rushed.
 
-The shoulder months (May, late September, October) are where the calculus changes entirely.
+The shoulder months (May, late September, October) are where the calculus changes.
 
 ## The Months That Actually Work
 
-**May** is the sweet spot if you can go. The water is warm enough to swim (around 20°C), the sun is reliable, and the crowds are a fraction of July's volume. Prices run 20–30% lower than peak season. I'd plan this month.
+**May** is generally the sweet spot for travelers who can be flexible. The water is warm enough to swim (around 18–20°C), the weather is typically reliable, and crowds are a fraction of July's volume. Prices commonly run 20–30% lower than peak season.
 
-**Early June** (before the 15th) is still manageable. After mid-June, it begins compressing.
+**Early June** (before the 15th) tends to still be manageable. After mid-June, crowd levels usually start climbing.
 
-**Late September and October** are the other window. The coast is genuinely pleasant—temperatures still comfortable (25–28°C in late September, dropping to 20°C by mid-October), and the chaos of summer has passed. Italian schoolchildren are back in lessons, so family tourism drops dramatically.
+**Late September and October** form the other good window. Temperatures are typically still comfortable (around 24–25°C in late September, cooling to around 20°C by mid-October), and the summer crowds have thinned. School being back in session for Italian families reduces family tourism significantly during these weeks.
 
-**June 16–30 and September 1–15** I'd avoid if the choice is yours. These are the compression weeks where peak season bleeds into shoulder season.
+**June 16–30 and September 1–15** tend to be worth avoiding if the schedule is flexible — these compression weeks sit between shoulder and peak season, often with peak-season crowding but shoulder-season pricing expectations.
 
 | **Month** | **Crowd Level** | **Water Temp** | **Avg. Price Range** | **Best For** |
 |-----------|-----------------|----------------|----------------------|--------------|
-| May | Light | 18–20°C | €70–110/night | Peak experience, lowest stress |
+| May | Light | 18–20°C | €70–110/night | Lower stress, good balance |
 | June 1–15 | Moderate | 22°C | €85–130/night | Good balance if timing works |
 | June 16–Aug | Heavy | 25–27°C | €120–200+/night | Accept the crowds or avoid |
-| Sept 1–15 | Moderate-Heavy | 24–25°C | €100–150/night | Doable if you skip midday activities |
-| Sept 16–30 | Light-Moderate | 23°C | €80–120/night | Very good; underrated month |
-| October | Light | 20–21°C | €70–100/night | Excellent; slightly chilly water |
+| Sept 1–15 | Moderate-Heavy | 24–25°C | €100–150/night | Doable if midday activities are skipped |
+| Sept 16–30 | Light-Moderate | 23°C | €80–120/night | Often underrated |
+| October | Light | 20–21°C | €70–100/night | Good value, slightly cooler water |
 
-The data is rough—pricing varies wildly by specific town and booking date—but the pattern holds year after year.
+Pricing varies widely by specific town and booking date, but the seasonal pattern above holds fairly consistently year after year.
 
 ## Where to Stay: Positano vs Amalfi vs the Others
 
-Your base town shapes whether the crowds feel manageable or suffocating. Here's the honest breakdown:
+The choice of base town shapes whether the crowds feel manageable or overwhelming.
 
-**Positano** is the Instagram capital: vertical pastel buildings, clifftop cafés, pure visual drama. It's also the priciest, steepest (hundreds of stairs between the seafront and the main road), and most crowded. Hotels start around €120/night in shoulder season and easily exceed €250 in July. If you're staying to experience Positano itself, go. But if you're hoping to day-trip to nearby beaches or Capri without fighting crowds, this base amplifies the stress.
+**Positano** is the postcard town: vertical pastel buildings, clifftop cafés, striking views. It's also the priciest, steepest (hundreds of stairs between the seafront and the main road), and most crowded. Hotels typically start around €120/night in shoulder season and can easily exceed €250 in July. Staying here makes sense for travelers prioritizing Positano itself, but it amplifies the stress of day-tripping to nearby beaches or Capri.
 
-**Amalfi** is the functional hub. The town sits flat on the shoreline, so no stair climbing. Ferries depart from Amalfi (to Positano, Capri, Salerno, and occasionally Naples). SITA buses begin and end their runs here, which means you can catch them before they're packed. The cathedral is genuinely worth seeing. Prices are 20–30% below Positano (€70–120/night in shoulder season). If I were planning this from scratch, I'd base in Amalfi and walk to Positano as a day trip.
+**Amalfi** functions as the practical hub. The town sits flat on the shoreline, so there's no stair climbing. Ferries depart from Amalfi (to Positano, Capri, Salerno, and occasionally Naples), and SITA buses begin and end their runs here, which improves the odds of a seat. The cathedral is genuinely worth seeing. Prices typically run 20–30% below Positano (€70–120/night in shoulder season). Basing in Amalfi and treating Positano as a day trip is a reasonable strategy.
 
-**Ravello** is the escape option. Sit 350 metres above the coast, so no sea views from town, but the Villa Rufolo and Villa Cimbrone gardens are world-class, and the acoustic setting makes it a venue for summer music festivals. It's quiet—deliberately so. You need a bus or scooter to reach the coast, but you also get away from the density. Prices are lower (€60–100/night).
+**Ravello** sits about 350 metres above the coast, so there are no sea views from town, but the Villa Rufolo and Villa Cimbrone gardens are excellent, and the setting hosts summer music festivals. It's deliberately quiet. A bus or scooter is needed to reach the coast, but it also means less density. Prices run lower (€60–100/night).
 
-**Praiano** is between Positano and Amalfi on the road. Cheaper than Positano, quieter, and with fewer services. It's a reasonable compromise.
+**Praiano**, between Positano and Amalfi, is cheaper and quieter, with fewer services — a reasonable middle-ground option.
 
-**Minori and Maiori** are the budget bases: flat, charming, least photogenic, €50–80/night. They're where Italian families who know the coast actually stay. My take: they lack the drama of Positano, but they also lack the exhaustion.
+**Minori and Maiori** are budget bases: flat, charming, less dramatic visually, and typically €50–80/night — the kind of towns Italian families who know the coast tend to favor. They lack Positano's drama but also its exhaustion.
 
-**Salerno** is 40 kilometres south. It's a real city (not a village), with urban amenities and a proper waterfront. Prices are the lowest on the coast (€50–90/night). Ferries still run to Positano and Amalfi. If you want a base that doesn't feel staged for tourism, this is it.
+**Salerno**, about 40 kilometres south, is a real city rather than a village, with urban amenities and a proper waterfront. Prices are typically the lowest on the coast (€50–90/night), and ferries still run to Positano and Amalfi — a solid option for anyone who doesn't want a base that feels built entirely around tourism.
 
-Choose your base on two criteria: (1) How much do you value being physically in Positano vs. seeing it as a day trip? and (2) How important is ease of transport to you? Most people overrate Positano as a base. Use [Booking.com](https://www.booking.com/searchresults.html?ss=Amalfi%20Coast) to compare prices and read reviews; many note crowd and noise issues by season.
+Two questions help narrow the choice: how much does being physically in Positano matter versus seeing it as a day trip, and how important is ease of transport? Positano is often overrated as a base for travelers on a tighter schedule. [Booking.com](https://www.booking.com/searchresults.html?ss=Amalfi%20Coast) is useful for comparing prices and reading reviews, many of which note crowd and noise issues by season.
 
-## Why Driving Is the Worst Option (and Parking Proves It)
+## Why Driving Is Usually the Worst Option (and Parking Proves It)
 
-If you're thinking about renting a car on the Amalfi Coast, stop. Really consider whether this is worth it.
+Renting a car for the Amalfi Coast itself is worth reconsidering carefully.
 
-The SS163 is a feat of engineering—a narrow cliff road with hairpin turns, no shoulders, and oncoming traffic in both directions. In May or October, it's scenic. In July, it's white-knuckle stress while sitting still. A 20-kilometre drive between towns takes 45 minutes to 2 hours depending on the season and your nerve.
+The SS163 is a feat of engineering — a narrow cliff road with hairpin turns, minimal shoulders, and oncoming traffic in both directions. In May or October it's scenic; in July it can mean long stretches of sitting still. A 20-kilometre drive between towns can take anywhere from 45 minutes to 2 hours depending on season and traffic.
 
-Parking is the real killer. Every town has a shortage. Positano in particular has a fraction of the spaces it would need on a peak-season afternoon. You'll pay €3–5 per hour or €25–35 for the day (2026 estimates). Often you'll search for 30–45 minutes before finding a space. Rental car agencies charge €25–40/day for vehicle hire (affiliate link coming soon for rental comparison sites), which doesn't include fuel, tolls, or the mental load of navigating hairpins in a manual transmission hatchback while tour buses squeeze past.
+Parking is the real constraint. Every town has a shortage of spaces, and Positano in particular has far fewer spots than demand on a peak-season afternoon. Expect to pay €3–5 per hour or €25–35 for the day, often after a 30–45 minute search. Rental agencies typically charge €25–40/day for a vehicle, on top of fuel, tolls, and the demands of driving hairpin turns in traffic.
 
-Quick tip: the bus is cheaper, less stressful, and frees you to watch the coast instead of the road.
+There's also a driving restriction worth knowing about regardless of season: the **SS163 has an odd/even license plate rule (targhe alterne)** covering the stretch from Vietri sul Mare to Positano. On odd-numbered calendar dates, only odd-numbered plates may drive the road; on even dates, only even plates — enforced 10 AM–6 PM during specific periods (long holiday weekends, weekends and holidays in June–July and October, and every day in August–September). Rental cars are not automatically exempt, and fines for violating it run roughly €87–344, typically billed to the rental company and passed on to the renter. Hotel guests with confirmed bookings can often request a temporary permit through their accommodation; otherwise, checking the current year's restriction calendar before driving the SS163 is worth the five minutes it takes.
 
-Scooters are popular with younger tourists, but they carry obvious risks on a narrow cliff road, especially if you're unfamiliar with Italian traffic patterns.
+Given all this, the bus is generally cheaper, less stressful, and allows actually looking at the coast instead of the road.
 
-## SITA Buses, Ferries, and the Timing That Actually Works
+Scooters are popular with younger travelers, but carry real risk on a narrow cliff road, particularly for anyone unfamiliar with Italian traffic patterns.
 
-Public transport on the Amalfi Coast is reliable and affordable. Here's how to use it without the frustration.
+## SITA Buses, Ferries, and the Timing That Works
 
-**SITA Sud buses** run the length of the coast. You buy tickets at *tabaccherie* (small tobacco/news kiosks), bars, or small shops—not from the driver. Tickets cost around €2.50–3.50 per journey within the coast (e.g., Amalfi to Positano). Validate the ticket when you board. During peak season (July–August), buses fill from the starting point (Sorrento or Amalfi) and standing is normal. The timing advantage: if you board at Amalfi rather than Sorrento, you're guaranteed a seat part of the journey.
+Public transport on the Amalfi Coast is generally reliable and affordable.
 
-My tip: board early in the morning (before 9 AM) or late afternoon (after 4 PM) if you want to sit. Midday is genuinely packed.
+**SITA Sud buses** run the length of the coast. Tickets are bought at *tabaccherie* (small tobacco/news kiosks), bars, or small shops — not from the driver — and cost roughly €1.50–3.50 per journey within the coast (for example, Amalfi to Positano runs around €2.40). Validate the ticket when boarding. During peak season (July–August), buses commonly fill from the starting point (Sorrento or Amalfi), and standing is normal; boarding at Amalfi rather than Sorrento improves the odds of a seat for part of the journey.
 
-**Ferries** run April through October (roughly), with reduced frequency in May and late September–October. Ferries to Capri, Positano, and Amalfi depart from various docks; the Amalfi and Positano ferries are most frequent. A one-way ticket is around €10–15 depending on the route. Ferries are weather-dependent; rough seas can mean cancellations with little notice. Check with your hotel the night before if you're planning a specific boat.
+Boarding early in the morning (before 9 AM) or late afternoon (after 4 PM) generally means a better chance of sitting down. Midday tends to be the most packed.
 
-Ferries are excellent for Capri day trips (30–45 minutes from Positano or Amalfi) and for reaching Salerno if you want to explore south. They're also a scenic alternative to the bus.
+**Ferries** run roughly April through October, with reduced frequency in May and late September–October. Routes to Capri, Positano, and Amalfi depart from various docks, with Amalfi and Positano being the most frequent departure points. A one-way ticket typically runs around €10–15 depending on the route. Ferries are weather-dependent, and rough seas can mean short-notice cancellations — checking with accommodation the night before a planned ferry trip is a sensible precaution.
 
-**The practical rhythm:** In shoulder months (May, late Sept–Oct), take ferries whenever they align with your schedule—you get views, no traffic, and no stress. In peak season (July–August), plan bus journeys for early morning or evening, and accept ferry cancellations as real risk.
+Ferries work well for Capri day trips (roughly 30–45 minutes from Positano or Amalfi) and for reaching Salerno, and offer a scenic alternative to the bus.
+
+**A practical rhythm:** in shoulder months (May, late Sept–Oct), ferries are worth using whenever schedules align, since they offer good views with no traffic. In peak season (July–August), planning bus journeys for early morning or evening, and treating ferry cancellations as a real possibility, both help.
 
 ## Day Trips Worth the Logistics
 
-**Capri** by ferry is a single-day option: 30–45 minutes from Positano or Amalfi, then a full day exploring the island. The catch: tour boats arrive in coordinated waves around noon, packing the town square and small beaches. Go early—take a 7:30 or 8 AM ferry—and leave by 3 PM to avoid the worst density.
+**Capri** by ferry works well as a single-day trip: roughly 30–45 minutes from Positano or Amalfi, then a full day on the island. Tour boats tend to arrive in coordinated waves around noon, crowding the town square and small beaches — an early ferry (around 7:30–8 AM) and leaving by 3 PM generally avoids the worst of it.
 
-The island is small (10 square kilometres), so you can walk most attractions: the central piazza, the steps down to Marina Piccola beach, and a short walk to the blue grotto access point (note: the blue grotto itself requires a separate boat ride and is crushingly crowded; skip it).
+The island is small (about 10 square kilometres) and walkable: the central piazza, the steps down to Marina Piccola beach, and a short walk to the blue grotto access point (the blue grotto itself requires a separate boat ride and tends to be extremely crowded — often not worth the wait).
 
-Cost: ferry €10–15 return, lunch €20–30, maybe €5 for a coffee. You could do Capri for €40–50 and come back without spending heavily.
+A rough day budget: ferry €10–15 round trip, lunch €20–30, coffee around €5 — roughly €40–50 total for a day trip without major splurges.
 
-**Pompeii and Herculaneum** are reached via the Circumvesuviana train, which departs from Sorrento (30 minutes from the coast via SITA bus) and takes 45 minutes to Pompeii, or about an hour to Herculaneum. The train is famously crowded and slow—it's a regional train, not a fast service—but it's functional and costs around €2.50–3.50 one-way.
+**Pompeii and Herculaneum** are reached via the Circumvesuviana train from Sorrento (about 30 minutes from the coast via SITA bus), which takes roughly 45 minutes to Pompeii or about an hour to Herculaneum. The train is a slow regional service and often crowded, but functional, and costs around €2.50–3.50 one-way.
 
-Herculaneum is smaller, often less packed than Pompeii, and arguably better preserved (because the pyroclastic flow mummified rather than buried the town). If time is tight, do Herculaneum. Entrance fees are around €13 for a site ticket.
+Herculaneum tends to be smaller and less packed than Pompeii, and is often considered better preserved, since the pyroclastic flow that buried it mummified rather than crushed the site. For a tighter schedule, Herculaneum is a reasonable choice. Entrance runs around €13 for a site ticket.
 
-This is a full-day excursion: 1 hour travel, 2–3 hours on-site, 1 hour return.
+This makes for a full-day excursion: roughly an hour travel each way, plus 2–3 hours on-site.
 
-**The Path of the Gods (Sentiero degli Dei)** is a 7.5-kilometre walk from Bomerano (in Agerola, above the coast) to Nocelle (above Positano), descending through lemon groves and coastal views. The walk takes 3–4 hours, is non-technical, and skips the crowds entirely.
+**The Path of the Gods (Sentiero degli Dei)** is a roughly 7.5-kilometre walk from Bomerano (in Agerola, above the coast) to Nocelle (above Positano), descending through lemon groves with coastal views. The walk takes about 3–4 hours, is non-technical, and largely avoids the crowds.
 
-You need to arrange transport: bus from Amalfi or Positano up to Agerola, then arrange a return from Positano. It's logistics-heavy but genuinely rewarding, especially in May or September when you won't overheat.
-
-This is where the Amalfi Coast reveals itself as more than a postcard—as a lived landscape.
+It requires arranging transport: a bus from Amalfi or Positano up to Agerola, then transport back from Positano at the end. It's logistics-heavy, but often considered one of the more rewarding things to do on the coast, particularly in May or September when overheating is less of a risk.
 
 ## Beaches: Free vs Paid, and What a Lettino Costs
 
-Most Amalfi Coast beaches are pebble, not sand. Free public sections (spiaggia libera) exist alongside paid beach clubs where you rent a sunbed and umbrella (lettino e ombrellone).
+Most Amalfi Coast beaches are pebble rather than sand. Free public sections (spiaggia libera) exist alongside paid beach clubs renting sunbeds and umbrellas (lettino e ombrellone).
 
-A lettino + ombrellone costs €15–25 per day at smaller beach clubs, rising to €30–40+ near Positano. You're often buying beach access and parking in the same transaction. Many small beach clubs serve drinks and lunch at table service—this can add €40–60 to your day, or you can bring your own sandwich.
+A lettino plus ombrellone typically costs €15–25 per day at smaller beach clubs, rising to €30–40+ near Positano — often bundling beach access with parking. Many beach clubs offer table service for drinks and lunch, which can add €40–60 to the day, or a packed lunch can be brought instead.
 
-The free sections are genuinely free but have no facilities, limited shade, and pebbles (which hurt). Honestly: if you're spending a full day, rent a lettino. It costs less than you think (€20–25 estimate) and beats sitting on rocks.
+Free sections have no facilities, limited shade, and pebbles that can be uncomfortable underfoot. For a full beach day, renting a lettino (roughly €20–25) is often more comfortable than sitting on rocks all day.
 
-For beaches specifically, Praiano's Spiaggia Grande and Marina Grande are less crowded than Positano's central beach in shoulder season. Minori has a small free beach with rental options. Maiori's beach is the flattest and least dramatic.
+Praiano's Spiaggia Grande and Marina Grande tend to be less crowded than Positano's central beach in shoulder season. Minori has a small free beach with rental options. Maiori's beach is the flattest and least dramatic of the group.
 
-Bring water shoes for pebble beaches. And bring a dry bag if you're traveling with valuables—beach theft happens, and leaving your phone unattended on a pebble is not recommended.
+Water shoes are worth packing for pebble beaches, along with a dry bag for valuables — beach theft does happen, and an unattended phone on a pebble beach is a real risk.
 
 ## Two Days That Don't Involve the Coast Road at All
 
-If you want to escape the coast rhythm entirely:
+For travelers wanting to step outside the coast's usual rhythm:
 
-**Day 1: Ravello + the Scala walk.** Stay or arrive in Ravello (45 minutes by bus from Amalfi). Spend the morning in the Villa Rufolo gardens, have lunch in the town center, then walk the 3-kilometre coastal path from Ravello to Scala, descending lemon groves and arriving at a small village with views across the Tyrrhenian Sea. It's quiet, genuinely beautiful, and the only crowds are occasional walkers.
+**Day 1: Ravello + the Scala walk.** Arrive in Ravello (about 45 minutes by bus from Amalfi), spend the morning in the Villa Rufolo gardens, have lunch in the town center, then walk the roughly 3-kilometre coastal path from Ravello to Scala, descending through lemon groves to a small village with views across the Tyrrhenian Sea. It's quiet, with only occasional other walkers.
 
-**Day 2: The Amalfi interior.** Rather than the coast road, explore the minor roads inland: from Amalfi, drive or bus inland to Furore, then loop back toward Salerno via Praiano. This route stays off the SS163, offers views of the interior, and is where locals actually live. Stops at small cafés, not Instagram restaurants.
+**Day 2: The Amalfi interior.** Rather than the coast road, minor inland roads from Amalfi lead to Furore and loop back toward Salerno via Praiano. This route avoids the SS163 entirely, offers interior views, and passes through areas where locals actually live day to day — small cafés rather than tourist-oriented restaurants.
 
-These days are about presence rather than coverage.
+These two days trade sightseeing coverage for a slower, more local pace.
 
-## My Honest Take
+## The Bottom Line
 
-The Amalfi Coast is worth seeing. The light, the architecture, the food—it's real and not manufactured. But I'll be direct: much of what makes it famous on Instagram is the *exclusivity* of the views, which evaporates when you're standing elbow-to-elbow with 200 other tourists.
+The Amalfi Coast is worth seeing — the light, the architecture, the food are genuinely distinctive. But much of what makes it famous in photos is the sense of exclusivity in the views, which fades when standing shoulder-to-shoulder with hundreds of other visitors.
 
-The coast is genuinely worth a visit if you go in May or late September. If you can only travel in July or August, it's *still* worth visiting—but understand you're buying into the tourism experience, not the Amalfi Coast itself. You'll see the same sights but filtered through crowds, heat, and effort.
+The coast is at its best in May or late September. Visiting in July or August is still worthwhile, but it means buying into a more crowded, higher-effort version of the experience — the same sights, filtered through heat, traffic, and waiting.
 
-Here's what I wouldn't do: I wouldn't base myself in Positano if I had limited time; I wouldn't rent a car; I wouldn't visit on a package tour that coordinates your ferry/bus timing with 500 others; and I wouldn't spend €250+/night on accommodation expecting solitude. That version of the trip isn't worth the money or the stress.
+Generally worth avoiding: basing in Positano on a tight schedule, renting a car for the coast road itself, joining a package tour that coordinates ferry and bus timing with a large group, and expecting solitude from a €250+/night stay in peak season — none of that combination tends to deliver good value for the stress involved.
 
-What I would do: fly into Naples, take the train to Sorrento or Salerno, choose May or late September, base in Amalfi or Ravello, take the ferry to Capri on a clear day, walk the Path of the Gods at sunrise, and let the pace find you instead of running toward it.
+A more reliable formula: fly into Naples, train to Sorrento or Salerno, aim for May or late September, base in Amalfi or Ravello, take the ferry to Capri on a clear day, and walk the Path of the Gods early in the day.
 
-The coast rewards patience and flexibility. If you have either, it's one of the most memorable places in Italy.
+The coast rewards patience and flexibility — with either, it's one of the more memorable stretches of coastline in Italy.
 
 ---
 
-Travel safe, and let me know if you end up in Ravello. Honestly, I'd love to know whether May worked as cleanly as I've described.
+For more on Italian travel, check out the [Italy guide](/pillars/italy/) for regional breakdowns, or explore the [two-week Italy itinerary](/italy/italy-2-week-itinerary/) for a longer trip. For traveling between regions, the [Italy by train](/italy/italy-train-travel/) piece covers how the rail network works.
 
-For more on Italian travel, check out the [Italy guide](/pillars/italy/) for regional breakdowns, or explore the [two-week Italy itinerary](/italy/italy-2-week-itinerary/) if you're planning a longer trip. If you're traveling between regions, the [Italy by train](/italy/italy-train-travel/) piece covers how the rail network actually works.
-
-**On euros and cards:** If you're traveling internationally, [Wise](https://wise.com/invite/irhc/kseniias372) charges fair exchange rates for withdrawals and card payments, and you can see the real EUR/your-currency rate before you commit. Many Italian beach clubs and smaller bars on the coast prefer cash. Budget roughly €40–50 in cash per day for beach clubs, buses and small bars — and withdraw in larger amounts less often, since ATM fees run around €3–5 a time. If a card terminal offers to charge you in your home currency, decline and pay in euros.
+**On euros and cards:** [Wise](https://wise.com/invite/irhc/kseniias372) offers the mid-market exchange rate for withdrawals and card payments, showing the real EUR/home-currency rate before committing to a purchase. Many Italian beach clubs and smaller bars on the coast prefer cash — budgeting roughly €40–50 in cash per day for beach clubs, buses, and small bars, and withdrawing in larger amounts less often, helps avoid repeated ATM fees (commonly €3–5 per withdrawal). If a card terminal offers to charge in a home currency rather than euros, declining and paying in euros avoids an unfavorable conversion rate.
