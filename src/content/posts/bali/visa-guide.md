@@ -3,7 +3,7 @@ title: "Bali Visa Guide 2026: VOA, B211A, KITAS Compared"
 description: "All Bali visa options for 2026 — VOA, e-VOA, B211A, KITAS, Digital Nomad. Costs, pitfalls, and which one fits your trip."
 slug: "visa-guide"
 pubDate: 2026-05-01
-updatedDate: 2026-05-01
+updatedDate: 2026-09-24
 cluster: "bali/practical"
 primaryKeyword: "bali visa guide"
 secondaryKeywords: ["bali visa on arrival", "bali visa for digital nomads", "B211A visa", "bali KITAS", "indonesia visa for americans"]
@@ -19,19 +19,21 @@ tags: ["bali", "visa", "practical", "digital-nomad", "guides"]
 affiliates: ["safetywing", "ivisa", "wise", "airalo"]
 ---
 
-Look, I'm not going to lie — visa-googling is literally the most boring part of trip prep. But here's the thing: spend 20 minutes reading this **bali visa guide** and you'll save yourself hours of scrolling Reddit threads and clicking sketchy agency sites. In 2026, the rules got slightly clearer (thank goodness), but there are still plenty of pitfalls: wrong visa type, overstays, shady middlemen, and that one fee nobody tells you about. I've pulled together every real option, actual prices, and what I'd actually pick based on how long you're staying.
+Visa-googling is easily the most boring part of trip prep. But spend 20 minutes reading this **bali visa guide** and you'll save yourself hours of scrolling Reddit threads and clicking sketchy agency sites. In 2026, the rules are somewhat clearer than they used to be, but there are still plenty of pitfalls: wrong visa type, overstays, shady middlemen, and fees that aren't always obvious upfront. Below is every current option, approximate prices, and which one fits which kind of trip.
 
 ## Quick hits: Which visa for you?
 
 - **Just visiting 2-4 weeks?** → VOA or e-VOA. Fastest, cheapest, done.
-- **Staying 2-6 months, want flexibility?** → B211A. The real digital nomad's choice (honestly).
+- **Staying 2-6 months, want flexibility?** → B211A. The most flexible option for that range.
 - **Moving to Bali for real?** → KITAS. It's legit residency.
 - **Remote worker with proof of income?** → Remote Worker KITAS (E33G). Newer, but real.
 - **Working a Bali job?** → Working visa. Different rules entirely.
 
 ## Currency note
 
-All prices are in USD. IDR rates hover around 15,500–16,000 per dollar as of 2026, but I'm using round numbers to keep it simple. If you're paying in rupiah, just multiply by the current rate.
+All prices are in USD. IDR rates hover around 15,500–16,000 per dollar as of 2026, but round numbers are used here to keep things simple. If you're paying in rupiah, multiply by the current rate.
+
+Note: Indonesia's immigration directorate proposed raising visa-on-arrival fees in August 2026 (to roughly IDR 750,000 for e-VOA and IDR 1,000,000 for airport VOA), but as of September 2026 no effective date has been set and the official fee remains IDR 500,000. Check [imigrasi.go.id](https://www.imigrasi.go.id) before you travel in case that changes.
 
 ---
 
@@ -52,12 +54,18 @@ The only countries that get visa-free entry to Indonesia are a handful of Southe
 
 ---
 
+## The Bali Tourist Levy (separate from your visa)
+
+Since February 2024, all international visitors to Bali must also pay the **Bali Tourist Levy (Pungutan Wisatawan Asing)** of IDR 150,000 (roughly $10), on top of whatever visa fee applies. It funds cultural and environmental protection programs and is unrelated to your visa type. Pay it in advance at the official portal, [lovebali.baliprov.go.id](https://lovebali.baliprov.go.id/), or at counters on arrival; keep the QR confirmation in case it's checked.
+
+---
+
 ## The 5 Bali visa options, compared
 
 | **Visa Type** | **How long** | **Can extend?** | **Cost** | **How to get it** | **Best for** |
 |---|---|---|---|---|---|
 | VOA / e-VOA | 30 days | +30 days (1x) = 60 max | $35 + $35 | Airport or online | Short trips, tourists |
-| B211A | 60 days | Up to 4x (180 days total) | $150–200 + $50–70 per extend | Online or agency | 2–6 months |
+| B211A | 60 days | Up to 2x (180 days total) | $150–200 + ~$125–150 per extend | Online or agency | 2–6 months |
 | KITAS (Remote Worker / E33G) | 1 year | Renew annually | ~$430–700 | Agency + sponsor | Digital nomads, $60k+/year income |
 | KITAS (Standard) | 6–12 months | Annually | $1,200+ | Employer/agency | Work permits, students, family sponsorship |
 | Working Visa | 1 year | Annually | Varies | Indonesian employer | Employed by local company |
@@ -68,9 +76,9 @@ The only countries that get visa-free entry to Indonesia are a handful of Southe
 
 This is the tourist visa everyone talks about. You either grab it at the airport (VOA) or order it online before you fly (e-VOA). Both are the same 30-day tourist entry — the difference is just convenience.
 
-### The e-VOA route (my pick)
+### The e-VOA route (generally the easier option)
 
-Honestly, just do e-VOA. You skip the airport queues entirely, and I learned at age 25 (okay, fine, I was older) that those lines in Denpasar can eat up 2 hours in peak season. For $35, you avoid all that stress.
+e-VOA tends to be the smoother path. You skip the airport queues entirely — lines at Denpasar immigration can run up to 2 hours in peak season. For a similar fee, you avoid that wait.
 
 **Step-by-step:**
 
@@ -133,7 +141,7 @@ One extension only. After 30 days, you can add 30 more — but that's the cap. Y
 
 This is for people who want to stay **2–6 months** and don't want to keep renewing every month. It's a 60-day entry, but you can extend it up to 4 times (each time adding 60 days), for a total of 180 days.
 
-Honestly, this is the real digital nomad visa in 2026, even though they don't call it that. I always recommend this one, but I also quietly worry that if too many people find out how easy it is, Bali will just become even more crowded.
+This functions as the de facto digital-nomad visa in 2026, even though it isn't officially marketed that way. It's a common choice for stays of 2–6 months, though official rules technically restrict work to non-Indonesian employers or clients (see the gray-area note below).
 
 ### How to get it
 
@@ -142,7 +150,7 @@ You can't get B211A at the airport. You need to apply **before you arrive** thro
 2. **Indonesian immigration portal** (cheapest, requires more patience)
 3. **A Bali-based visa agent** once you're there (risky timing-wise)
 
-**Using iVisa** (recommended for POC — this is the affiliate link I trust):
+**Using iVisa** (a commonly used agency for B211A applications):
 
 1. Go to **iVisa.com**, select B211A visa, enter your details
 2. Upload passport and photo
@@ -158,11 +166,11 @@ You can't get B211A at the airport. You need to apply **before you arrive** thro
 
 ### Extensions
 
-After your initial 60 days, you can extend up to 4 times. Each extension adds another 60 days.
+After your initial 60 days, you can extend up to 2 times. Each extension adds another 60 days, for a maximum stay of 180 days.
 
-**Cost per extension:** $50–70 (totals $200–280 for 4 extensions)
+**Cost per extension:** roughly IDR 2,000,000 (~$125–150), combining the government fee and processing
 
-**Total B211A cost for 6 months:** $150–200 initial + ~$250 in extensions = **~$400–450**
+**Total B211A cost for 180 days:** $150–200 initial + ~$250–300 in extensions = **~$400–500**
 
 **First extension (day 60):** You must go in person to the immigration office with:
 - Passport
@@ -170,7 +178,7 @@ After your initial 60 days, you can extend up to 4 times. Each extension adds an
 - Extension form (they provide it)
 - Fingerprints (they'll scan them there)
 
-**Subsequent extensions (2–4):** Can sometimes be done through an agency if they have your info, but it's safer to go in person.
+**Second extension:** Some agencies can process it on your behalf if they already have your file, but going in person is more reliable.
 
 ---
 
@@ -243,10 +251,10 @@ If you're employed by an Indonesian company, you need a **working visa**, not a 
 
 This is the big one. Every year, hundreds of tourists accidentally (or deliberately) overstay and then panic at the airport.
 
-**The fine:** $70 USD (~1.1 million IDR) **per day** of overstay.
-**The consequence:** Deportation, entry ban for 1–5 years depending on how many days over.
+**The fine:** IDR 1,000,000 per day (roughly $60–65 at current exchange rates), under Government Regulation No. 28/2019.
+**The consequence:** Under 60 days overstay is typically handled as an administrative violation — pay the fine before you fly out. At 60 days or more, it becomes a criminal matter: mandatory deportation and an entry ban that can run from 6 months up to 10 years.
 
-Example: 5 days over = $350 fine + immediate deportation + banned re-entry.
+Example: 5 days over ≈ $300–325 in fines, payable at the airport before departure. ([source](https://xpnd.co.id/blogs/overstay-penalties-indonesia/))
 
 → **Don't be cute.** Bali is amazing, but it's not worth a $500 fine and being banned.
 
@@ -270,7 +278,7 @@ Bali has thousands of visa agencies. Some are legit; some will take your money a
 - No reviews or online presence
 - Won't give you an invoice
 
-**What I'd actually do:** Use iVisa or a Google-reviewed Bali agency with 4.5+ stars and an actual office in Denpasar.
+A safer approach: use a well-reviewed agency (4.5+ stars) with a physical office in Denpasar, or a recognized platform like iVisa.
 
 ### Missed visa deadlines
 
@@ -313,7 +321,7 @@ If you need to extend VOA, B211A, or sort out any visa issue, here are the offic
 
 Here's something people don't talk about enough — you need **travel insurance** before you fly, and immigration doesn't care if you're covered. Most travel insurance doesn't cover COVID-related issues anymore, but it *does* cover accidents, hospitalizations, and evacuation.
 
-I recommend **SafetyWing** for digital nomads and long-stay travelers. It's affordable ($60/month), covers medical expenses up to $250k, and works in Indonesia. Get it *before* you board the plane — claims are iffy if you apply after arrival.
+**SafetyWing** is a widely used option for digital nomads and long-stay travelers. It's relatively affordable (around $60/month), covers medical expenses up to $250k, and works in Indonesia. Get it *before* you board the plane — claims are typically harder to process if you apply after arrival.
 
 **For US travelers specifically:** SafetyWing is often cheaper than traditional travel insurance and doesn't require a US address.
 
@@ -331,7 +339,7 @@ You save 10–15% with Wise on large amounts.
 
 ---
 
-## Honest take: Which visa would I actually pick?
+## The Bottom Line: Which Visa Fits Your Trip
 
 Depends entirely on how long you're staying:
 
@@ -339,10 +347,10 @@ Depends entirely on how long you're staying:
 → **e-VOA.** $35, zero stress, done in 2 days online. You're literally just here to swim and eat nasi goreng.
 
 ### 1–3 months (longer vacation / first digital nomad test)
-→ **B211A.** $150–200 upfront, can extend once to 120 days for another $35–50. It's the sweet spot. Less commitment than KITAS, more flexibility than VOA.
+→ **B211A.** $150–200 upfront, extendable up to two times (max 180 days) for roughly $125–150 per extension. It's the sweet spot: less commitment than KITAS, more flexibility than VOA.
 
 ### 3–6 months (sabbatical / serious remote work)
-→ **B211A with extensions.** Total ~$400, lets you stay a full half-year legally-ish (working for foreign clients is the gray zone, but accepted practice). Or if you have $60k+ verified income and want to be 100% legit, **Remote Worker KITAS.**
+→ **B211A with extensions.** Total ~$400–500, covers a full half-year (working for foreign clients sits in a gray zone that's widely tolerated, though not officially sanctioned). Or, with $60k+ verified income and a preference for full legal clarity, **Remote Worker KITAS.**
 
 ### 6+ months / moving for real
 → **Remote Worker KITAS** (if you're a digital nomad) or **Standard KITAS** (if you're employed). It's your actual residency, not a tourist visa. You're building a life here, not just passing through.
@@ -361,22 +369,22 @@ No. You must have either a visa approval (e-VOA, B211A) *before* arrival, or you
 30 days initially. You can extend once for another 30 days (60 total maximum). After that, you need a different visa type.
 
 **Can I stay on B211A for 6 months?**
-Yes. B211A gives you 60 days, extendable up to 4 times (every 60 days). Total = 60 + 60 + 60 + 60 + 60 = 300 days (almost 10 months). But typically people extend 3–4 times for a 180–240 day stay.
+Yes. B211A gives you 60 days, extendable up to 2 times (every 60 days). Total = 60 + 60 + 60 = 180 days (6 months), which is the maximum for this visa type.
 
 **What's the cheapest way to stay on Bali for 3 months?**
-B211A. ~$150 initial + $50 for one extension = $200 total for 120 days. That's the budget option. (Remote Worker KITAS is legal but pricier at $400+.)
+B211A. ~$150 initial + ~$125–150 for one extension = ~$275–300 total for 120 days. That's the budget option. (Remote Worker KITAS is legal but pricier at $430+.)
 
 **If I overstay my visa, what happens?**
-Fine of $70 USD per day + immediate deportation + entry ban (1–5 years depending on days overstayed). It's not worth it.
+A fine of IDR 1,000,000 (roughly $60–65) per day. Under 60 days, it's usually an administrative fine paid at departure; 60 days or more turns it into a criminal matter with mandatory deportation and an entry ban of 6 months to 10 years. It's not worth it.
 
 **Can I work a local job on a tourist visa?**
 No. Technically you can't work for Indonesian companies or take local employment on VOA or B211A. If you work remotely for foreign clients, it's in a gray area (widely ignored by immigration, but technically not allowed). If you want full legal cover, use Remote Worker KITAS.
 
 **What's an eSIM and do I need one?**
-An eSIM is a digital SIM card you activate before arrival. Instead of buying a local Indonesian SIM at the airport, you can pre-order an Indonesian eSIM through **Airalo**. It gives you data immediately on landing, no queue, no hassle. Costs $5–15 depending on data. I recommend it for the first 2 weeks while you settle in.
+An eSIM is a digital SIM card you activate before arrival. Instead of buying a local Indonesian SIM at the airport, you can pre-order an Indonesian eSIM through **Airalo**. It gives you data immediately on landing, no queue, no hassle. Costs $5–15 depending on data — a reasonable option for the first week or two while settling in.
 
 **Can I extend my visa indefinitely?**
-No. VOA maxes out at 60 days (one extension). B211A maxes out at 180–300 days depending on how many extensions you do (usually 4–5 extensions is the realistic cap). After that, you leave and re-enter with a fresh visa, or switch to KITAS.
+No. VOA maxes out at 60 days (one extension). B211A maxes out at 180 days (two extensions). After that, you leave and re-enter with a fresh visa, or switch to KITAS.
 
 **Do I need travel insurance?**
 Yes, absolutely. Indonesian healthcare is good, but it's not free. SafetyWing covers medical up to $250k and costs ~$60/month. Get it before you fly.
@@ -389,11 +397,11 @@ In 2026, getting into Bali is straightforward if you know what you're doing. The
 
 **The bottom line:** Don't overthink it. Pick your visa type based on how long you're staying, apply online, and move forward. Bali is worth every bit of this paperwork.
 
-Want my personal spreadsheet of visa agencies I've actually used and Bali cost breakdowns? Just drop me a line at **hello@rumroom.world** — I'll send it over.
+Have a specific situation this guide doesn't cover? Reach out at **hello@rumroom.world**.
 
 ---
 
 **Author bio**
 
-Kseniia is a travel writer and digital nomad who's spent the last 5+ years exploring Southeast Asia, Eastern Europe, and beyond. She's written extensively about visa processes, long-term travel, and the reality of nomadic life (spoiler: it's not all Instagram). This bali visa guide is POC #2 for rumroom.world, her personal travel blog.
+Kseniia writes about visa processes, long-term travel planning, and the practical logistics of relocating or staying long-term in Southeast Asia. This guide is part of rumroom.world's Bali practical series.
 
